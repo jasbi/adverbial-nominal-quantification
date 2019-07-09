@@ -6,7 +6,7 @@ output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE)
 ```
 
 ```{r libraries, include=FALSE}
@@ -66,7 +66,7 @@ tidy_data %>%
 ```
 
 
-```{r}
+```{r boxplot}
 tidy_data %>%
   ggplot(aes(reorder(quantifier, response, mean), response, color=condition), fill=condition) +
   geom_boxplot() +
@@ -80,5 +80,5 @@ tidy_data %>%
 K-means Clustering
 
 ```{r kmeansClustering}
-kmeans
+
 ```
