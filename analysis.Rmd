@@ -67,8 +67,10 @@ tidy_data %>%
 
 
 ```{r boxplot}
+tidy_data$quantifier <- reorder(tidy_data$quantifier, tidy_data$response, mean)
+
 tidy_data %>%
-  ggplot(aes(reorder(quantifier, response, mean), response, color=condition), fill=condition) +
+  ggplot(aes(quantifier, response, color=condition), fill=condition) +
   geom_boxplot() +
   geom_jitter(size=1) +
   theme_few() + 
@@ -80,5 +82,41 @@ tidy_data %>%
 K-means Clustering
 
 ```{r kmeansClustering}
+kmeans_data1 <-
+  tidy_data %>%
+  filter(condition=="nominal") %>%
+  spread(quantifier, response) %>%
+  select(-sid, -condition)
 
+kmeans_data2 <-
+  tidy_data %>%
+  filter(condition=="temporal") %>%
+  spread(quantifier, response) %>%
+  select(-sid, -condition)
+
+kmeans_data <- 
+  bind_cols(kmeans_data1, kmeans_data2) %>%
+  select(-no_days, Never) %>%
+  drop_na()
+
+df2 <- data.frame(t(kmeans_data[-1]))
+colnames(df2) <- kmeans_data[, 1]
+  
+quantifier_clusters <- kmeans(df2, centers=4, nstart = 25)
+quantifier_clusters$cluster
 ```
+
+4 clusters:
+
+* each-day, every-day, all-days, always
+* often, usually, frequently, mostly, many-days, most-days
+* infrequently, sometimes, some-days,
+* few-days, several-days, seldom, rarely, occasionally, (never)
+
+5 clusters:
+
+* every-day, each-day, always
+* often, usually
+* most-days, many-days, frequently, mostly
+* few-days, several-days, rarely, occasionally, never
+* some-days, some-times
