@@ -1,0 +1,84 @@
+---
+title: "Data Wrangling and Analysis of Experiment Results"
+author: "Masoud Jasbi"
+date: "7/8/2019"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r libraries, include=FALSE}
+library(tidyverse)
+library(ggthemes)
+library(VIM)
+```
+
+## Data Wrangling
+
+```{r import_data}
+qualtrics_data <- read.csv("data/raw/Pilot-Quantifiers-data-trimmed.csv", na.strings = "")
+
+N_dropout <-
+  qualtrics_data %>%
+  filter(Finished=="FALSE") %>%
+  nrow()
+
+N_participants <- 
+    qualtrics_data %>%
+  filter(Finished=="TRUE") %>%
+  nrow()
+```
+
+Total of `r N_dropout + N_participants` took this survey. `r N_dropout` did not finish the survey and dropped out. The results for `r N_participants` are reported.
+
+```{r}
+tidy_data <-
+  qualtrics_data %>%
+  filter(Finished=="TRUE") %>%
+  mutate(sid=c(1:56)) %>%
+  select(-Finished) %>%
+  gather(quantifier, response, Every_day:Never) %>%
+  drop_na(response) %>%
+  mutate(condition = c(rep("nominal", 255), rep("temporal", 297))) %>%
+  mutate(response = as.numeric(response))
+
+write_csv(tidy_data, "data/processed/Pilot-Quantifiers-data-processed.csv")
+```
+
+## Plots
+
+```{r QuantifierDistribution}
+tidy_data %>%
+  ggplot(aes(response)) +
+  geom_histogram() + 
+  facet_wrap(.~quantifier) +
+  theme_few()
+```
+
+```{r conditionDistribution}
+tidy_data %>%
+  ggplot(aes(response)) +
+  geom_histogram() + 
+  facet_wrap(.~condition) +
+  theme_few()
+```
+
+
+```{r}
+tidy_data %>%
+  ggplot(aes(reorder(quantifier, response, mean), response, color=condition), fill=condition) +
+  geom_boxplot() +
+  geom_jitter(size=1) +
+  theme_few() + 
+  theme(axis.text.x = element_text(angle=45, hjust = 1, vjust = 1))
+```
+
+## Analysis
+
+K-means Clustering
+
+```{r kmeansClustering}
+kmeans
+```
