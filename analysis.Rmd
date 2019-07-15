@@ -118,5 +118,7 @@ quantifier_clusters$cluster
 * every-day, each-day, always
 * often, usually
 * most-days, many-days, frequently, mostly
-* few-days, several-days, rarely, occasionally, never
+* few-days, several-days, rarely, occasionally, (never)
 * some-days, some-times
+
+(never should be interpreted with caution because there were not enough data points and its similar quantifiers were ommitted in a previoius step)
