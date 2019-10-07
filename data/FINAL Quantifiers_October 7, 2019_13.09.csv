@@ -1,0 +1,2004 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q22_1,Q39_1,Q41_1,Q43_1,Q45_1,Q47_1,Q49_1,Q51_1,Q53_1,Q55_1,Q227_1,Q57_1,Q59_1,Q61_1,Q63_1,Q65_1,Q67_1,Q69_1,Q71_1,Q73_1,Q75_1,Q229_1,Q58_1,Q60_1,Q62_1,Q64_1,Q66_1,Q68_1,Q70_1,Q72_1,Q74_1,Q76_1,Q231_1,Q68_1,Q70_1,Q72_1,Q74_1,Q76_1,Q78_1,Q80_1,Q82_1,Q84_1,Q86_1,Q233_1,Q78_1,Q80_1,Q82_1,Q84_1,Q86_1,Q88_1,Q90_1,Q92_1,Q94_1,Q96_1,Q235_1,Q88_1,Q90_1,Q92_1,Q94_1,Q96_1,Q98_1,Q100_1,Q102_1,Q104_1,Q106_1,Q237_1,Q98_1,Q100_1,Q102_1,Q104_1,Q106_1,Q108_1,Q110_1,Q112_1,Q114_1,Q116_1,Q239_1,Q108_1,Q110_1,Q112_1,Q114_1,Q116_1,Q118_1,Q120_1,Q122_1,Q124_1,Q126_1,Q241_1,Q128_1,Q130_1,Q132_1,Q134_1,Q136_1,Q138_1,Q140_1,Q142_1,Q144_1,Q146_1,Q243_1,Q148_1,Q150_1,Q152_1,Q154_1,Q156_1,Q158_1,Q160_1,Q162_1,Q164_1,Q166_1,Q245_1,Q240_1,Q246_1,Q140_1,Q146_1,Q156_1,Q150_1,Q148_1,Q154_1,Q144_1,Q158_1,Q138_1,Q152_1,Q142_1,Q149_1,Q151_1,Q153_1,Q155_1,Q157_1,Q159_1,Q161_1,Q163_1,Q165_1,Q167_1,Q169_1,Q171_1,Q173_1,Q175_1,Q177_1,Q179_1,Q181_1,Q183_1,Q185_1,Q187_1,Q189_1,Q191_1,Q171_1,Q173_1,Q175_1,Q177_1,Q179_1,Q181_1,Q183_1,Q185_1,Q187_1,Q189_1,Q191_1,Q150_1,Q152_1,Q154_1,Q156_1,Q158_1,Q160_1,Q162_1,Q164_1,Q166_1,Q168_1,Q170_1,Q172_1,Q174_1,Q176_1,Q178_1,Q180_1,Q182_1,Q184_1,Q186_1,Q188_1,Q190_1,Q192_1,Q194_1,Q196_1,Q198_1,Q200_1,Q202_1,Q204_1,Q206_1,Q208_1,Q210_1,Q212_1,Q214_1,Q183_1,Q185_1,Q187_1,Q189_1,Q191_1,Q193_1,Q195_1,Q197_1,Q199_1,Q201_1,Q203_1,Q194_1,Q196_1,Q198_1,Q200_1,Q202_1,Q204_1,Q206_1,Q208_1,Q210_1,Q212_1,Q214_1,Q205_1,Q207_1,Q209_1,Q211_1,Q213_1,Q215_1,Q217_1,Q219_1,Q221_1,Q223_1,Q225_1,Q227_1,Q229_1,Q231_1,Q233_1,Q235_1,Q237_1,Q239_1,Q241_1,Q243_1,Q245_1,Q247_1,Q238,Q239,mTurkCode
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,"What if I told you that:
+ 
+
+Bill went to the grocery store after work every day.
+
+ 
+
+How many days out of 100 did Bill go to the grocery store after work? - 1","What if I told you that:
+ 
+
+Bill woke up early every day.
+
+ 
+
+How many days out of 100 did Bill wake up early? - 1","What if I told you that:
+ 
+
+Bill brushed his teeth before bed every day.
+
+ 
+
+How many days out of 100 did Bill brush his teeth? - 1","What if I told you that:
+ 
+
+Bill went for a morning jog every day.
+
+ 
+
+How many days out of 100 did Bill go for a morning jog? - 1","What if I told you that:
+ 
+
+Bill ate eggs for breakfast every day.
+
+ 
+
+How many days out of 100 did Bill eat eggs for breakfast? - 1","What if I told you that:
+ 
+
+Bill drove to work every day.
+
+ 
+
+How many days out of 100 did Bill drive to work? - 1","What if I told you that:
+ 
+
+Bill ate a sandwich for lunch every day.
+
+ 
+
+How many days out of 100 did Bill eat a sandwich for lunch? - 1","What if I told you that:
+ 
+
+Bill arrived at work late every day.
+
+ 
+
+How many days out of 100 did Bill arrive at work late? - 1","What if I told you that:
+ 
+
+Bill went to bed late every day.
+
+ 
+
+How many days out of 100 did Bill go to bed late? - 1","What if I told you that:
+ 
+
+Bill ate pizza for dinner every day.
+
+ 
+
+How many days out of 100 did Bill eat pizza for dinner? - 1","What if I told you that:
+
+ 
+
+Bill biked home from work every day.
+
+ 
+
+How many days out of 100 did Bill bike home from work? - 1","What if I told you that: 
+
+Bill went to the grocery store after work each day.
+
+ 
+
+How many days out of 100 did Bill go to the grocery store after work? - 1","What if I told you that: 
+
+Bill woke up early each day.
+
+ 
+
+How many days out of 100 did Bill wake up early? - 1","What if I told you that:
+ 
+
+Bill brushed his teeth before bed each day.
+
+ 
+
+How many days out of 100 did Bill brush his teeth? - 1","What if I told you that:
+ 
+
+Bill went for a morning jog each day.
+
+ 
+
+How many days out of 100 did Bill go for a morning jog? - 1","What if I told you that:
+ 
+
+Bill ate eggs for breakfast each day.
+
+ 
+
+How many days out of 100 did Bill eat eggs for breakfast? - 1","What if I told you that:
+ 
+
+Bill drove to work each day.
+
+ 
+
+How many days out of 100 did Bill drive to work? - 1","What if I told you that:
+ 
+
+Bill ate a sandwich for lunch each day.
+
+ 
+
+How many days out of 100 did Bill eat a sandwich for lunch? - 1","What if I told you that:
+ 
+
+Bill arrived at work late each day.
+
+ 
+
+How many days out of 100 did Bill arrive at work late? - 1","What if I told you that:
+ 
+
+Bill went to bed late each day.
+
+ 
+
+How many days out of 100 did Bill go to bed late? - 1","What if I told you that:
+ 
+
+Bill ate pizza for dinner each day.
+
+ 
+
+How many days out of 100 did Bill eat pizza for dinner? - 1","What if I told you that:
+
+
+Bill biked home from work each day.
+
+ 
+
+How many days out of 100 did Bill bike home from work? - 1","What if I told you that:
+ 
+
+Bill went to the grocery store after work all days.
+
+ 
+
+How many days out of 100 did Bill go to the grocery store after work? - 1","What if I told you that:
+ 
+
+Bill woke up early all days.
+
+ 
+
+How many days out of 100 did Bill wake up early? - 1","What if I told you that:
+ 
+
+Bill brushed his teeth before bed all days.
+
+ 
+
+How many days out of 100 did Bill brush his teeth? - 1","What if I told you that:
+ 
+
+Bill went for a morning jog all days.
+
+ 
+
+How many days out of 100 did Bill go for a morning jog? - 1","What if I told you that:
+ 
+
+Bill ate eggs for breakfast all days.
+
+ 
+
+How many days out of 100 did Bill eat eggs for breakfast? - 1","What if I told you that:
+ 
+
+Bill drove to work all days.
+
+ 
+
+How many days out of 100 did Bill drive to work? - 1","What if I told you that:
+ 
+
+Bill ate a sandwich for lunch all days.
+
+ 
+
+How many days out of 100 did Bill eat a sandwich for lunch? - 1","What if I told you that:
+ 
+
+Bill arrived at work late all days.
+
+ 
+
+How many days out of 100 did Bill arrive at work late? - 1","What if I told you that:
+ 
+
+Bill went to bed late all days.
+
+ 
+
+How many days out of 100 did Bill go to bed late? - 1","What if I told you that:
+ 
+
+Bill ate pizza for dinner all days.
+
+ 
+
+How many days out of 100 did Bill eat pizza for dinner? - 1","What if I told you that:
+
+ 
+
+Bill biked home from work all days.
+
+ 
+
+How many days out of 100 did Bill bike home from work? - 1","What if I told you that:
+ 
+
+Bill went to the grocery store after work most days.
+
+ 
+
+How many days out of 100 did Bill go to the grocery store after work? - 1","What if I told you that:
+ 
+
+Bill woke up early most days.
+
+ 
+
+How many days out of 100 did Bill wake up early? - 1","What if I told you that:
+ 
+
+Bill brushed his teeth before bed most days.
+
+ 
+
+How many days out of 100 did Bill brush his teeth? - 1","What if I told you that:
+ 
+
+Bill went for a morning jog most days.
+
+ 
+
+How many days out of 100 did Bill go for a morning jog? - 1","What if I told you that:
+ 
+
+Bill ate eggs for breakfast most days.
+
+ 
+
+How many days out of 100 did Bill eat eggs for breakfast? - 1","What if I told you that:
+ 
+
+Bill drove to work most days.
+
+ 
+
+How many days out of 100 did Bill drive to work? - 1","What if I told you that:
+ 
+
+Bill ate a sandwich for lunch most days.
+
+ 
+
+How many days out of 100 did Bill eat a sandwich for lunch? - 1","What if I told you that:
+ 
+
+Bill arrived at work late most days.
+
+ 
+
+How many days out of 100 did Bill arrive at work late? - 1","What if I told you that:
+ 
+
+Bill went to bed late most days.
+
+ 
+
+How many days out of 100 did Bill go to bed late? - 1","What if I told you that:
+ 
+
+Bill ate pizza for dinner most days.
+
+ 
+
+How many days out of 100 did Bill eat pizza for dinner? - 1","What if I told you that:
+
+ 
+
+Bill biked home from work most days.
+
+ 
+
+How many days out of 100 did Bill bike home from work? - 1","What if I told you that:
+ 
+
+Bill went to the grocery store after work many days.
+
+ 
+
+How many days out of 100 did Bill go to the grocery store after work? - 1","What if I told you that:
+ 
+
+Bill woke up early many days.
+
+ 
+
+How many days out of 100 did Bill wake up early? - 1","What if I told you that:
+ 
+
+Bill brushed his teeth before bed many days.
+
+ 
+
+How many days out of 100 did Bill brush his teeth? - 1","What if I told you that:
+ 
+
+Bill went for a morning jog many days.
+
+ 
+
+How many days out of 100 did Bill go for a morning jog? - 1","What if I told you that:
+ 
+
+Bill ate eggs for breakfast many days.
+
+ 
+
+How many days out of 100 did Bill eat eggs for breakfast? - 1","What if I told you that:
+ 
+
+Bill drove to work many days.
+
+ 
+
+How many days out of 100 did Bill drive to work? - 1","What if I told you that:
+ 
+
+Bill ate a sandwich for lunch many days.
+
+ 
+
+How many days out of 100 did Bill eat a sandwich for lunch? - 1","What if I told you that:
+ 
+
+Bill arrived at work late many days.
+
+ 
+
+How many days out of 100 did Bill arrive at work late? - 1","What if I told you that:
+ 
+
+Bill went to bed late many days.
+
+ 
+
+How many days out of 100 did Bill go to bed late? - 1","What if I told you that:
+ 
+
+Bill ate pizza for dinner many days.
+
+ 
+
+How many days out of 100 did Bill eat pizza for dinner? - 1","What if I told you that:
+
+ 
+
+Bill biked home from work many days. 
+
+ 
+
+How many days out of 100 did Bill bike home from work? - 1","What if I told you that:
+ 
+
+Bill went to the grocery store after work some days.
+
+ 
+
+How many days out of 100 did Bill go to the grocery store after work? - 1","What if I told you that:
+ 
+
+Bill woke up early some days.
+
+ 
+
+How many days out of 100 did Bill wake up early? - 1","What if I told you that:
+ 
+
+Bill brushed his teeth before bed some days.
+
+ 
+
+How many days out of 100 did Bill brush his teeth? - 1","What if I told you that:
+ 
+
+Bill went for a morning jog some days.
+
+ 
+
+How many days out of 100 did Bill go for a morning jog? - 1","What if I told you that:
+ 
+
+Bill ate eggs for breakfast some days.
+
+ 
+
+How many days out of 100 did Bill eat eggs for breakfast? - 1","What if I told you that:
+ 
+
+Bill drove to work some days. 
+
+ 
+
+How many days out of 100 did Bill drive to work? - 1","What if I told you that:
+ 
+
+Bill ate a sandwich for lunch some days.
+
+ 
+
+How many days out of 100 did Bill eat a sandwich for lunch? - 1","What if I told you that:
+ 
+
+Bill arrived at work late some days.
+
+ 
+
+How many days out of 100 did Bill arrive at work late? - 1","What if I told you that:
+ 
+
+Bill went to bed late some days.
+
+ 
+
+How many days out of 100 did Bill go to bed late? - 1","What if I told you that:
+ 
+
+Bill ate pizza for dinner some days.
+
+ 
+
+How many days out of 100 did Bill eat pizza for dinner? - 1","What if I told you that:
+
+ 
+
+Bill biked home from work some days.
+
+ 
+
+How many days out of 100 did Bill bike home from work? - 1","What if I told you that:
+ 
+
+Bill went to the grocery store after work several days.
+
+ 
+
+How many days out of 100 did Bill go to the grocery store after work? - 1","What if I told you that:
+ 
+
+Bill woke up early several days.
+
+ 
+
+How many days out of 100 did Bill wake up early? - 1","What if I told you that:
+ 
+
+Bill brushed his teeth before bed several days.
+
+ 
+
+How many days out of 100 did Bill brush his teeth? - 1","What if I told you that:
+ 
+
+Bill went for a morning jog several days.
+
+ 
+
+How many days out of 100 did Bill go for a morning jog? - 1","What if I told you that:
+ 
+
+Bill ate eggs for breakfast several days.
+
+ 
+
+How many days out of 100 did Bill eat eggs for breakfast? - 1","What if I told you that:
+ 
+
+Bill drove to work several days.
+
+ 
+
+How many days out of 100 did Bill drive to work? - 1","What if I told you that:
+
+Bill ate a sandwich for lunch several days.
+How many days out of 100 did Bill eat a sandwich for lunch? - 1","What if I told you that:
+ 
+
+Bill arrived at work late several days.
+
+ 
+
+How many days out of 100 did Bill arrive at work late? - 1","What if I told you that:
+ 
+
+Bill went to bed late several days.
+
+ 
+
+How many days out of 100 did Bill go to bed late? - 1","What if I told you that:
+ 
+
+Bill ate pizza for dinner several days.
+
+ 
+
+How many days out of 100 did Bill eat pizza for dinner? - 1","What if I told you that:
+
+ 
+
+Bill biked home from work several days.
+
+ 
+
+How many days out of 100 did Bill bike home from work? - 1","What if I told you that:
+ 
+
+Bill went to the grocery store after work a few days.
+
+ 
+
+How many days out of 100 did Bill go to the grocery store after work? - 1","What if I told you that:
+ 
+
+Bill woke up early a few days.
+
+ 
+
+How many days out of 100 did Bill wake up early? - 1","What if I told you that:
+ 
+
+Bill brushed his teeth before bed a few days.
+
+ 
+
+How many days out of 100 did Bill brush his teeth? - 1","What if I told you that:
+ 
+
+Bill went for a morning jog a few days.
+
+ 
+
+How many days out of 100 did Bill go for a morning jog? - 1","What if I told you that:
+ 
+
+Bill ate eggs for breakfast a few days.
+
+ 
+
+How many days out of 100 did Bill eat eggs for breakfast? - 1","What if I told you that:
+ 
+
+Bill drove to work a few days.
+
+ 
+
+How many days out of 100 did Bill drive to work? - 1","What if I told you that:
+ 
+
+Bill ate a sandwich for lunch a few days.
+
+ 
+
+How many days out of 100 did Bill eat a sandwich for lunch? - 1","What if I told you that:
+ 
+
+Bill arrived at work late a few days.
+
+ 
+
+How many days out of 100 did Bill arrive at work late? - 1","What if I told you that:
+ 
+
+Bill went to bed late a few days.
+
+ 
+
+How many days out of 100 did Bill go to bed late? - 1","What if I told you that:
+ 
+
+Bill ate pizza for dinner a few days.
+
+ 
+
+How many days out of 100 did Bill eat pizza for dinner? - 1","What if I told you that:
+
+ 
+
+Bill biked home from work a few days.
+
+ 
+
+How many days out of 100 did Bill bike home from work? - 1","What if I told you that:
+ 
+
+Bill went to the grocery store after work few days.
+
+ 
+
+How many days out of 100 did Bill go to the grocery store after work? - 1","What if I told you that:
+ 
+
+Bill woke up early few days.
+
+ 
+
+How many days out of 100 did Bill wake up early? - 1","What if I told you that:
+ 
+
+Bill brushed his teeth before bed few days.
+
+ 
+
+How many days out of 100 did Bill brush his teeth? - 1","What if I told you that:
+ 
+
+Bill went for a morning jog few days.
+
+ 
+
+How many days out of 100 did Bill go for a morning jog? - 1","What if I told you that:
+ 
+
+Bill ate eggs for breakfast few days.
+
+ 
+
+How many days out of 100 did Bill eat eggs for breakfast? - 1","What if I told you that:
+ 
+
+Bill drove to work few days.
+
+ 
+
+How many days out of 100 did Bill drive to work? - 1","What if I told you that:
+ 
+
+Bill ate a sandwich for lunch few days.
+
+ 
+
+How many days out of 100 did Bill eat a sandwich for lunch? - 1","What if I told you that:
+ 
+
+Bill arrived at work late few days.
+
+ 
+
+How many days out of 100 did Bill arrive at work late? - 1","What if I told you that:
+ 
+
+Bill went to bed late few days.
+
+ 
+
+How many days out of 100 did Bill go to bed late? - 1","What if I told you that:
+ 
+
+Bill ate pizza for dinner few days.
+
+ 
+
+How many days out of 100 did Bill eat pizza for dinner? - 1","What if I told you that:
+
+ 
+
+Bill biked home from work few days.
+
+ 
+
+How many days out of 100 did Bill bike home from work? - 1","What if I told you that:
+ 
+
+Bill went to the grocery store after work no days.
+
+ 
+
+How many days out of 100 did Bill go to the grocery store after work? - 1","What if I told you that:
+ 
+
+Bill woke up early no days.
+
+ 
+
+How many days out of 100 did Bill wake up early? - 1","What if I told you that:
+ 
+
+Bill brushed his teeth before bed no days.
+
+ 
+
+How many days out of 100 did Bill brush his teeth? - 1","What if I told you that:
+ 
+
+Bill went for a morning jog no days.
+
+ 
+
+How many days out of 100 did Bill go for a morning jog? - 1","What if I told you that:
+ 
+
+Bill ate eggs for breakfast no days.
+
+ 
+
+How many days out of 100 did Bill eat eggs for breakfast? - 1","What if I told you that:
+ 
+
+Bill drove to work no days.
+
+ 
+
+How many days out of 100 did Bill drive to work? - 1","What if I told you that:
+ 
+
+Bill ate a sandwich for lunch no days.
+
+ 
+
+How many days out of 100 did Bill eat a sandwich for lunch? - 1","What if I told you that:
+ 
+
+Bill arrived at work late no days.
+
+ 
+
+How many days out of 100 did Bill arrive at work late? - 1","What if I told you that:
+ 
+
+Bill went to bed late no days.
+
+ 
+
+How many days out of 100 did Bill go to bed late? - 1","What if I told you that:
+ 
+
+Bill ate pizza for dinner no days.
+
+ 
+
+How many days out of 100 did Bill eat pizza for dinner? - 1","What if I told you that:
+
+ 
+
+Bill biked home from work no days.
+
+ 
+
+How many days out of 100 did Bill bike home from work? - 1","Use the slider to match the number displayed below. Double-check to ensure that your response is correct. 
+ 70 - 1","Use the slider to match the number displayed below. Double-check to ensure that your response is correct.
+30 - 1","What if I told you that:
+
+ 
+
+Bill always went to the grocery store after work.
+
+ 
+
+How many days out of 100 did Bill go to the grocery store after work? - 1","What if I told you that:
+
+ 
+
+Bill always woke up early.
+
+ 
+
+How many days out of 100 did Bill wake up early? - 1","What if I told you that:
+
+ 
+
+Bill always brushed his teeth before bed.
+
+ 
+
+How many days out of 100 did Bill brush his teeth before bed? - 1","What if I told you that:
+
+ 
+
+Bill always went for a morning jog.
+
+ 
+
+How many days out of 100 did Bill go for a morning jog? - 1","What if I told you that:
+
+ 
+
+Bill always ate eggs for breakfast.
+
+ 
+
+How many days out of 100 did Bill eat eggs for breakfast? - 1","What if I told you that:
+
+ 
+
+Bill always drove to work.
+
+ 
+
+How many days out of 100 did Bill drive to work? - 1","What if I told you that:
+
+ 
+
+Bill always ate a sandwich for lunch.
+
+ 
+
+How many days out of 100 did Bill eat a sandwich for lunch? - 1","What if I told you that:
+
+ 
+
+Bill always arrived at work late.
+
+ 
+
+How many days out of 100 did Bill arrive at work late? - 1","What if I told you that:
+
+ 
+
+Bill always went to bed late. 
+
+ 
+
+How many days out of 100 did Bill go to bed late? - 1","What if I told you that:
+
+ 
+
+Bill always ate pizza for dinner.
+
+ 
+
+How many days out of 100 did Bill eat pizza for dinner? - 1","What if I told you that:
+
+ 
+
+Bill always biked home from work.
+
+ 
+
+How many days out of 100 did Bill bike home from work? - 1","What if I told you that:
+
+ 
+
+Bill usually went to the grocery store after work.
+
+ 
+
+How many days out of 100 did Bill go to the grocery store after work? - 1","What if I told you that:
+
+ 
+
+Bill usually woke up early.
+
+ 
+
+How many days out of 100 did Bill wake up early? - 1","What if I told you that:
+
+ 
+
+Bill usually brushed his teeth before bed.
+
+ 
+
+How many days out of 100 did Bill brush his teeth before bed? - 1","What if I told you that:
+
+ 
+
+Bill usually went for a morning jog.
+
+ 
+
+How many days out of 100 did Bill go for a morning jog? - 1","What if I told you that:
+
+ 
+
+Bill usually ate eggs for breakfast.
+
+ 
+
+How many days out of 100 did Bill eat eggs for breakfast? - 1","What if I told you that:
+
+ 
+
+Bill usually drove to work.
+
+ 
+
+How many days out of 100 did Bill drive to work? - 1","What if I told you that:
+
+ 
+
+Bill usually ate a sandwich for lunch.
+
+ 
+
+How many days out of 100 did Bill eat a sandwich for lunch? - 1","What if I told you that:
+
+ 
+
+Bill usually arrived at work late.
+
+ 
+
+How many days out of 100 did Bill arrive at work late? - 1","What if I told you that:
+
+ 
+
+Bill usually went to bed late. 
+
+ 
+
+How many days out of 100 did Bill go to bed late? - 1","What if I told you that:
+
+ 
+
+Bill usually ate pizza for dinner.
+
+ 
+
+How many days out of 100 did Bill eat pizza for dinner? - 1","What if I told you that:
+
+ 
+
+Bill usually biked home from work.
+
+ 
+
+How many days out of 100 did Bill bike home from work? - 1","What if I told you that:
+
+ 
+
+Bill mostly went to the grocery store after work.
+
+ 
+
+How many days out of 100 did Bill go to the grocery store after work? - Bill mostly went to the grocery store after work.","What if I told you that:
+
+ 
+
+Bill mostly woke up early.
+
+ 
+
+How many days out of 100 did Bill wake up early? - 1","What if I told you that:
+
+ 
+
+Bill mostly brushed his teeth before bed.
+
+ 
+
+How many days out of 100 did Bill brush his teeth before bed? - 1","What if I told you that:
+
+ 
+
+Bill mostly went for a morning jog.
+
+ 
+
+How many days out of 100 did Bill go for a morning jog? - 1","What if I told you that:
+
+ 
+
+Bill mostly ate eggs for breakfast.
+
+ 
+
+How many days out of 100 did Bill eat eggs for breakfast? - 1","What if I told you that:
+
+ 
+
+Bill mostly drove to work.
+
+ 
+
+How many days out of 100 did Bill drive to work? - 1","What if I told you that:
+
+ 
+
+Bill mostly ate a sandwich for lunch.
+
+ 
+
+How many days out of 100 did Bill eat a sandwich for lunch? - 1","What if I told you that: 
+
+ 
+
+Bill mostly arrived at work late.
+
+ 
+
+How many days out of 100 did Bill arrive at work late? - 1","What if I told you that:
+
+ 
+
+Bill mostly went to bed late. 
+
+ 
+
+How many days out of 100 did Bill go to bed late? - 1","What if I told you that:
+
+ 
+
+Bill mostly ate pizza for dinner.
+
+ 
+
+How many days out of 100 did Bill eat pizza for dinner? - 1","What if I told you that:
+
+ 
+
+Bill mostly biked home from work.
+
+ 
+
+How many days out of 100 did Bill bike home from work? - 1","What if I told you that:
+
+ 
+
+Bill often went to the grocery store after work.
+
+ 
+
+How many days out of 100 did Bill go to the grocery store after work? - 1","What if I told you that: 
+
+ 
+
+Bill often woke up early.
+
+ 
+
+How many days out of 100 did Bill wake up early? - 1","What if I told you that:
+
+ 
+
+Bill often brushed his teeth before bed.
+
+ 
+
+How many days out of 100 did Bill brush his teeth before bed? - 1","What if I told you that:
+
+ 
+
+Bill often went for a morning jog.
+
+ 
+
+How many days out of 100 did Bill go for a morning jog? - 1","What if I told you that:
+
+ 
+
+Bill often ate eggs for breakfast.
+
+ 
+
+How many days out of 100 did Bill eat eggs for breakfast? - 1","What if I told you that:
+
+ 
+
+Bill often drove to work.
+
+ 
+
+How many days out of 100 did Bill drive to work? - 1","What if I told you that:
+
+ 
+
+Bill often ate a sandwich for lunch.
+
+ 
+
+How many days out of 100 did Bill eat a sandwich for lunch? - 1","What if I told you that:
+
+ 
+
+Bill often arrived at work late.
+
+ 
+
+How many days out of 100 did Bill arrive at work late? - 1","What if I told you that:
+
+ 
+
+Bill often went to bed late. 
+
+ 
+
+How many days out of 100 did Bill go to bed late? - 1","What if I told you that:
+
+ 
+
+Bill often ate pizza for dinner.
+
+ 
+
+How many days out of 100 did Bill eat pizza for dinner? - 1","What if I told you that:
+
+ 
+
+Bill often biked home from work.
+
+ 
+
+How many days out of 100 did Bill bike home from work? - 1","What if I told you that:
+
+ 
+
+Bill frequently went to the grocery store after work.
+
+ 
+
+How many days out of 100 did Bill go to the grocery store after work? - 1","What if I told you that:
+
+ 
+
+Bill frequently woke up early.
+
+ 
+
+How many days out of 100 did Bill wake up early? - 1","What if I told you that: 
+
+ 
+
+Bill frequently brushed his teeth before bed.
+
+ 
+
+How many days out of 100 did Bill brush his teeth before bed? - 1","What if I told you that:
+
+ 
+
+Bill frequently went for a morning jog.
+
+ 
+
+How many days out of 100 did Bill go for a morning jog? - 1","What if I told you that:
+
+
+Bill frequently ate eggs for breakfast.
+
+ 
+
+How many days out of 100 did Bill eat eggs for breakfast? - 1","What if I told you that:
+
+ 
+
+Bill frequently drove to work.
+
+ 
+
+How many days out of 100 did Bill drive to work? - 1","What if I told you that:
+
+ 
+
+Bill frequently ate a sandwich for lunch.
+
+ 
+
+How many days out of 100 did Bill eat a sandwich for lunch? - 1","What if I told you that:
+
+ 
+
+Bill frequently arrived at work late.
+
+ 
+
+How many days out of 100 did Bill arrive at work late? - 1","What if I told you that:
+
+ 
+
+Bill frequently went to bed late. 
+
+ 
+
+How many days out of 100 did Bill go to bed late? - 1","What if I told you that:
+
+ 
+
+Bill frequently ate pizza for dinner.
+
+ 
+
+How many days out of 100 did Bill eat pizza for dinner? - 1","What if I told you that:
+
+ 
+
+Bill frequently biked home from work.
+
+ 
+
+How many days out of 100 did Bill bike home from work? - 1","What if I told you that:
+
+ 
+
+Bill sometimes went to the grocery store after work.
+
+ 
+
+How many days out of 100 did Bill go to the grocery store after work? - 1","What if I told you that:
+
+ 
+
+Bill sometimes woke up early.
+
+ 
+
+How many days out of 100 did Bill wake up early? - 1","What if I told you that:
+
+ 
+
+Bill sometimes brushed his teeth before bed.
+
+ 
+
+How many days out of 100 did Bill brush his teeth before bed? - 1","What if I told you that:
+
+ 
+
+Bill sometimes went for a morning jog.
+
+ 
+
+How many days out of 100 did Bill go for a morning jog? - 1","What if I told you that:
+
+ 
+
+Bill sometimes ate eggs for breakfast.
+
+ 
+
+How many days out of 100 did Bill eat eggs for breakfast? - 1","What if I told you that:
+
+ 
+
+Bill sometimes drove to work.
+
+ 
+
+How many days out of 100 did Bill drive to work? - 1","What if I told you that:
+
+ 
+
+Bill sometimes ate a sandwich for lunch.
+
+ 
+
+How many days out of 100 did Bill eat a sandwich for lunch? - 1","What if I told you that:
+
+ 
+
+Bill sometimes arrived at work late.
+
+ 
+
+How many days out of 100 did Bill arrive at work late? - 1","What if I told you that:
+
+ 
+
+Bill sometimes went to bed late. 
+
+ 
+
+How many days out of 100 did Bill go to bed late? - 1","What if I told you that:
+
+ 
+
+Bill sometimes ate pizza for dinner.
+
+ 
+
+How many days out of 100 did Bill eat pizza for dinner? - 1","What if I told you that:
+
+ 
+
+Bill sometimes biked home from work.
+
+ 
+
+How many days out of 100 did Bill bike home from work? - 1","What if I told you that:
+
+ 
+
+Bill occasionally went to the grocery store after work.
+
+ 
+
+How many days out of 100 did Bill go to the grocery store after work? - 1","What if I told you that:
+
+ 
+
+Bill occasionally woke up early.
+
+ 
+
+How many days out of 100 did Bill wake up early? - 1","What if I told you that:
+
+ 
+
+Bill occasionally brushed his teeth before bed.
+
+ 
+
+How many days out of 100 did Bill brush his teeth before bed? - 1","What if I told you that:
+
+
+Bill occasionally went for a morning jog.
+
+ 
+
+How many days out of 100 did Bill go for a morning jog? - 1","What if I told you that:
+
+ 
+
+Bill occasionally ate eggs for breakfast.
+
+ 
+
+How many days out of 100 did Bill eat eggs for breakfast? - 1","What if I told you that:
+
+ 
+
+Bill occasionally drove to work.
+
+ 
+
+How many days out of 100 did Bill drive to work? - 1","What if I told you that:
+
+ 
+
+Bill occasionally ate a sandwich for lunch.
+
+ 
+
+How many days out of 100 did Bill eat a sandwich for lunch? - 1","What if I told you that:
+
+ 
+
+Bill occasionally arrived at work late.
+
+ 
+
+How many days out of 100 did Bill arrive at work late? - 1","What if I told you that:
+
+ 
+
+Bill occasionally went to bed late. 
+
+ 
+
+How many days out of 100 did Bill go to bed late? - 1","What if I told you that:
+
+ 
+
+Bill occasionally ate pizza for dinner.
+
+ 
+
+How many days out of 100 did Bill eat pizza for dinner? - 1","What if I told you that:
+
+ 
+
+Bill occasionally biked home from work.
+
+ 
+
+How many days out of 100 did Bill bike home from work? - 1","What if I told you that:
+
+ 
+
+Bill seldom went to the grocery store after work.
+
+ 
+
+How many days out of 100 did Bill go to the grocery store after work? - 1","What if I told you that:
+
+ 
+
+Bill seldom woke up early.
+
+ 
+
+How many days out of 100 did Bill wake up early? - 1","What if I told you that:
+
+ 
+
+Bill seldom brushed his teeth before bed.
+
+ 
+
+How many days out of 100 did Bill brush his teeth before bed? - 1","What if I told you that:
+
+ 
+
+Bill seldom went for a morning jog.
+
+ 
+
+How many days out of 100 did Bill go for a morning jog? - 1","What if I told you that:
+
+ 
+
+Bill seldom ate eggs for breakfast.
+
+ 
+
+How many days out of 100 did Bill eat eggs for breakfast? - 1","What if I told you that:
+
+ 
+
+Bill seldom drove to work.
+
+ 
+
+How many days out of 100 did Bill drive to work? - 1","What if I told you that:
+
+ 
+
+Bill seldom ate a sandwich for lunch.
+
+ 
+
+How many days out of 100 did Bill eat a sandwich for lunch? - 1","What if I told you that:
+
+ 
+
+Bill seldom arrived at work late.
+
+ 
+
+How many days out of 100 did Bill arrive at work late? - 1","What if I told you that:
+
+ 
+
+Bill seldom went to bed late. 
+
+ 
+
+How many days out of 100 did Bill go to bed late? - 1","What if I told you that:
+
+ 
+
+Bill seldom ate pizza for dinner.
+
+ 
+
+How many days out of 100 did Bill eat pizza for dinner? - 1","What if I told you that:
+
+ 
+
+Bill seldom biked home from work.
+
+ 
+
+How many days out of 100 did Bill bike home from work? - 1","What if I told you that:
+
+ 
+
+Bill rarely went to the grocery store after work.
+
+ 
+
+How many days out of 100 did Bill go to the grocery store after work? - 1","What if I told you that:
+
+ 
+
+Bill rarely woke up early.
+
+ 
+
+How many days out of 100 did Bill wake up early? - 1","What if I told you that:
+
+ 
+
+Bill rarely brushed his teeth before bed.
+
+ 
+
+How many days out of 100 did Bill brush his teeth before bed? - 1","What if I told you that:
+
+ 
+
+Bill rarely went for a morning jog.
+
+ 
+
+How many days out of 100 did Bill go for a morning jog? - 1","What if I told you that:
+
+
+Bill rarely ate eggs for breakfast.
+
+ 
+
+How many days out of 100 did Bill eat eggs for breakfast? - 1","What if I told you that: 
+
+ 
+
+Bill rarely drove to work.
+
+ 
+
+How many days out of 100 did Bill drive to work? - 1","What if I told you that:
+
+ 
+
+Bill rarely ate a sandwich for lunch.
+
+ 
+
+How many days out of 100 did Bill eat a sandwich for lunch? - 1","What if I told you that:
+
+ 
+
+Bill rarely arrived at work late.
+
+ 
+
+How many days out of 100 did Bill arrive at work late? - 1","What if I told you that:
+
+ 
+
+Bill rarely went to bed late. 
+
+ 
+
+How many days out of 100 did Bill go to bed late? - 1","What if I told you that:
+
+ 
+
+Bill rarely ate pizza for dinner.
+
+ 
+
+How many days out of 100 did Bill eat pizza for dinner? - 1","What if I told you that:
+
+ 
+
+Bill rarely biked home from work.
+
+ 
+
+How many days out of 100 did Bill bike home from work? - 1","What if I told you that:
+
+ 
+
+Bill infrequently went to the grocery store after work.
+
+ 
+
+How many days out of 100 did Bill go to the grocery store after work? - 1","What if I told you that:
+
+ 
+
+Bill infrequently woke up early.
+
+ 
+
+How many days out of 100 did Bill wake up early? - 1","What if I told you that:
+
+ 
+
+Bill infrequently brushed his teeth before bed.
+
+ 
+
+How many days out of 100 did Bill brush his teeth before bed? - 1","What if I told you that:
+
+ 
+
+Bill infrequently went for a morning jog.
+
+ 
+
+How many days out of 100 did Bill go for a morning jog? - 1","What if I told you that:
+
+ 
+
+Bill infrequently ate eggs for breakfast.
+
+ 
+
+How many days out of 100 did Bill eat eggs for breakfast? - 1","What if I told you that:
+
+ 
+
+Bill infrequently drove to work.
+
+ 
+
+How many days out of 100 did Bill drive to work? - 1","What if I told you that:
+
+Bill infrequently ate a sandwich for lunch.
+How many days out of 100 did Bill eat a sandwich for lunch? - 1","What if I told you that:
+
+ 
+
+Bill infrequently arrived at work late.
+
+ 
+
+How many days out of 100 did Bill arrive at work late? - 1","What if I told you that:
+
+ 
+
+Bill infrequently went to bed late. 
+
+ 
+
+How many days out of 100 did Bill go to bed late? - 1","What if I told you that:
+
+ 
+
+Bill infrequently ate pizza for dinner.
+
+ 
+
+How many days out of 100 did Bill eat pizza for dinner? - 1","What if I told you that:
+
+ 
+
+Bill infrequently biked home from work.
+
+ 
+
+How many days out of 100 did Bill bike home from work? - 1","What if I told you that:
+
+ 
+
+Bill never went to the grocery store after work.
+
+ 
+
+How many days out of 100 did Bill go to the grocery store after work? - 1","What if I told you that:
+
+ 
+
+Bill never woke up early.
+
+ 
+
+How many days out of 100 did Bill wake up early? - 1","What if I told you that:
+
+ 
+
+Bill never brushed his teeth before bed.
+
+ 
+
+How many days out of 100 did Bill brush his teeth before bed? - 1","What if I told you that:
+
+ 
+
+Bill never went for a morning jog.
+
+ 
+
+How many days out of 100 did Bill go for a morning jog? - 1","What if I told you that:
+
+ 
+
+Bill never ate eggs for breakfast.
+
+ 
+
+How many days out of 100 did Bill eat eggs for breakfast? - 1","What if I told you that:
+
+ 
+
+Bill never drove to work.
+
+ 
+
+How many days out of 100 did Bill drive to work? - 1","What if I told you that:
+
+ 
+
+Bill never ate a sandwich for lunch.
+
+ 
+
+How many days out of 100 did Bill eat a sandwich for lunch? - 1","What if I told you that:
+
+ 
+
+Bill never arrived at work late.
+
+ 
+
+How many days out of 100 did Bill arrive at work late? - 1","What if I told you that:
+
+ 
+
+Bill never went to bed late. 
+
+ 
+
+How many days out of 100 did Bill go to bed late? - 1","What if I told you that:
+
+ 
+
+Bill never ate pizza for dinner.
+
+ 
+
+How many days out of 100 did Bill eat pizza for dinner? - 1","What if I told you that:
+
+ 
+
+Bill never biked home from work.
+
+ 
+
+How many days out of 100 did Bill bike home from work? - 1",What is your age?,What is your first (native) language?,mTurkCode
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID22_1""}","{""ImportId"":""QID38_1""}","{""ImportId"":""QID39_1""}","{""ImportId"":""QID40_1""}","{""ImportId"":""QID41_1""}","{""ImportId"":""QID42_1""}","{""ImportId"":""QID43_1""}","{""ImportId"":""QID44_1""}","{""ImportId"":""QID45_1""}","{""ImportId"":""QID46_1""}","{""ImportId"":""QID258_1""}","{""ImportId"":""QID47_1""}","{""ImportId"":""QID48_1""}","{""ImportId"":""QID49_1""}","{""ImportId"":""QID50_1""}","{""ImportId"":""QID51_1""}","{""ImportId"":""QID52_1""}","{""ImportId"":""QID53_1""}","{""ImportId"":""QID54_1""}","{""ImportId"":""QID55_1""}","{""ImportId"":""QID56_1""}","{""ImportId"":""QID259_1""}","{""ImportId"":""QID57_1""}","{""ImportId"":""QID58_1""}","{""ImportId"":""QID59_1""}","{""ImportId"":""QID60_1""}","{""ImportId"":""QID61_1""}","{""ImportId"":""QID62_1""}","{""ImportId"":""QID63_1""}","{""ImportId"":""QID64_1""}","{""ImportId"":""QID65_1""}","{""ImportId"":""QID66_1""}","{""ImportId"":""QID260_1""}","{""ImportId"":""QID67_1""}","{""ImportId"":""QID68_1""}","{""ImportId"":""QID69_1""}","{""ImportId"":""QID70_1""}","{""ImportId"":""QID71_1""}","{""ImportId"":""QID72_1""}","{""ImportId"":""QID73_1""}","{""ImportId"":""QID74_1""}","{""ImportId"":""QID75_1""}","{""ImportId"":""QID76_1""}","{""ImportId"":""QID261_1""}","{""ImportId"":""QID77_1""}","{""ImportId"":""QID78_1""}","{""ImportId"":""QID79_1""}","{""ImportId"":""QID80_1""}","{""ImportId"":""QID81_1""}","{""ImportId"":""QID82_1""}","{""ImportId"":""QID83_1""}","{""ImportId"":""QID84_1""}","{""ImportId"":""QID85_1""}","{""ImportId"":""QID86_1""}","{""ImportId"":""QID262_1""}","{""ImportId"":""QID87_1""}","{""ImportId"":""QID88_1""}","{""ImportId"":""QID89_1""}","{""ImportId"":""QID90_1""}","{""ImportId"":""QID91_1""}","{""ImportId"":""QID92_1""}","{""ImportId"":""QID93_1""}","{""ImportId"":""QID94_1""}","{""ImportId"":""QID95_1""}","{""ImportId"":""QID96_1""}","{""ImportId"":""QID263_1""}","{""ImportId"":""QID97_1""}","{""ImportId"":""QID98_1""}","{""ImportId"":""QID99_1""}","{""ImportId"":""QID100_1""}","{""ImportId"":""QID101_1""}","{""ImportId"":""QID102_1""}","{""ImportId"":""QID103_1""}","{""ImportId"":""QID104_1""}","{""ImportId"":""QID105_1""}","{""ImportId"":""QID106_1""}","{""ImportId"":""QID264_1""}","{""ImportId"":""QID107_1""}","{""ImportId"":""QID108_1""}","{""ImportId"":""QID109_1""}","{""ImportId"":""QID110_1""}","{""ImportId"":""QID111_1""}","{""ImportId"":""QID112_1""}","{""ImportId"":""QID113_1""}","{""ImportId"":""QID114_1""}","{""ImportId"":""QID115_1""}","{""ImportId"":""QID116_1""}","{""ImportId"":""QID265_1""}","{""ImportId"":""QID117_1""}","{""ImportId"":""QID118_1""}","{""ImportId"":""QID119_1""}","{""ImportId"":""QID120_1""}","{""ImportId"":""QID121_1""}","{""ImportId"":""QID122_1""}","{""ImportId"":""QID123_1""}","{""ImportId"":""QID124_1""}","{""ImportId"":""QID125_1""}","{""ImportId"":""QID126_1""}","{""ImportId"":""QID266_1""}","{""ImportId"":""QID127_1""}","{""ImportId"":""QID128_1""}","{""ImportId"":""QID129_1""}","{""ImportId"":""QID130_1""}","{""ImportId"":""QID131_1""}","{""ImportId"":""QID132_1""}","{""ImportId"":""QID133_1""}","{""ImportId"":""QID134_1""}","{""ImportId"":""QID135_1""}","{""ImportId"":""QID136_1""}","{""ImportId"":""QID267_1""}","{""ImportId"":""QID272_1""}","{""ImportId"":""QID278_1""}","{""ImportId"":""QID138_1""}","{""ImportId"":""QID141_1""}","{""ImportId"":""QID146_1""}","{""ImportId"":""QID143_1""}","{""ImportId"":""QID142_1""}","{""ImportId"":""QID145_1""}","{""ImportId"":""QID140_1""}","{""ImportId"":""QID147_1""}","{""ImportId"":""QID137_1""}","{""ImportId"":""QID144_1""}","{""ImportId"":""QID139_1""}","{""ImportId"":""QID148_1""}","{""ImportId"":""QID149_1""}","{""ImportId"":""QID150_1""}","{""ImportId"":""QID151_1""}","{""ImportId"":""QID152_1""}","{""ImportId"":""QID153_1""}","{""ImportId"":""QID154_1""}","{""ImportId"":""QID155_1""}","{""ImportId"":""QID156_1""}","{""ImportId"":""QID157_1""}","{""ImportId"":""QID158_1""}","{""ImportId"":""QID159_1""}","{""ImportId"":""QID160_1""}","{""ImportId"":""QID161_1""}","{""ImportId"":""QID162_1""}","{""ImportId"":""QID163_1""}","{""ImportId"":""QID164_1""}","{""ImportId"":""QID165_1""}","{""ImportId"":""QID166_1""}","{""ImportId"":""QID167_1""}","{""ImportId"":""QID168_1""}","{""ImportId"":""QID169_1""}","{""ImportId"":""QID170_1""}","{""ImportId"":""QID171_1""}","{""ImportId"":""QID172_1""}","{""ImportId"":""QID173_1""}","{""ImportId"":""QID174_1""}","{""ImportId"":""QID175_1""}","{""ImportId"":""QID176_1""}","{""ImportId"":""QID177_1""}","{""ImportId"":""QID178_1""}","{""ImportId"":""QID179_1""}","{""ImportId"":""QID180_1""}","{""ImportId"":""QID181_1""}","{""ImportId"":""QID182_1""}","{""ImportId"":""QID183_1""}","{""ImportId"":""QID184_1""}","{""ImportId"":""QID185_1""}","{""ImportId"":""QID186_1""}","{""ImportId"":""QID187_1""}","{""ImportId"":""QID188_1""}","{""ImportId"":""QID189_1""}","{""ImportId"":""QID190_1""}","{""ImportId"":""QID191_1""}","{""ImportId"":""QID192_1""}","{""ImportId"":""QID193_1""}","{""ImportId"":""QID194_1""}","{""ImportId"":""QID195_1""}","{""ImportId"":""QID196_1""}","{""ImportId"":""QID197_1""}","{""ImportId"":""QID198_1""}","{""ImportId"":""QID199_1""}","{""ImportId"":""QID200_1""}","{""ImportId"":""QID201_1""}","{""ImportId"":""QID202_1""}","{""ImportId"":""QID203_1""}","{""ImportId"":""QID204_1""}","{""ImportId"":""QID205_1""}","{""ImportId"":""QID206_1""}","{""ImportId"":""QID207_1""}","{""ImportId"":""QID208_1""}","{""ImportId"":""QID209_1""}","{""ImportId"":""QID210_1""}","{""ImportId"":""QID211_1""}","{""ImportId"":""QID212_1""}","{""ImportId"":""QID213_1""}","{""ImportId"":""QID214_1""}","{""ImportId"":""QID215_1""}","{""ImportId"":""QID216_1""}","{""ImportId"":""QID217_1""}","{""ImportId"":""QID218_1""}","{""ImportId"":""QID219_1""}","{""ImportId"":""QID220_1""}","{""ImportId"":""QID221_1""}","{""ImportId"":""QID222_1""}","{""ImportId"":""QID223_1""}","{""ImportId"":""QID224_1""}","{""ImportId"":""QID225_1""}","{""ImportId"":""QID226_1""}","{""ImportId"":""QID227_1""}","{""ImportId"":""QID228_1""}","{""ImportId"":""QID229_1""}","{""ImportId"":""QID230_1""}","{""ImportId"":""QID231_1""}","{""ImportId"":""QID232_1""}","{""ImportId"":""QID233_1""}","{""ImportId"":""QID234_1""}","{""ImportId"":""QID235_1""}","{""ImportId"":""QID236_1""}","{""ImportId"":""QID237_1""}","{""ImportId"":""QID238_1""}","{""ImportId"":""QID239_1""}","{""ImportId"":""QID240_1""}","{""ImportId"":""QID241_1""}","{""ImportId"":""QID242_1""}","{""ImportId"":""QID243_1""}","{""ImportId"":""QID244_1""}","{""ImportId"":""QID245_1""}","{""ImportId"":""QID246_1""}","{""ImportId"":""QID247_1""}","{""ImportId"":""QID248_1""}","{""ImportId"":""QID249_1""}","{""ImportId"":""QID250_1""}","{""ImportId"":""QID251_1""}","{""ImportId"":""QID252_1""}","{""ImportId"":""QID253_1""}","{""ImportId"":""QID254_1""}","{""ImportId"":""QID255_1""}","{""ImportId"":""QID256_1""}","{""ImportId"":""QID257_1""}","{""ImportId"":""QID270""}","{""ImportId"":""QID271_TEXT""}","{""ImportId"":""mTurkCode""}"
+2019-06-17 09:39:37,2019-06-17 09:39:53,Survey Preview,,100,15,True,2019-06-17 09:39:53,R_2y2sTXrKqWBn9In,,,,,42.3737030029296875,-71.1284027099609375,preview,EN,,,,,,,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2019-06-17 20:26:48,2019-06-17 20:27:50,Survey Preview,,100,61,True,2019-06-17 20:27:50,R_1exDE4FQgUPxSv7,,,,,42.3737030029296875,-71.1284027099609375,preview,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100,,,,,,,,,,,,,,,,65,,,,,,,,,78,,,,,,,45,,,,,,,,,,,,,,,,,58,,,,,51,,,,,,,,,,,,31,,,,,,,,,,,14,,,,,,,,,,24,,,,,,,,,,,,,,,,,39,,,,0,,,,,,,,,,,,
+2019-06-17 20:28:11,2019-06-17 20:29:11,Survey Preview,,100,59,True,2019-06-17 20:29:12,R_1QoNxtqndSuQbKH,,,,,42.3737030029296875,-71.1284027099609375,preview,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100,,,,,,,,,,,,64,,,,,,,,,,,62,,,,,,,,,,,,40,,,,,,,,,55,,,,,,,,,,,32,,,,,,26,,,,,,,,,,18,,,,,,,,,,,,,,,,,,,46,,,,,,,,,39,,,,,,,,,,,,,0,,,
+2019-06-17 21:57:15,2019-06-17 21:58:33,Survey Preview,,100,78,True,2019-06-17 21:58:34,R_3HGKmchBvOmb59u,,,,,42.3737030029296875,-71.1284027099609375,preview,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100,,,,,,,,,,,,,,,,65,,,,,,,,,,,,,63,,,,33,,,,,,,,,,,,,,,,,,,44,,,,,,35,,,,,,,,,,21,,,,,,,,15,,,,,,,,,,,,,,,,,,,18,,,,,,,,61,,,,,,,,,,0,,,,,,,,
+2019-06-17 21:59:11,2019-06-17 22:00:07,Survey Preview,,100,55,True,2019-06-17 22:00:07,R_TiMs3idL5Y1lUk1,,,,,42.3737030029296875,-71.1284027099609375,preview,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100,,,,,,,,,,,,,,,,,71,,,,,,,,,52,,,,,,,,,,,,,58,,,,,,63,,,,,,,,,,,,,,,,23,,,,14,,,,,,,,,,,,,,,,,25,,21,,,,,,,,,,,,,,,,,,31,,,,,,52,,,,,,,,,,,
+2019-06-17 22:00:27,2019-06-17 22:01:35,Survey Preview,,100,68,True,2019-06-17 22:01:36,R_2e2JNZskKJ3CW7M,,,,,42.3737030029296875,-71.1284027099609375,preview,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100,,,,,,,,,,,,,68,66,,,,,,,,,,,,,,,40,,,,,,,,,,,,,,,,68,,,,,,,23,,,,,,,,,20,,,,,,,,,,,,,,15,,,,,,,,,,,,,,19,,,,,,,,,,,36,,,,,,,,,,,0,,,,
+2019-06-17 22:01:56,2019-06-17 22:02:54,Survey Preview,,100,58,True,2019-06-17 22:02:55,R_1n9hNitF9bugyOl,,,,,42.3737030029296875,-71.1284027099609375,preview,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100,,,,,,,,,,,,,,,66,,,,,,,,,,,,,,,87,,,64,,,,,,,,,,,,,,,,,71,,,,,,,,,,,,31,,,,,,,,,35,,,,,,,,,,,16,,,,,,,,,,23,,,,,,,,,,,,,27,,,,,,,,,0,,,,,,,,
+2019-06-17 22:03:05,2019-06-17 22:03:48,Survey Preview,,100,43,True,2019-06-17 22:03:49,R_3PCeMp2RtZUxb6w,,,,,42.3737030029296875,-71.1284027099609375,preview,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100,,,,,,,,,68,,,,,,,,,,,,,,,,,,67,,,,,,,,,,58,,,,67,,,,,,,,,27,,,,,,,,,,,,,,,,,,,,,51,,,,12,,,,,,,,,,,,,,,19,,,,,28,,,,,,,,,,,,,,,,,,0,,,,,
+2019-06-18 09:31:00,2019-06-18 09:35:03,Survey Preview,,100,242,True,2019-06-18 09:35:04,R_22oe7rRtPsGTewY,,,,,42.3737030029296875,-71.1284027099609375,preview,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100,,,,,73,,,,,,,,,,,,,,,77,,,,,68,,,,,,,,,,,,,62,,,,,,,,,,,,,,35,,,,,,23,,,,,,,,,,,,,,,,,,,13,,,7,,,,,,,,,,,,,,,22,,,,,,,0,,,,,,,,,,,
+2019-06-18 09:37:12,2019-06-18 09:39:15,Survey Preview,,100,122,True,2019-06-18 09:39:16,R_qWTLrrC1jfIUKSR,,,,,42.3737030029296875,-71.1284027099609375,preview,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100,,,,,65,,,,,,,68,,,,,,,,,,,,,,,61,,,,,,,,,71,,,,,,,,,,,,,,,,,,34,,,,,,,,,16,,,,,13,,,,,,,,,,,,,,,,,,,28,,,,28,,,,,,,,,,,,,,0,,,,,,,,
+2019-06-18 09:41:14,2019-06-18 09:42:54,Survey Preview,,100,99,True,2019-06-18 09:42:54,R_AzohytIyLbExWzD,,,,,42.3737030029296875,-71.1284027099609375,preview,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100,,,,,,,,,,68,,,,77,,,,,,,,,,,,33,,,,,,,,,,,,,,,,,,,64,,,,,,63,,,,,,,,,,,33,,,,,,,,,,,11,,,,,,,,,28,,,,,,,,,,,20,,,,,,,,,,,,,,,0,,,,,,
+2019-06-18 09:43:11,2019-06-18 09:44:44,Survey Preview,,100,93,True,2019-06-18 09:44:45,R_2uL4vLmhICLVoJ9,,,,,42.3737030029296875,-71.1284027099609375,preview,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100,,,,,,63,,,,,,,,,,,,,,68,,,,,,,,,68,,,,,,,,,,,,,,,,,,,66,,,,,37,,,,,,,,30,,,,,,,,,,,,,,,,,,,26,,,,,,,,,,,,26,,,24,,,,,,,,,,,,,,,,,,,0,,,
+2019-06-18 13:43:05,2019-06-18 13:44:53,Survey Preview,,100,108,True,2019-06-18 13:44:54,R_vcdH2BWQZuyE83D,,,,,42.3737030029296875,-71.1284027099609375,preview,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100,,,,,,,,69,,,,,,,,,,,,,,,,,73,,,,,,44,,,,,,,,,,,,,,68,,,,,,,,,,31,,,,,,,20,,,,,,,,,,16,,,,,,,,,,,,11,,,,,,,,,,,39,,,,,,,,,,,,,0,,,,,,,,
+2019-06-18 14:09:17,2019-06-18 14:11:52,Survey Preview,,100,154,True,2019-06-18 14:11:52,R_3peXApivouheWUB,,,,,42.3737030029296875,-71.1284027099609375,preview,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100,,,,,,70,,,,,,,,,,,,,,,67,,,,,,,,38,,,,,,,,,,,,,,,,,,65,,,,,25,,,,,,,,,,,,,,,24,,,,,,,18,,,,,,,,,,,,,,,,,,9,,,,,32,,,,,,,,,0,,,,,,,,,,,,
+2019-06-18 16:32:12,2019-06-18 16:35:35,Survey Preview,,100,202,True,2019-06-18 16:35:35,R_2D195gA7vX334c5,,,,,42.3737030029296875,-71.1284027099609375,preview,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100,,,,,,,,,,72,,,,,,70,,,,,,,,,,,,,,,,,,,,40,,,,,,,,,,,,51,,,,,,,,,,26,,,,,,,,,28,,,,,,14,,,,,,,,,,,,,,,,,,,16,,,,,,,,26,,,,,,,,,,,,0,,,,,
+2019-06-18 20:13:34,2019-06-18 20:16:33,Survey Preview,,100,179,True,2019-06-18 20:16:34,R_bykmBW87Gt545QB,,,,,42.3737030029296875,-71.1284027099609375,preview,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100,,,,,,,,,,,,,,69,,,,,,,,,,,,,,,,,73,,,,,,40,,,,,,,,,,,,52,,,,,,,,,,,,,19,,,,,,,,,,,,,,33,,,16,,,,,,,,,,,,,,,19,,,,,,20,,,,,,,,,,,,,,,,,,0,,,,,
+2019-06-18 20:50:21,2019-06-18 20:51:24,Survey Preview,,100,63,True,2019-06-18 20:51:25,R_ym7C2GahsPM1f8t,,,,,42.3737030029296875,-71.1284027099609375,preview,EN,,,,,100,,,,,,,,100,,,,,,,,,,,,,,100,,,,,,,,,,,,,73,,,,,42,,,,,,,,,,,,,29,,,,,,,,,,,,,,,12,,,,,,,7,,,,,,,,,,,,,,,,15,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2019-06-18 21:31:59,2019-06-18 21:35:14,Survey Preview,,100,194,True,2019-06-18 21:35:15,R_Ort0BEX3ZRhfFgB,,,,,42.3737030029296875,-71.1284027099609375,preview,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100,,,,,,,,,,,,,,71,,,,,,,,,,67,,,,,37,,,,,,,,,,,,,56,,,,,,,,,,,,,,25,,,,,,,24,,,,,,,14,,,,,,,,,,,,22,,,,,,,,,,,,,,,,16,,,,,,,0,,,,,,,,,,,
+2019-06-19 12:54:24,2019-06-19 12:56:28,Survey Preview,,100,124,True,2019-06-19 12:56:29,R_2ypTcfru01cCC6K,,,,,42.3737030029296875,-71.1284027099609375,preview,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100,,,,,,,,,,,,,,,,,,,70,,,,,,,,85,,,,,,,,,,,,,42,,,,,63,,,,,,,,,,,,,,,,,,,25,,,,,,,,,,,,13,,,,,,,12,,,,,,,,,13,,,,,,,,,34,,,,,,,,,,,,0,,,,,,,,,,
+2019-06-19 12:56:34,2019-06-19 12:59:16,Survey Preview,,100,162,True,2019-06-19 12:59:17,R_wZcuVsImzm6Lghr,,,,,42.3737030029296875,-71.1284027099609375,preview,EN,,,100,,,,,,,,,,,,,,,,,,,100,,,,100,,,,,,,,68,,,,,,,,,,,,,,,,,,,38,,,20,,,,,,,,,,,,11,,,,,,,,,,,,,,6,,,,,,,,,,,,,,,,,10,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2019-06-19 16:31:19,2019-06-19 16:33:53,Survey Preview,,100,153,True,2019-06-19 16:33:53,R_0j5125oeqe4HJgB,,,,,42.3737030029296875,-71.1284027099609375,preview,EN,100,,,,,,,,,,,,,,,,,,,100,,,,,100,,,,,,,,,,,,,,72,,,,,,,34,,,,,,,,,,,,,,,,,,,22,,,,,,4,,,,,,,,,,,,,,11,,,,,,,,,,,,11,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2019-06-19 19:47:04,2019-06-19 19:48:14,Survey Preview,,100,70,True,2019-06-19 19:48:14,R_1o89q2fLLBJKf3n,,,,,42.3737030029296875,-71.1284027099609375,preview,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100,,,,,,,,,,,,73,,,,,,,,,,,,,75,,,,,,,,,,,,,,40,,,,,,,,,69,,,,,,,,,,,,,,,,,29,,,27,,,,,,,,,,,,,,,,24,,,,,,,,,,,,19,,,,,,,,,,,,35,,,,,,,0,,,,,,,,
+2019-06-19 20:17:09,2019-06-19 20:19:06,Survey Preview,,100,116,True,2019-06-19 20:19:06,R_e8MtRpEXE8bRiDv,,,,,42.3737030029296875,-71.1284027099609375,preview,EN,,,,,,,,,,,100,,,,,,,100,,,,,100,,,,,,,,,,,,,,,,,,,,68,,,,,,,,,66,,,,,22,,,,,,,,,,,,,,,,,,5,,,,,,,7,,,,,,,,,,,,13,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2019-06-20 16:18:58,2019-06-20 16:20:37,Survey Preview,,100,99,True,2019-06-20 16:20:38,R_1nZ3BIN14h41zIV,,,,,42.3737030029296875,-71.1284027099609375,preview,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100,,,,,,,,,,66,,,,,,,,76,,,,,,,,,,,,,,,,,35,,,,,,,,,,,,69,,,,,,,,,,,,23,,,,,19,,,,,,,,,,,,,,,,,,15,,,,,,,7,,,,,,,,,,,,,,,,24,,0,,,,,,,,,,,,4470392
+2019-06-20 19:06:01,2019-06-20 19:07:39,Survey Preview,,100,97,True,2019-06-20 19:07:39,R_8ijmAqBqOPe3LEd,,,,,42.3737030029296875,-71.1284027099609375,preview,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100,,,,,,,,80,,,,,,,,,74,,,,,,,,,,37,,,,,,,,,,,,,,,,,,,70,,,,,,,26,,,,,,,,,,,,,,21,,,,,,,,,9,,,,,,,,11,,,,,,,,,,,,,,,,,,,30,,,,,,,,,,0,,,,6408528
+2019-06-20 19:08:11,2019-06-20 19:09:38,Survey Preview,,100,86,True,2019-06-20 19:09:38,R_1DTEcKtbelNI0qS,,,,,42.3737030029296875,-71.1284027099609375,preview,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100,,,,,,,,,,,,,,72,,,,79,,,,,,,,,,,,,44,,,,,,,73,,,,,,,,,,,,,,,,,,,,,30,,,,,,,,12,,,,,,,10,,,,,,,,,13,,,,,,,,,,,,,,,,,,27,,,,,,,,0,,,,,,,,343753
+2019-06-20 19:32:36,2019-06-20 19:32:40,Survey Preview,,100,4,True,2019-06-20 19:32:41,R_3lE9iPVurkOPc9h,,,,,42.3737030029296875,-71.1284027099609375,preview,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,244936
+2019-06-20 19:38:19,2019-06-20 19:40:51,Survey Preview,,100,151,True,2019-06-20 19:40:51,R_2zzIZTiJfHzsa2o,,,,,42.3737030029296875,-71.1284027099609375,preview,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100,,,,,,,71,,,,,,,,,,,,71,,,,,,,,,,,,44,,,,,73,,,,,,,,,,,,,,,,,,25,,,,,,,16,,,,,,,,,,10,,,,,,,6,,,,,,,,,,,,28,,,,,,,,,,,,,0,,,,,,,,,,9606481
+2019-06-23 10:13:11,2019-06-23 10:14:45,Survey Preview,,100,94,True,2019-06-23 10:14:46,R_1ifivifPz0AEdQq,,,,,42.3737030029296875,-71.1284027099609375,preview,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100,,,,,,,,,,,,74,,,,,,,,,72,,,,,,33,,,,,,,,,,,,,,,,,,,,,72,,,25,,,,,,,,,,,,,,,,,11,,,,,,,,,,,,13,,,,,13,,,,,,,,,,,,27,,,,,,,,0,,,,,,,,,,,,4992804
+2019-06-23 10:14:55,2019-06-23 10:15:58,Survey Preview,,100,63,True,2019-06-23 10:15:59,R_2XiGQcGtLkVh2jM,,,,,42.3737030029296875,-71.1284027099609375,preview,EN,,,,,,,,,,100,,,,,,,100,,,,,,,,,100,,,,,,,,,,71,,,,,,,,,,,,,,,,43,,,,,,,,,,,,30,,,,,,,11,,,,,,,10,,,,,,,,,,,,,,,,,8,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4912381
+2019-06-23 10:16:03,2019-06-23 10:17:53,Survey Preview,,100,109,True,2019-06-23 10:17:54,R_SCeOQ7ZxxeSb1KN,,,,,42.3737030029296875,-71.1284027099609375,preview,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100,,,,,,,,71,,,,,,,,,,70,,,,,,,,,,,,,,,,38,,,,,,,,,,,,76,,,,,,,,,,,,,24,,,,,,10,,,,,,,,,,12,,,,,,,,10,,,,,,,,,,,,,,,,,,,,,29,,,,,,,,,0,,,,,7591060
+2019-06-23 10:19:40,2019-06-23 10:19:45,Survey Preview,,100,4,True,2019-06-23 10:19:45,R_1j9z0lXMIEWrRv0,,,,,42.3737030029296875,-71.1284027099609375,preview,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,440615
+2019-06-28 10:32:38,2019-06-28 10:32:47,Survey Preview,,100,8,True,2019-06-28 10:32:47,R_tYQGVdgmwslqIQp,,,,,42.3737030029296875,-71.1284027099609375,preview,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3231301
+2019-06-28 10:35:46,2019-06-28 10:38:37,Survey Preview,,100,170,True,2019-06-28 10:38:38,R_ahswVF8RzNjbVex,,,,,42.3737030029296875,-71.1284027099609375,preview,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100,,,,67,,,,,,,,,,,,,,,71,,,,,,,,,,41,,,,,,,,,61,,,,,,,,,,,,27,,,,,,18,,,,,,,,,,,,,,,,,,,14,,,,,12,,,,,,,,,,15,,,,,,,,,,,,,,,,,,,0,,,,5886158
+2019-06-28 16:27:50,2019-06-28 16:29:51,Survey Preview,,100,121,True,2019-06-28 16:29:52,R_3hF5eEzq2fvLx7q,,,,,42.3737030029296875,-71.1284027099609375,preview,EN,,,,,,,,,100,,,,100,,,,,,,,,,,,,,,100,,,,,,,,73,,,,,,,,,,,,,,,,,,,,,,,,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,,,,,,,,,,13,,,,,,,,0,,,,,94,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7852514
+2019-06-28 16:38:51,2019-06-28 16:40:51,Survey Preview,,100,119,True,2019-06-28 16:40:51,R_3Jaw8cc9X3zAqh3,,,,,42.3737030029296875,-71.1284027099609375,preview,EN,,,,,,,,,,100,,,,,100,,,,,,,,,,,,,,100,,,,,,72,,,,,,,,,,34,,,,,,,,,,,,,,,,,,,24,,,,,,,24,,,,,,,,,,,,,,8,,,,,,13,,,,,,,,,,,,,,,,,,,0,70,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,,5266707
+2019-06-29 14:19:07,2019-06-29 14:23:58,Survey Preview,,100,290,True,2019-06-29 14:23:59,R_VJ5P0GDO8qhwVb3,,,,,42.3737030029296875,-71.1284027099609375,preview,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,,,,,,,,,,100,,,,,64,,,,,,,,,75,,,,,,,,,,,,,,,,,,37,,,,,,,,,,,,,,76,,,,,,,,,,30,,,,,,11,,,,,,,,,,,,12,,,,,,,,,,,,12,,,,,,,,27,,,,,,,,,0,,,,,,,,,,18–39,,7543359
+2019-07-15 11:40:35,2019-07-15 11:54:30,IP Address,65.112.8.22,100,835,True,2019-07-15 11:54:31,R_ufQ87yzBIgyFsDD,,,,,42.3737030029296875,-71.1284027099609375,anonymous,EN,,,,,100,,,,,,,,,,100,,,,,,,,,,,,,,,100,,,,,,71,,,,,,,,,,30,,,,,,,,,,,,,,,,,,11,,,14,,,,,,,,,,,,,,,,,9,,,,,,,,,,,,,,5,,,,,,,,,,,,0,70,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,,944537
+2019-07-15 11:40:34,2019-07-15 12:25:09,IP Address,65.112.8.20,52,2675,False,2019-07-22 12:25:14,R_2rV2bEwpH5SI3YQ,,,,,,,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3652218
+2019-07-15 11:55:01,2019-07-15 12:26:11,IP Address,65.112.8.22,57,1870,False,2019-07-22 12:26:36,R_2xRyUPjiBmXl48X,,,,,,,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,60,,,,,,,,,,,,,,,,,,,,,40,,,,,,,,,,,4663885
+2019-08-07 10:52:54,2019-08-07 10:54:13,Survey Preview,,100,79,True,2019-08-07 10:54:14,R_pGiGue4v4vUEvsZ,,,,,42.3737030029296875,-71.1284027099609375,preview,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,,,,,100,,,,,,,,,,66,,,,,72,,,,,,,,,,59,,,,,,,,,,,,,67,,,,,,,,,,,,,,,,,,28,,,,,29,,,,,,,,,,,,,,,,,,28,,,,,21,,,,,,,,,,,,15,,,,,,,,,,,,0,,,,,18–39,English,9366654
+2019-08-07 10:57:05,2019-08-07 10:58:31,Survey Preview,,100,86,True,2019-08-07 10:58:31,R_2SCsaDy07ryJH4s,,,,,42.3737030029296875,-71.1284027099609375,preview,EN,,,,,,,100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,39,,,,,,,,,,,,,,,,,,,,,,,,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,85,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9923511
+2019-08-07 13:15:30,2019-08-07 13:16:06,IP Address,65.112.8.54,100,35,True,2019-08-07 13:16:06,R_28NYwYwfHTQLj6W,,,,,42.3737030029296875,-71.1284027099609375,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,68,,,,,,,,,,,,,,,,,,,,,,,,,29,,,,,,,,,,,,,,,,,,,,,,,,8,,,,,,,,,,,,,,,,,,0,,,,,,70,62,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3857788
+2019-08-10 08:50:25,2019-08-10 08:58:24,IP Address,174.63.87.137,100,479,True,2019-08-10 08:58:25,R_3jcTdN58QB8evhw,,,,,42.3737030029296875,-71.1284027099609375,anonymous,EN,,,,,,,,,,100,,,,100,,,,,,,,,,,,,,100,,,,,,,,,,58,,,,,,,,,,,,,,,20,,,,,,,,,,8,,,,,11,,,,,,,,,,,,,,,,,,,,7,,,,11,,,,,,,,,,,,,,0,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,Persian,9670918
+2019-08-10 22:48:02,2019-08-10 22:50:00,Survey Preview,,100,117,True,2019-08-10 22:50:00,R_rl4C5j9wEBtY7sJ,,,,,39.01300048828125,-76.67420196533203125,preview,EN,,,,,,,,,100,,,,,,,100,,,,,,,,,,,,,,,,100,,,,,,,86,,,,,,,,,,,,35,,,,,,,,33,,,,,,,,,,,,,,,,,,6,7,,,,,,,,,,,,10,,,,,,,,,,,,0,,,,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,English,9174230
+2019-08-13 13:09:47,2019-08-13 13:11:15,Survey Preview,,100,88,True,2019-08-13 13:11:16,R_12Eg40ERDkrdZ8t,,,,,28.62249755859375,-81.43170166015625,preview,EN,,,,,,100,,,,,,,,100,,,,,,,,,100,,,,,,,,,,,,,,,69,,,,,,,,,,,,,,,,35,,,21,,,,,,,,,,,,,,,,,,,,3,,,,8,,,,,,,,,,,,,,,11,,,,,,,,,,,,0,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,English,7118766
+2019-08-13 13:22:09,2019-08-13 13:23:48,IP Address,97.68.148.67,100,99,True,2019-08-13 13:23:48,R_1dtVTs5g1cQUfv3,,,,,28.62249755859375,-81.43170166015625,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,100,,,,,,,,,,,,,67,,,,,,,,,,,,,,,63,,,,,,,,,,44,,,,,,,,,,,,,,61,,,,,,,29,,,,,,,,8,,,,,,,,,,,,,11,,,,,,,,,,,,,,,8,,,,,,,,,,,,,14,0,,,,,,,,,,,18–39,English,3758198
+2019-08-16 13:37:21,2019-08-16 13:39:19,Survey Preview,,100,117,True,2019-08-16 13:39:20,R_73zvYGm5oKsXvGh,,,,,39.7783050537109375,-104.75569915771484375,preview,EN,,,,,,,100,,,,,,,,,,,,,100,,,,,,,,,,,,,100,,69,,,,,,,,,,,,,43,,,,,,,,,,,,32,,,,,,,,,,,,,,,,7,,,,,,,6,,,,,,7,,,,,,,,,,,,,,,,,,0,,,,79,90,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,English,6885345
+2019-08-10 08:58:55,2019-08-15 13:02:30,IP Address,65.112.8.22,52,446615,False,2019-08-22 13:02:37,R_ZLbvdp3EVmYl1YZ,,,,,,,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,,,,,,,,,,,,,,,,,,3179761
+2019-08-15 13:02:41,2019-08-15 15:48:58,IP Address,65.112.8.22,99,9977,False,2019-08-22 15:49:26,R_1K1GrY5V3NBtfnL,,,,,,,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,100,,,,,,,,,,,,,67,,,,,,,,,,,,80,,,,,63,,,,,,,,,,,,,,,,,,66,,,,,,13,,,,,,,,,,,,,,,,,,11,6,,,,,,,,,,,,,9,,,,,,,,,,,,,,,,,,6,,,,,,,0,,,,,,,,9746503
+2019-09-02 20:13:54,2019-09-02 20:15:23,IP Address,65.112.8.57,100,89,True,2019-09-02 20:15:24,R_0N8T8Lo32Y3n1ux,,,,,42.3737030029296875,-71.1284027099609375,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,67,30,,100,,,,,,,,,,,,,,,,70,,,,,75,,,,,,,,,,,,,,41,,,,,,,,,,,,,,,,,71,,,,,,,,,,26,,,,,,,,,,15,,,,,,11,,,,,,,,,,,,,,,,,,,11,,,,,,15,,,,,,,,,,0,,,,,,,18–39,as,5935106
+2019-09-02 20:17:02,2019-09-02 20:17:39,IP Address,65.112.8.57,67,36,False,2019-09-09 20:18:12,R_2zpX91lCfDlYSDc,,,,,,,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,65,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,,,,,,,,,,,,,,,,,,11,,,,,,,,,,,,,,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5201939
+2019-09-18 21:12:21,2019-09-18 21:14:43,IP Address,65.112.8.57,100,142,True,2019-09-18 21:14:44,R_21jirQLS9xr4IgV,,,,,42.3737030029296875,-71.1284027099609375,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,100,,,,,,,,,,,,,,,65,,,,,,,,,,,,74,,,,,,,,,20,,,,,,,,,,,,,,76,,,,28,,,,,,,,,,,,,,20,,,,,,,14,,,,,,,,,,,,,,11,,,,,,,,,,,,,,,,,,26,,,,,,,,,,0,,18–39,English,4273897
+2019-09-18 21:20:08,2019-09-18 21:21:07,IP Address,65.112.8.57,100,58,True,2019-09-18 21:21:07,R_1QtrqQucRfqj8Ra,,,,,42.3737030029296875,-71.1284027099609375,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,15,,,,,,,,,,,74,69,,,,,,,,,,,,,,,,,,,,72,,,,44,,,,,,,,,,,,,,,71,,,,,,51,,,,,,,,,,,,,,,,,11,,,,,,,,,91,,,,,,,,,,,,,,11,,,,,,28,,,,,,,,,,,,0,,,,,,,18–39," ",3177534
+2019-09-18 21:21:10,2019-09-18 21:22:07,IP Address,65.112.8.57,100,56,True,2019-09-18 21:22:08,R_bQNqDq5F0G11saZ,,,,,42.3737030029296875,-71.1284027099609375,anonymous,EN,,,,,,,,,,,100,,,,,,100,,,,,,,,,,,,,100,,,,,,70,,,,,,,,,,,,23,,,,,,,,,,,,,,,,,21,,,,,,17,,,,,,,,,,,,,,,12,,,13,,,,,,,,,,,,0,,,,,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39," ",1734891
+2019-09-20 16:12:45,2019-09-20 16:14:47,IP Address,65.112.8.57,100,121,True,2019-09-20 16:14:48,R_w0LUab9g4EulYC5,,,,,42.3737030029296875,-71.1284027099609375,anonymous,EN,,,,,,,100,,,,,,,,,,,,,100,,,,100,,,,,,,,,,,,,,,70,,,,,,,,,,,,,,,,21,,,,,,,,34,,,,24,,,,,,,,,,,,,,17,,,,,,,,,,,,,,,,,14,,,,0,,,,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,English,8953334
+2019-09-21 08:03:11,2019-09-21 08:07:45,IP Address,71.219.178.179,100,273,True,2019-09-21 08:07:46,R_2ckDf4olQL8H7dR,,,,,36.651702880859375,-80.23919677734375,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,,,,0,,,,,,,,,,51,,,,,,,,,,,,,,23,,,,,,70,,,,,,,,,100,,,,,,,,,31,,,,,,,,,,,,,,51,,,,,,,,,,,,,100,,,,,,,100,,,,,,,,,,,,,,,,,,,,25,,,,,,,,,37,,,40–64,ENGLISH,8489160
+2019-09-21 08:07:38,2019-09-21 08:08:40,IP Address,73.124.103.214,100,61,True,2019-09-21 08:08:41,R_1K8CCbkr9yZ7pqk,,,,,25.9842987060546875,-80.21489715576171875,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,86,,,,,,,,,,,,,29,,,,,,,,,,,,,,28,,,,,,,,,,,,,,,14,30,,,,,,,,,,,,,,,,,,,78,,,,,,,94,,,,,,,,,,,,,,76,,,,,,,,,18,,,,,,,,,,,,,,,24,,,,7,,,,,,,,,18–39,English,8996229
+2019-09-21 08:06:52,2019-09-21 08:09:21,IP Address,75.81.217.186,100,148,True,2019-09-21 08:09:22,R_3nAYZnLyDGvMBlF,,,,,37.5657958984375,-85.2667999267578125,anonymous,EN,,,,,,,,,,,100,100,,,,,,,,,,,,,,,,,100,,,,,,,,,,,,,,86,,,,,,68,,,,,,,,,41,,,,,,,,,,16,,,,,,,,,,,,,,,,,,13,,,,,,7,,,,,,,,,,,,,0,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40–64,English,1649157
+2019-09-21 08:02:29,2019-09-21 08:13:40,IP Address,104.162.255.40,100,671,True,2019-09-21 08:13:41,R_RJiKWF4oa1Abs6R,,,,,40.691497802734375,-73.853302001953125,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,100,,,,,,,,,,,,,,,,65,,,,,,,,,,90,,,,,,,,,,85,,,,,,,,,,70,,,,,,,,,,,,,,,65,,,,,,,,,,,,,,40,,,100,,,,,,,,,10,,,,,,,,,,,,,,,,,,,30,,,,,,,,,,,,0,,18–39,English,653347
+2019-09-21 08:21:09,2019-09-21 08:23:14,IP Address,75.65.38.225,100,124,True,2019-09-21 08:23:14,R_2UaBA7IT7wUUcj1,,,,,35.27520751953125,-89.72949981689453125,anonymous,EN,,91,,,,,,,,,,90,,,,,,,,,,,,,,,,,,,,,100,,,76,,,,,,,,,,,,58,,,,,,,,,,,,,63,,,,,,,,,,36,,,,,,,,,,,,,,11,,,,,,,,,,,,30,,,,,,,,,0,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,english,9377434
+2019-09-21 08:42:47,2019-09-21 08:44:36,IP Address,74.194.122.201,100,108,True,2019-09-21 08:44:36,R_SZWMyyQcPGRKCTn,,,,,36.331207275390625,-92.37529754638671875,anonymous,EN,,95,,,,,,,,,,,,,,,,95,,,,,,,,,,,,,,,100,,,,,90,,,,,,,,,85,,,,,,,,,,,,,,,,,,30,,9,,,,,,,,,,,,,,,,,,8,,,,,,,,,100,,,,,,,,,,,,,,0,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,English,1004981
+2019-09-21 09:03:25,2019-09-21 09:05:31,IP Address,108.17.82.118,100,125,True,2019-09-21 09:05:31,R_6ustS4JpOCuOVsB,,,,,40.537506103515625,-79.9644012451171875,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,97,,,,,,,,,,,,,,,,,,,70,,,,,,,,,71,,,,,,,,,,,,72,,,,,,,,77,,,,,,,,,12,,,,,,,,,,,,23,,,,,,,,,,,,,11,,,,,,,,,,,,,,,15,,,,,,,,,,,,13,,0,,,,,,,,,,40–64,English,2508828
+2019-09-21 09:05:04,2019-09-21 09:08:17,IP Address,173.95.144.71,100,193,True,2019-09-21 09:08:18,R_3fdt18DpVEuVJkK,,,,,35.9824981689453125,-78.53759765625,anonymous,EN,,,,,25,,,,,,,100,,,,,,,,,,,,,,,,,100,,,,,,,,,,,,70,,,,,,,,,,,,75,,,,35,,,,,,,,,,,,,10,,,,,,,,,,,,,,,,,,50,,,,,,,,,,20,,,,,,,0,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,english,4235164
+2019-09-21 09:05:01,2019-09-21 09:09:16,IP Address,73.169.119.154,100,255,True,2019-09-21 09:09:17,R_1KvbQkwKBIzYEc2,,,,,39.5883941650390625,-105.07759857177734375,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,100,,,,,,,,,,,,100,,,,,,,,,,,,,,90,,,,,,25,,,,,,,,,86,,,,,,,,,,,,,,,,20,,,,,25,,,,,,,,,,,,,6,,,,,,,,,,,,,,,,,,20,,,,,,,,,5,,,,,,,,,,,,,,0,40–64,ENGLISH,6644185
+2019-09-21 09:07:35,2019-09-21 09:10:08,IP Address,35.136.105.139,100,153,True,2019-09-21 09:10:08,R_1H8pVtAD49LjA7Z,,,,,28.3022003173828125,-82.62640380859375,anonymous,EN,,,,,,,,,,100,,,,,,,,,,100,,,,,,100,,,,,,,,,,,,,,80,,,,,,80,,,,,,,,,,,,90,,,,,,,,,,,,,,,,10,,,,,,,,,50,,,,,,,,,,10,,,,,,,0,,,,,,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,65 or older,english,3433238
+2019-09-21 09:16:24,2019-09-21 09:19:42,IP Address,73.236.40.189,100,197,True,2019-09-21 09:19:43,R_2Sqvck3Xdcjo9nQ,,,,,41.0240936279296875,-80.34539794921875,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,,,,,,100,,,,,,,,,,90,,,,,,,,,,60,,,,75,,,,,,,,,,,,70,,,,,,,,,,,,,25,,,,,,,,,,,,,,18,,,,,,,11,,,,,,,,,,,,,,,,,,,2,,,,,8,,,,,,,,,,,,0,,,,,,40–64,English,7755738
+2019-09-21 10:05:38,2019-09-21 10:09:17,IP Address,172.92.90.115,100,219,True,2019-09-21 10:09:17,R_3JxQ36zaxBorO2u,,,,,48.088104248046875,-123.1197967529296875,anonymous,EN,,,95,,,,,,,,,,,,,,,,,75,,,,,,,35,,,,,,,16,,,,,,,,,,,,,,,,,,,,60,,,20,,,,,,,,,,,,,,,,50,,,,,,,,,,,,,,,35,,,,,,,,4,,,,,,,,,0,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40–64,English,9395183
+2019-09-21 10:05:30,2019-09-21 10:09:41,IP Address,35.133.17.222,100,250,True,2019-09-21 10:09:41,R_2albNNyyCkcb20h,,,,,46.1298980712890625,-112.97389984130859375,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,,,,,,100,,,,84,,,,,,,,,,,,,,,60,,,,,,,,,,70,,,,,,,,,54,,,,,,,,,,,,,,,,,,30,20,,,,,,,,,,,,,,,,,,,10,,,,15,,,,,,,,,,,,,,20,,,,,,,,,,,,,,0,,,,40–64,English,2995901
+2019-09-21 10:07:15,2019-09-21 10:10:32,IP Address,69.133.33.254,100,197,True,2019-09-21 10:10:33,R_2zcGBeCfs3jva2y,,,,,39.6244049072265625,-84.37640380859375,anonymous,EN,,,100,,,,,,,,,100,,,,,,,,,,,,,,,100,,,,,,,,,,,,,,,79,,,,,,,,,,43,,,,,,,,,,25,,,,,,,,6,,,,,,,,,,,,,,,,,9,,,14,,,,,,,,,,,,,,,,,,,,0,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40–64,English,4638246
+2019-09-21 10:05:50,2019-09-21 10:10:59,IP Address,108.226.49.127,100,308,True,2019-09-21 10:11:01,R_32WpoJlbu2SAATY,,,,,36.351898193359375,-94.21970367431640625,anonymous,EN,,,100,,,,,,,,,,,,,,,,,,100,,,,,,,,100,,,,,,,,,,,,,,,25,,50,,,,,,,,,,,,,5,,,,,,,,,,,,,4,,,,,,,,,,,,,2,,,,10,,,,,,,,,,,,,,,0,,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,English,736574
+2019-09-21 10:06:14,2019-09-21 10:11:59,IP Address,23.125.44.89,100,344,True,2019-09-21 10:11:59,R_27s7JHs052qMRYC,,,,,25.533294677734375,-80.39730072021484375,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,100,,,,,,,,,,,,,,,80,,,,,,,,,,,,,85,,,,,,,,,,,,50,,,85,,,,,,,,,,,,,,20,,,,,,,15,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,2,,,,,,,5,,,,,,,,,,,,,0,,,,,,40–64,english,4862036
+2019-09-21 10:09:11,2019-09-21 10:12:10,IP Address,24.127.94.39,100,179,True,2019-09-21 10:12:11,R_2VNEW7AqHar5tvE,,,,,42.6428985595703125,-83.3545989990234375,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,100,,,,,,,,,,,,,,,,60,,,,,,,,,,,,85,,,,,,,,,,,,77,,69,,,,,,,,,,,,,,,,,27,,,,,,,,,10,,,,,,,,,,,,,,,,,6,,,,4,,,,,,,,,16,,,,,,,,,,,,,,,0,,,,,,40–64,English,3717608
+2019-09-21 10:08:18,2019-09-21 10:12:37,IP Address,174.126.244.111,100,259,True,2019-09-21 10:12:38,R_1ADtxwbR9btsQGl,,,,,33.481201171875,-88.35540008544921875,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,,,,,,0,,,,,,,,,0,,,,,,,50,,,,,,,,,,,,25,,,,,,,,,100,,,,,,,,,,,,,,,,,20,,,,,,,,,,,,,20,,,,,,,25,,,,,,,,,,0,,,,,,10,,,,,,,,,,,,0,,,,,,,,,,40–64,English,3219884
+2019-09-21 10:12:09,2019-09-21 10:13:41,IP Address,73.119.218.69,100,92,True,2019-09-21 10:13:42,R_2s1KOiSs75Z48wb,,,,,43.0110015869140625,-71.45709991455078125,anonymous,EN,,,,,,,100,,,,,,,,,,100,,,,,,,,,,,,,,,100,,,,,,,,,70,,,,,,,,,,,,,,60,,,,,,,,,40,,,,,,,60,,,,,,,,,,15,,,,,,,,15,,,,,,,,,,,,,0,,,,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,English,6688621
+2019-09-21 10:18:42,2019-09-21 10:20:24,IP Address,75.91.0.195,100,101,True,2019-09-21 10:20:25,R_1CpFFIrI1v0q0gp,,,,,31.655303955078125,-83.6063995361328125,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,,,,,9,,,,,,,,,,,,,35,,100,,,,,,,,,,,,,,36,,,,,,,,,,23,,,,,,,,,,,,,,,,,32,,,,,,,,38,,,,,,,,,,,,18,,,,,,95,,,,,,,,,29,,,,,,,,,,,,,,,,100,,,,,,18–39,english,4896519
+2019-09-21 11:08:14,2019-09-21 11:11:52,IP Address,174.87.54.141,100,218,True,2019-09-21 11:11:53,R_un6WQI5pEu42uoF,,,,,32.9015045166015625,-84.3323974609375,anonymous,EN,,,,,,,,100,,,,,,,,,,,,,100,,,,,,,100,,,,,,,90,,,,,,,,,,85,,,,,,,,,,,,,,,,,,,35,,,,,,,,,70,,,,,,,,15,,,,,,,,,,,,,,,,,,15,,,,,0,,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,English,7837865
+2019-09-21 11:08:27,2019-09-21 11:12:31,IP Address,174.235.145.107,100,243,True,2019-09-21 11:12:31,R_2cvZyjXLio1W7rD,,,,,30.5814056396484375,-91.1428985595703125,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,,100,,,,,,,,,,,,,60,,,,,,,,,,,,,75,,,,,,,,,,,,45,,,95,,,,,,,,,35,,,,,,,,,,,,25,,,,,,,,,,,,,,,,,,5,,,,,,,15,,,,,,,,,,30,,,,,,,,,,,,,,0,,,,,18–39,English,3865594
+2019-09-21 11:08:10,2019-09-21 11:16:12,IP Address,173.22.69.174,100,481,True,2019-09-21 11:16:12,R_yNJbD1C1JMMeDHb,,,,,36.2339019775390625,-75.876800537109375,anonymous,EN,,,,,,,,,100,,,,,,,100,,,,,,,,,100,,,,,,,,,,,,80,,,,,,,,,,,,,,,57,,,,,,,,,,,,,,20,,,,,,,,,,30,,,6,,,,,,,,,,35,,,,,,,,,,,,,,,,,0,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,English,3523759
+2019-09-21 11:14:02,2019-09-21 11:16:14,IP Address,74.187.141.211,100,131,True,2019-09-21 11:16:14,R_2Tpg0w7A9UYNdyl,,,,,36.34320068359375,-79.6641998291015625,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,,,,,100,,,,,,,,100,,,,,,,,70,,,,,,,,,,71,,,,,,,,,,,,,,88,,,,,,,,,,,,,,47,,,,,,,51,,,,,,,,14,,,,,,,,,,,,,,,,,,,,,6,,,,,,,9,,,,,,,,,,,,,,0,,40–64,english,4901010
+2019-09-21 11:23:12,2019-09-21 11:25:09,IP Address,184.98.81.69,100,116,True,2019-09-21 11:25:09,R_1k0TEp99zWUty0U,,,,,33.512298583984375,-112.14170074462890625,anonymous,EN,,,,,,78,,,,,,,,,100,,,,,,,,100,,,,,,,,,,,,87,,,,,,,,,,,,,,,,,,,,56,,,,,,,,23,,,,,,,,57,,,,,,,,,,,,,,,,8,,,,,,,,,,6,,,,,0,,,,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,English,167061
+2019-09-21 11:35:10,2019-09-21 11:36:49,IP Address,172.58.59.121,100,98,True,2019-09-21 11:36:49,R_2RakZqNrO6rKBu0,,,,,39.6959991455078125,-105.03459930419921875,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,,,100,,,,,90,,,,,,,,,,,,,,,,,,80,,,,,,90,,,,,,,,,,,,,,,,,57,,,,,,,,,,,,,20,,,,,15,,,,,,,,,,,,5,,,,,,,10,,,,,,,,,,,,,10,,,,,,,,,,,,,,,,,0,,18–39,English,4344257
+2019-09-21 12:10:30,2019-09-21 12:15:00,IP Address,174.64.32.250,100,270,True,2019-09-21 12:15:01,R_3fTzjLRfK346c8Z,,,,,38.8878936767578125,-77.44480133056640625,anonymous,EN,,,,,,,,,,100,,,,,,,100,,,,,,,,,,,,,,,,100,,,,84,,,,,,,,,,,,77,,,,,,,34,,,,,,,,,,,,,,,,,,8,,,,,,13,,,,,,,,,,14,,,,,,,,,,,,,,,,,,0,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40–64,english,9995627
+2019-09-21 12:17:27,2019-09-21 12:21:43,IP Address,71.185.53.140,100,255,True,2019-09-21 12:21:43,R_1n26v8LF75ShWzz,,,,,39.9015045166015625,-75.5048980712890625,anonymous,EN,,,,,,,,,65,,,,,78,,,,,,,,,,,,,,,,25,,,,,,,32,,,,,,,,,,,,,,,,,,40,,75,,,,,,,,,,,,,,,90,,,,,,,,,,,,80,,,,,,,,,65,,,,,,,50,,,,,,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40–64,English,836301
+2019-09-21 12:22:39,2019-09-21 12:25:33,IP Address,98.116.149.245,100,173,True,2019-09-21 12:25:33,R_29tr6pFfSkcT3Wz,,,,,40.5977935791015625,-74.00009918212890625,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,100,,,,,,,,,,,,65,,,,,,,,,,,,,,,,75,,,,90,,,,,,,,,,,,,,,,,,,75,,50,,,,,,,,,,,,,,,50,,,,,,,,,,,,5,,,,,,,,,,,,5,,,,,,,,,,,,10,,,0,,,,,,,,,,,18–39,English,980826
+2019-09-21 12:24:03,2019-09-21 12:26:34,IP Address,108.185.66.225,100,150,True,2019-09-21 12:26:35,R_2uCCZNZzThVpI8X,,,,,33.92120361328125,-118.14239501953125,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,,,,80,,,,,,,75,,,,,,,,,,,,70,,,,,,,,80,,,,,,,,,,,,,,,,,,70,,,,,,,,,,,,,40,,,,,,,35,,,,,,,,,,,,,,10,,,,30,,,,,,,,,,,,,,25,,,,,,0,,,,,,,,,,,18–39,English,2757263
+2019-09-21 12:27:34,2019-09-21 12:29:49,IP Address,64.121.8.104,100,135,True,2019-09-21 12:29:50,R_3G9fpjEA7sZyWLm,,,,,39.9048004150390625,-75.2946014404296875,anonymous,EN,,,,,,,,,,,94,,,,91,,,,,,,,,94,,,,,,,,,,96,,,,,,,,,,,,,,,,,,,96,,,,,,,,,,89,,,,,,94,,,,,,,,,,,,,,92,,,,,,,,,,,,97,,,,,,,,,,,,,,99,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,ENGLISH,8799142
+2019-09-21 12:27:05,2019-09-21 12:31:22,IP Address,76.255.22.107,100,257,True,2019-09-21 12:31:23,R_3PRdL4d36G5hNMp,,,,,43.0334014892578125,-89.451202392578125,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,,,,,90,,,,,85,,,,,,,,,,,,80,,,,,,,,,,,,,,,,,40,,,,,,33,,,,,,,,,,,,,,25,,,,,45,,,,,,,,,,,,,,,,,,,,5,10,,,,,,,,,,,,,,,,,15,,,,,,,,,,0,,,,,,18–39,English,3357317
+2019-09-21 12:38:17,2019-09-21 12:43:39,IP Address,184.63.239.64,100,321,True,2019-09-21 12:43:40,R_30w7261tkYSNlgH,,,,,44.519805908203125,-85.9459991455078125,anonymous,EN,,,,100,,,,,,,,,,,,,,,,100,,,,,,,,,100,,,,,,,,,85,,,,,,,,,,,,,,,,65,,,,15,,,,,,,,,,,,,,,,,,,3,,3,,,,,,,,,,,,,,,2,,,,,,,,,,,,,0,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40–64,46,7421980
+2019-09-21 12:46:53,2019-09-21 12:50:44,IP Address,68.42.138.254,100,231,True,2019-09-21 12:50:45,R_2B8rsAqVuC2Y0g8,,,,,42.331298828125,-83.46559906005859375,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,,,,,100,,,,,,84,,,,,,,,,,92,,,,,,,,,,,,,,,,,,58,,,,,,,68,,,,,,,,,,43,,,,,,,,35,,,,,,,,,,9,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,5,,,,,,,0,,,,,40–64,English,6238559
+2019-09-21 12:52:43,2019-09-21 13:04:44,IP Address,24.155.46.160,100,720,True,2019-09-21 13:04:44,R_2xxFKdVGooYAbFh,,,,,31.068206787109375,-97.391998291015625,anonymous,EN,,,100,,,,,,,,,,,,,,,,7,,,,,,,,100,,,,,,,,,,,,,75,,,,,,,,,,,,,,,30,,,,,,,,,28,,,,,,14,,,,,,,,,,,,,,,,,11,,20,,,,,,,,,,,,0,,,,,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,English,9990286
+2019-09-21 13:09:16,2019-09-21 13:12:00,IP Address,107.77.214.50,100,164,True,2019-09-21 13:12:01,R_1j8Rh7oKNd0oKdd,,,,,37.731903076171875,-121.40959930419921875,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,95,,,,,,,,,,,,,,90,,,,,,,,,,,,90,,,,,,,,,,,,,,75,,,,,80,,,,,,,50,,,,,,,,,,,,,10,,,,,,,,,,,,,,,,,,10,,,,,,,5,,,,,,,10,,,,,,,,,,,,,,,,,,0,,,40–64,English,8972177
+2019-09-21 13:52:05,2019-09-21 13:54:54,IP Address,68.113.78.227,100,168,True,2019-09-21 13:54:54,R_2waTM2ihVE3yHmc,,,,,34.273895263671875,-86.20639801025390625,anonymous,EN,,,,,,,100,,,,,,100,,,,,,,,,,80,,,,,,,,,,,,,95,,,,,,,,,,,,90,,,,,,,,,,,,,,,,40,,,,,,,,80,,,,,,,,,,,,,5,,,,,,,,,,,,,,20,,,,,0,,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40–64,English,5771360
+2019-09-21 13:53:05,2019-09-21 13:56:49,IP Address,104.54.108.177,100,224,True,2019-09-21 13:56:50,R_2tsYdlRg06eeoC3,,,,,27.1414947509765625,-80.2017974853515625,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,100,,,,,,,,,,,,,,,,,,75,,,25,,,,,,,,,,,,,83,,,,,,,,,,,,80,,,,,,,,,,,,,,,,,50,,,,,,,,,,,,40,,,,,,,,5,,,,,,,,,,10,,,,,,,,,,16,,,,,,,,,,0,,,,,,,18–39,English,8025427
+2019-09-21 13:58:14,2019-09-21 13:59:22,IP Address,24.198.72.48,100,68,True,2019-09-21 13:59:23,R_vVqyqe2W5JXapNv,,,,,42.5583038330078125,-70.87819671630859375,anonymous,EN,,,,,,,,100,,,,,,,,,,,,,,100,,,,,79,,,,,,,,,95,,,,,,,,,75,,,,,,,,,,,,,,,,,,,,51,,,20,,,,,,,,,,,,,,,33,,,,,,,,,,,,,,13,,,,,,0,,,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,English,3091604
+2019-09-21 13:56:43,2019-09-21 14:01:39,IP Address,69.23.201.73,100,295,True,2019-09-21 14:01:39,R_11i42FMFFj6CSTO,,,,,31.2653045654296875,-85.399200439453125,anonymous,EN,,,,,,50,,,,,,,,,,,,,,10,,,,91,,,,,,,,,,,,,,,,70,,,,,,,,91,,,,,,,,30,,,,,,,,,,,,,,,,,,,,7,,,,,,,,,3,,,,,,,,,,,,,,30,,,,,10,,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40–64,English,2437847
+2019-09-21 13:59:48,2019-09-21 14:02:01,IP Address,47.205.253.187,100,132,True,2019-09-21 14:02:01,R_1Ntrdu9T52WvPuo,,,,,28.016693115234375,-82.13590240478515625,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,100,,,,,,,,,,,,,,,,,,,82,,,,,,,,,,88,,,,,,,,,74,,,,,,,,,,,,83,,,,,,,46,,,,,,,,,,,,,,,,,,24,,,,,,8,,,,,,,,5,,,,,,,,,,,,,,,,,,,,19,,,,0,,,,,,,,18–39,English,4890089
+2019-09-21 14:19:14,2019-09-21 14:21:01,IP Address,73.6.230.60,100,106,True,2019-09-21 14:21:02,R_27r6GokHLMH10kI,,,,,29.738800048828125,-95.830902099609375,anonymous,EN,,,,,,100,,,,,,,,,,,,,100,,,,,,,,,,,,100,,,,,,,,,92,,,,,,,,,68,,,,,,,,,,,,,,,,17,,17,,,,,,,,,,,,,13,,,,,,,,,,,,,,,,,,,13,,,,0,,,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,English,1048258
+2019-09-21 14:25:34,2019-09-21 14:27:55,IP Address,73.219.249.59,100,140,True,2019-09-21 14:27:55,R_21H705APRMVRzne,,,,,42.246307373046875,-70.99720001220703125,anonymous,EN,100,,,,,,,,,,,,,,,100,,,,,,,,,100,,,,,,,,,,,,,,,,60,,,,,,,75,,,,,,,,,,,,,,35,,,,,,,,,,,,,,7,,,,,,,,,,4,,,,3,,,,,,,,,,,,,,,0,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,English,4121276
+2019-09-21 14:46:43,2019-09-21 14:50:42,IP Address,75.142.214.240,100,239,True,2019-09-21 14:50:43,R_2rOQzkP4hUei8FJ,,,,,34.4178924560546875,-117.306396484375,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,28,,,,,,,,,,,,,,,,,,,66,,,,,,,,,0,,,,,,,,,,100,,,,,16,,,,,,,,,,,,,,,,0,,,,,,,,,13,,,,,,,,,,,,,,,,,,100,,,,,,,,,39,,,,,20,,,,,,,,,,,,,0,,,,,,,18–39,English,7717175
+2019-09-21 14:51:53,2019-09-21 14:56:17,IP Address,107.181.164.68,100,263,True,2019-09-21 14:56:17,R_3HjiDjpwmzTNZgx,,,,,25.829498291015625,-80.29270172119140625,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,97,,,,,,,,,,,,,,85,,,,,,,,,,,,,,65,,,,,,,85,,,,,,,,,,,,,,,,,40,,20,,,,,,,,,,,,,,,,,,,,,25,,,,,,,15,,,,,,,,,,,,,10,,,,,,,,35,,,,,,,,0,,,,,,,,,40–64,English,8899939
+2019-09-21 14:54:23,2019-09-21 14:56:49,IP Address,208.58.101.200,100,145,True,2019-09-21 14:56:50,R_3j7EtSnh8xMFNFy,,,,,39.8784027099609375,-75.321502685546875,anonymous,EN,100,,,,,,,,,,,,,,,,,,,100,,,,100,,,,,,,,,,,,,,80,,,,,,,,,,,,,,,,35,,,,25,,,,,,,,,,,,,,25,,,,,,,,,,,,,,,,9,,,,,,,,4,,,,,,,0,,,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,English,9672873
+2019-09-21 14:54:16,2019-09-21 14:57:19,IP Address,73.23.217.206,100,182,True,2019-09-21 14:57:19,R_1d62Yw848Wondie,,,,,26.5366973876953125,-81.94460296630859375,anonymous,EN,,,,,,,,80,,,,,,,,,,,,80,,,,,,,,83,,,,,,75,,,,,,,,,,,,,,,,,93,,,,,,,,69,,,,,,,,,,,,,,,,,87,,,,,,65,,,,,,,,,85,,,,,,,,,,89,,,,,,,,,,71,78,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,ENGLISH,531267
+2019-09-21 14:51:51,2019-09-21 15:01:25,IP Address,66.68.22.234,100,573,True,2019-09-21 15:01:25,R_1g7rSWAB5Jaf0Eu,,,,,30.1826019287109375,-97.73940277099609375,anonymous,EN,,,,,,,,,100,,,,,,,,,,,,,100,100,,,,,,,,,,,,,,,,,65,,,,,,,,,,,,,,60,,,,,,,40,,,,,,,,,,15,,,,,,,,20,,,,,,,,,,,,,15,,,,,,,,,,0,,,,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,English,7232919
+2019-09-21 14:54:42,2019-09-21 15:03:40,IP Address,24.1.169.71,100,537,True,2019-09-21 15:03:41,R_2aOyyOEXgpZL9Hi,,,,,41.6837005615234375,-88.3498992919921875,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,73,,,,,,,,,,,,,,,,,,,,,91,,,,91,,,,,,,,,,,,,86,,,,,,,,98,,,,,,,,,,,,,52,,,,,,,,,,,,,,,52,,,,9,,,,,,,,,,,,,,,,3,,,,,,,,,,,,25,,,,,,,,,,,,,0,,40–64,English,6577743
+2019-09-21 15:03:15,2019-09-21 15:05:56,IP Address,174.58.25.22,100,161,True,2019-09-21 15:05:57,R_rinid1hsr285kWJ,,,,,27.3253936767578125,-82.473297119140625,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,100,,,,,,,,,88,,,,,,,,,,,,,,,,,,,64,,,,,,,,68,,,,,,,83,,,,,,,,,,,,,,,,17,,,,,,,,,,,,17,,,14,,,,,,,,,,,,,,,,16,,,,,,,,,,,,,,,,18,,,,,0,,,,,,,65 or older,English,943492
+2019-09-21 15:28:51,2019-09-21 15:32:08,IP Address,75.74.124.10,100,197,True,2019-09-21 15:32:08,R_3PgAwrAdHGkABuu,,,,,25.78460693359375,-80.233001708984375,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,91,83,94,,,,,,,,,,,,,,,86,,,,,,,,,91,,,,,,,,,,96,,,,,,,,,,,,,,,,,78,,,,,,,,,,,,,87,,,,,61,,,,,,,,,,,,,,,,,,87,,,,,,,93,,,,,,,,,,,,,42,,,,,,,,81,,,,,,18–39,English,6010368
+2019-09-21 15:52:12,2019-09-21 15:54:49,IP Address,71.90.252.191,100,157,True,2019-09-21 15:54:50,R_1kUOXPz2EpsjGci,,,,,34.3282928466796875,-86.48960113525390625,anonymous,EN,,100,,,,,,,,,,,,,,,,,100,,,,,,100,,,,,,,,,,,,,,,,,,75,,,,,,,,35,,,,,,,,,23,,,,,,,10,,,,,,,,,,,,,,6,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,0,70,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40–64,English,5178909
+2019-09-21 16:53:44,2019-09-21 16:55:45,IP Address,172.11.220.144,100,120,True,2019-09-21 16:55:45,R_1oI85dWDdSdHE6D,,,,,39.643798828125,-84.1743011474609375,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,,,,,,,90,,,93,,,,,,,,,,,,24,,,,,,,,,,,,,,,,,8,,,,,,,,,34,,,,,,,,,19,,,,,,,,,,26,,,,,,,,,,,,,,,8,,,,38,,,,,,,,,,,,,,,,30,,,,,4,,,,,,,,,,,18–39,English,4656115
+2019-09-21 16:54:03,2019-09-21 16:57:09,IP Address,104.156.125.63,100,185,True,2019-09-21 16:57:09,R_un6LOYE9bxJ4lSF,,,,,37.6609954833984375,-82.76360321044921875,anonymous,EN,,,,,,,,,,,100,,100,,,,,,,,,,100,,,,,,,,,,,,,,,,,,,77,,,,,,,,,,,,32,,,,,,,,,10,,,,,,,,,,69,,,,,,,19,,,,,,,,,,,,12,,,,,,,,,,,,0,,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,English,8631080
+2019-09-21 16:54:02,2019-09-21 16:57:18,IP Address,24.140.34.25,100,196,True,2019-09-21 16:57:19,R_1mzvGzE0WIqUa31,,,,,40.8141937255859375,-81.93869781494140625,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,95,,,,,,,,,,,,,,,,,,,95,,,,,,93,,,,,,,,,,,,80,,,,,,,,,,,,94,,,,,,,,,,,,,,,,10,,,48,,,,,,,,,,,,,,,,2,,,,,6,,,,,,,,,,,,,,,,,,,2,,,,,,,,0,,,,,40–64,English,8177747
+2019-09-21 16:55:25,2019-09-21 16:59:55,IP Address,174.96.240.48,100,269,True,2019-09-21 16:59:56,R_1OrhtXQSXl3WfzG,,,,,38.688507080078125,-85.79869842529296875,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,,,,,,6,,,,,7,,,,,,,,,,,,,80,,,,,,60,,,,,,,,,,,,,,,80,,,,,,,,,,,,,,,,,14,,,45,,,,,,,,,,,,,,,6,,,,,,7,,,,,,,,,,,,,,,,,,3,,,,,,,,,,0,,,,18–39,english,3758835
+2019-09-21 16:58:41,2019-09-21 17:01:59,IP Address,76.202.214.156,100,198,True,2019-09-21 17:02:00,R_3qJXOIlEZOXmtDM,,,,,41.638702392578125,-88.4438018798828125,anonymous,EN,,,,,,100,,,,,,72,,,,,,,,,,,,,,,,,100,,,,,,,,,,,,,,65,,,,,80,,,,,,,,,,,,35,,,,,,,,,,,,,,,,,15,,8,,,,,,,,,,,,8,,,,,,,,,,,,,,,,0,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,English,2482646
+2019-09-21 17:02:04,2019-09-21 17:06:24,IP Address,184.90.92.184,100,260,True,2019-09-21 17:06:25,R_1Q4NoIH4xrmHQIF,,,,,28.57269287109375,-80.8206024169921875,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,25,,,,,,,,,,,,,30,,,,,,,,,,,,,20,,,,,,,,,,0,,,,,75,,,,,,,,,,,,,30,,,,,,,,,,,,,30,,,,,,4,,,,,,,,,,,,,100,,,,,,,,,,,,,,,,,,,25,,,,,,,,,,23,,40–64,english,7107639
+2019-09-21 17:51:54,2019-09-21 17:57:22,IP Address,99.57.35.40,100,327,True,2019-09-21 17:57:22,R_UEnrfJ9UGHR2HXb,,,,,42.35400390625,-87.86750030517578125,anonymous,EN,,,,,,30,,,,,,,30,,,,,,,,,,100,,,,,,,,,,,,,,15,,,,,,,,,,,,,,,40,,,,,,,,,,,,50,,,,,12,,,,,,,,,,,,,15,,,,,,,,,,,,,,,,,15,,,,,,,0,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40–64,English,5339371
+2019-09-21 17:59:44,2019-09-21 18:02:45,IP Address,108.20.177.2,100,180,True,2019-09-21 18:02:45,R_2ci1a4e175Qu7ts,,,,,42.310394287109375,-71.27410125732421875,anonymous,EN,,,,,,,,,,,97,,,,,,61,,,,,,,,,,,,,,69,,,,,,,93,,,,,,,67,,,,,,,,,,,,69,,,,,,,,,,,,,98,,,,,,,,,,,,,,,56,,,,,,,,,,,,,62,,,,68,,,,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,English,7266538
+2019-09-21 17:59:45,2019-09-21 18:02:55,IP Address,165.225.39.13,100,189,True,2019-09-21 18:02:55,R_3EbPAHca8kmiXzK,,,,,40.738006591796875,-73.98580169677734375,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,100,,,,,,,,,,,,50,,,,,,,,,,,,,,74,,,,,,83,,,,,,,,,,,,,,,,,,,40,,,,,,,,,,17,,,,,,,,,,18,,,21,,,,,,,,,,,,,,,,11,,,,,,,13,,,,,,,,,,,,,,,,0,,,,,18–39,English,1285144
+2019-09-21 17:59:22,2019-09-21 18:03:03,IP Address,67.84.243.252,100,220,True,2019-09-21 18:03:03,R_PXv6MCuj1ZQXnPz,,,,,40.9208984375,-72.34909820556640625,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,82,,,,,,,,,,,,,92,,,,,,,,93,,,,,,,,,,,,,,,,,,,,,73,,,,,,,,,85,,,,,,,82,,,,,,,,,,,,,,80,,,,,,,,,85,,,,,,,,79,,,,,,,,,,,,,,,,,,89,,,,,,,,75,,,,,18–39,English,3671086
+2019-09-21 18:03:18,2019-09-21 18:06:27,IP Address,73.188.191.75,100,189,True,2019-09-21 18:06:28,R_1LpyP8MRtx4CmAs,,,,,40.0345001220703125,-75.11930084228515625,anonymous,EN,,,,,,,100,,,,,,100,,,,,,,,,,,,,,35,,,,,,,75,,,,,,,,,,,,,,,,,,,83,,,,,,,,,,15,,,,,,,,,80,,,,,,,,,,,,,,,,20,,,86,,,,,,,,,,,,,,,,,,0,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,English,9407331
+2019-09-21 18:08:51,2019-09-21 18:10:58,IP Address,76.87.178.24,100,127,True,2019-09-21 18:10:58,R_1mxgQ5iJibTt4D9,,,,,34.57049560546875,-118.02899932861328125,anonymous,EN,,,100,,,,,,,,,100,,,,,,,,,,,,,,,,,,,,100,,,,,,,,,80,,,,,60,,,,,,,,,,,,,,,,40,,,,,,,,,,40,,,,,,,,,,30,,,,,,,,,,,,,,,30,,,,,,,,,,,,,0,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,English,921341
+2019-09-21 18:17:32,2019-09-21 18:19:12,IP Address,67.85.138.206,100,100,True,2019-09-21 18:19:12,R_28IFgrvoBIH4HlR,,,,,40.98199462890625,-72.30670166015625,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,,67,,,,,,,68,,,,,,,,,,,,,,,,,80,,,,69,,,,,,,,,,,,,,,,,,,,64,,,,,,,,83,,,,,,,76,,,,,,,,,,,,,,,,,70,,,,,,,,,,,,,74,,,,,68,,,,,,,,,,72,,,,,,,,18–39,English,7009347
+2019-09-21 18:42:03,2019-09-21 18:43:50,IP Address,76.181.2.146,100,106,True,2019-09-21 18:43:50,R_3pmXM1A0Wtjwvnp,,,,,39.40570068359375,-87.4026031494140625,anonymous,EN,,,,,,,,,9,,,,,,,,,,2,,,,,,,,,,15,,,,,,,,26,,,,,,,,,,,,25,,,,,,,,,,,,,,,,8,,,,,,,,,,,,100,,,,,,11,,,,,,,73,,,,,,,,,,6,,,,,,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,english,2769343
+2019-09-21 18:45:53,2019-09-21 18:47:59,IP Address,73.126.19.239,100,125,True,2019-09-21 18:47:59,R_1mf1HNXQW4FYYC0,,,,,42.7530059814453125,-71.02700042724609375,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,,,,,92,,,,,65,,,,,,,,,69,,,,,,,,,,,,,,,73,,,,,,,,,,,,,,,,79,,,,,36,,,,,,,,,,,,,32,,,,,,,18,,,,,,,,,,,,,,,,22,,,,,,,,,,,,,,,13,,,,,,,,5,,,,18–39,English,8195685
+2019-09-21 19:01:43,2019-09-21 19:05:40,IP Address,107.185.127.204,100,236,True,2019-09-21 19:05:40,R_XSZ9iWx7Fng8a6B,,,,,33.967498779296875,-118.14640045166015625,anonymous,EN,,,,,,,100,,,,,,,,,,,,,,,100,,100,,,,,,,,,,,,,,,76,,,,,,,,90,,,,,,,,,30,,,,,,,,,,,,,,,25,,,,,,,,,,,,,,,10,,,,,,,,,,,,20,,,,,,,,,0,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,"English ",8119868
+2019-09-21 19:09:30,2019-09-21 19:15:01,IP Address,67.8.193.168,100,330,True,2019-09-21 19:15:01,R_3Ryomvz2vLrsLSy,,,,,28.9093017578125,-81.19219970703125,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,,,,,,90,,50,,,,,,,,,,,,,,,,,,,,,100,,,,,40,,,,,,,,,100,,,,,,,,,,,,,,,,11,,,,,,,,,,20,,,,,,,,,,5,,,,,,,13,,,,,,,,,,,,,2,,,,,,,,,,,,,,,,10,,,40–64,english,2864610
+2019-09-21 19:04:01,2019-09-21 19:22:05,IP Address,99.140.76.118,100,1084,True,2019-09-21 19:22:06,R_2Vg3NIb7nfxxdYr,,,,,25.890594482421875,-80.17839813232421875,anonymous,EN,,,,,,,,,80,,,,,,,,,,,,,100,100,,,,,,,,,,,,,,87,,,,,,,,,,,,,,82,,,,,,35,,,,,,,,,,,,,,16,,,,,,,,,,,,,,,,13,,,,23,,,,,,,,,,,,,,0,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,English,3473368
+2019-09-21 19:16:53,2019-09-21 19:35:00,IP Address,74.140.109.188,100,1087,True,2019-09-21 19:35:01,R_3nPi8fuv1rhKvOz,,,,,40.0731964111328125,-82.401702880859375,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,17,,,,,,,,,,,,,,,,,,,87,,,,,,,,,80,,,,,,58,,,,,,,,,,,,,,,,,,,73,,,,28,,,,,,,,,,,,,,,,,,,39,,,,,,,,3,,,,,,,10,,,,,,,,,,,,21,,,,,,,,,,,,0,,,,,,18–39,English,2706491
+2019-09-21 19:39:07,2019-09-21 19:41:28,IP Address,174.230.137.125,100,141,True,2019-09-21 19:41:29,R_3k0s1LvtxEQiKj1,,,,,42.335296630859375,-83.28639984130859375,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,77,,,,,,,,,,,,,,,,18,,,,,,,,,80,,,,,,,,,,,,67,,,,,67,,,,,,,,,,,,,,,,,,,78,,,,,,,,,,,,,8,,,,,,,,,,80,,,,,84,,,,,,,,,,,,90,,,,,,,,51,,,,,,,,,,40–64,English,6802466
+2019-09-21 19:42:39,2019-09-21 19:48:24,IP Address,108.30.47.212,100,344,True,2019-09-21 19:48:24,R_30c4RMQMOs2XZPB,,,,,40.6703948974609375,-73.69809722900390625,anonymous,EN,,,,,,,,,100,,,,,,,,,,,,,50,50,,,,,,,,,,,,,,95,,,,,,,,,,,,,,,,,90,,,,,,,,70,,,,,,,,,,,,7,,,,,,,,10,,,,,,,,,,,,11,,,,,,,0,,,,,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,"English ",2845631
+2019-09-21 20:41:59,2019-09-21 20:44:07,IP Address,24.93.29.236,100,127,True,2019-09-21 20:44:08,R_2ROGKp0p7pjcqb3,,,,,43.078399658203125,-77.33719635009765625,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,100,,,,,,,,,,,,89,,,,,,71,,,,,,,,,,,,,96,,,,,,,,,,,,,,,,,93,,,,,,,,,31,,,,,,,,,,,,8,,,,,9,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,,10,,,,,,,,,,,,0,18–39,English,8569062
+2019-09-21 21:03:37,2019-09-21 21:05:39,IP Address,107.204.153.60,100,122,True,2019-09-21 21:05:39,R_1igIpwZZYMinDJU,,,,,32.8571014404296875,-116.919097900390625,anonymous,EN,,,,,,,,,,,100,,,,,,,,100,,,,,,,,,100,,,,,,,,,,90,,,,,,,,,,,,,55,,,,,,,,20,,,,,,,,,,,,,,,,35,,,11,,,,,,,,,,,,10,,,,,,,,,,,,,,,,,,,0,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,English,3872305
+2019-09-21 21:03:27,2019-09-21 21:06:20,IP Address,71.82.202.43,100,173,True,2019-09-21 21:06:21,R_3pao8fMOjGN7v53,,,,,41.9281005859375,-83.44499969482421875,anonymous,EN,,100,,,,,,,,,,,,,,,,,,,100,,,,,,,,,,100,,,,,,89,,,,,,,,,,,,,,,20,,,,,,,,,,40,,,,,,,,,,,,,,,7,,,,,3,,,,,,,6,,,,,,,,,,,,,0,,,,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,english,6401431
+2019-09-21 21:04:40,2019-09-21 21:08:09,IP Address,71.81.87.92,100,208,True,2019-09-21 21:08:09,R_2qqi1UiQoJKpL5f,,,,,38.4073028564453125,-90.436798095703125,anonymous,EN,,,,100,,,,,,,,,58,,,,,,,,,,,,,,,,,,,100,,,,,,,,,,96,,,,,,,,97,,,,,,,,,,,,,,,,11,,,,,,,,37,,,,,,,,21,,,,,,,5,,,,,,,,,,,,,37,,,,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40–64,English,7865449
+2019-09-21 21:04:47,2019-09-21 21:09:25,IP Address,75.167.35.20,100,277,True,2019-09-21 21:09:26,R_3CWpRtNnXL3tolp,,,,,33.3428955078125,-111.63469696044921875,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,,,,,,,100,,,,,,,,,80,,,,,,,,,,,,90,,,,,,35,,,,,,,,,,,,,60,,,,,,,,,,20,,,,,,30,,,,,,,,,,,,,20,,,,,,,,,,,,,,,,7,,,,,10,,,,,,,,,,,,,0,,,,,,,,18–39,Spanish,3966396
+2019-09-21 21:06:46,2019-09-21 21:09:45,IP Address,174.195.16.142,100,179,True,2019-09-21 21:09:46,R_2VeSq4MjF6Xb48N,,,,,36.17230224609375,-86.660797119140625,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,,,,,,90,,,,,85,,,,,,,,,,,,,78,,,,,,,76,,,,,,,,,,,,,,,,,,63,,,,,,,,,,18,,,,30,,,,,,,,,,,,,,,,,,,,,10,,,,,8,,,,,,,,,,,,,10,,,,,,,4,,,,,,,,,18–39,English,6462951
+2019-09-21 21:46:02,2019-09-21 21:47:34,IP Address,96.19.199.139,100,92,True,2019-09-21 21:47:35,R_1hQCNIywWvbzMfF,,,,,43.5345001220703125,-115.971099853515625,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,100,,,,,,,,,,,,,,70,,,,,,75,,,,,,,,,,,,,,,,,,65,,,,,,,80,,,,,,,,,,,,45,,,,,,,,15,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,8,,,,,,,,,,,,,14,,,,,,,0,,,,,18–39,English,5533042
+2019-09-21 21:19:12,2019-09-21 21:55:02,IP Address,100.12.206.157,100,2150,True,2019-09-21 21:55:03,R_BPMVXxk6h6D5No5,,,,,40.7364044189453125,-73.86949920654296875,anonymous,EN,,,,,,,,,,100,,100,,,,,,,,,,,,,,,,,,,100,,,,,,,,,,,,,80,,,,,,,63,,,,,,,,11,,,,,,,,,32,,,,,,,,,,,,,,15,,,,,,,,,15,,,,,,,,,,,,,,0,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,English,5230207
+2019-09-21 22:06:24,2019-09-21 22:30:50,IP Address,108.196.136.202,100,1465,True,2019-09-21 22:30:50,R_2vdi7wGllINjTfy,,,,,29.032501220703125,-95.4026031494140625,anonymous,EN,,,,,100,,,,,,,,,,,,,,100,,,,100,,,,,,,,,,,,,,,,,,,,,50,,,100,,,,,,,,,,,,,,,15,,,,,,,,,,50,,,,,,,,,,,,,,7,,,,7,,,,,,,,,,,,,0,,,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,english,8072426
+2019-09-21 22:32:55,2019-09-21 22:35:30,IP Address,107.77.234.13,100,154,True,2019-09-21 22:35:30,R_2Yb60o2JCJpY9ne,,,,,35.2295989990234375,-80.8430023193359375,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,,,100,,,,,,,,,,,,5,,,,,,,,30,,,,,,,,,,30,,,,,,,,,,,,,,,,50,,,40,,,,,,,,,,,,,25,,,,,,,,,,,,,,8,,,,,,,0,,,,,,,,,,,,,,,,,,,10,,,,,,,,,,,,0,18–39,English,7490050
+2019-09-21 22:36:11,2019-09-21 22:39:00,IP Address,70.179.150.173,100,168,True,2019-09-21 22:39:00,R_2txOhjxVPEQ9CfU,,,,,37.7487945556640625,-97.356597900390625,anonymous,EN,,,,,,,100,,,,,,,,,,,,100,,,,,,,,,100,,,,,,,,,,85,,,,,,,53,,,,,,,,,,,,16,,,,,,,,,,,,,,,,,,,,31,,,,,,,,,,12,,,,9,,,,,,,,,,,,,,,,,0,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,english,1135313
+2019-09-21 22:44:37,2019-09-21 22:47:55,IP Address,204.116.92.61,100,197,True,2019-09-21 22:47:56,R_3NPVpvrQfSETDdw,,,,,34.65460205078125,-80.36389923095703125,anonymous,EN,100,,,,,,,,,,,,,,,,100,,,,,,,100,,,,,,,,,,,,,,,,65,,,,,,,,,,,,,,,65,,,,,,,,19,,,,,,,,,,,,,4,,,,,,,,,,3,,,,,,,3,,,,,,,,,,0,,,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40–64,English,9745133
+2019-09-21 22:55:58,2019-09-21 23:01:04,IP Address,67.1.194.233,100,305,True,2019-09-21 23:01:05,R_OxlqMTMgbVAmy6R,,,,,32.2447967529296875,-111.02140045166015625,anonymous,EN,,,,,100,,,,,,,,,100,,,,,,,,,,,,,,,,,,,100,,,,,,,,,80,,,,,,,,,65,,,,,,,,,,,,,,35,,38,,,,,,,,,,,,24,,,,,,,,,,,,,,,29,,,,,,,,,,,,,0,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40–64,English,8407030
+2019-09-21 23:07:31,2019-09-21 23:10:05,IP Address,174.87.230.10,100,154,True,2019-09-21 23:10:05,R_1duDz9h0APgFNwW,,,,,39.4971923828125,-119.776397705078125,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,100,,,,,,,,,,,,,,,,,,,90,,,,,,,,,95,,,,,,,,80,,,,,,,,,,94,,,,,,,,,,,,,28,,,,,,,,,,,,,,,,17,,,,,,,,,,,,23,,10,,,,,,,,,,,,,,,,,14,,,,,,,,,0,,,,,,40–64,English,6384972
+2019-09-21 23:14:01,2019-09-21 23:18:06,IP Address,75.54.118.10,100,245,True,2019-09-21 23:18:07,R_1q8xfQX7SKBAnDi,,,,,33.957305908203125,-118.311798095703125,anonymous,EN,,,,99,,,,,,,,,,,,,,,,98,,,,,100,,,,,,,,,,,,,,,,,,,81,,,,,,,,1,,,,33,,,,,,,,,,,,93,,,,,,,,,,,,,,,,77,,,,,,,,,,18,,,,,,,,,,0,,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40–64,English,3231144
+2019-09-22 00:38:09,2019-09-22 00:43:54,IP Address,99.74.219.213,100,345,True,2019-09-22 00:43:55,R_1FQvENUPvDYriwg,,,,,32.9510955810546875,-117.22409820556640625,anonymous,EN,,,,,,,100,,,,,,,,,,,,,100,,,,,,,,,,,,100,,,,,,,,,65,,,,,,,,45,,,,,,,,,22,,,,,,,,,29,,,,,,,,,,,,,,3,,,,,,,,,,,,,3,,,,,,,,,,,,,,,,0,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,English,2350145
+2019-09-22 00:36:46,2019-09-22 00:44:30,IP Address,73.177.126.243,100,464,True,2019-09-22 00:44:31,R_wQQIx24PSSvT1wB,,,,,32.4698944091796875,-90.110198974609375,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,,,100,,,,,,,,,,,,,,85,,,,95,,,,,,,,,80,,,,,,,,,,,,,,,,,,,,,80,,,,,,50,,,,,,,,,,15,,,,,,,,,,,,,,,2,,,,5,,,,,,,,,,,,,,,,,3,,,,,,,0,,,,,,,,40–64,English,8132487
+2019-09-22 00:44:45,2019-09-22 00:46:46,IP Address,67.41.241.141,100,120,True,2019-09-22 00:46:46,R_2QWYfnoTQXWH7B7,,,,,41.62890625,-93.72550201416015625,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,88,,,,,,,,,,62,,,,,,,,,,,,,,,,,,,57,,,,,,87,,,,,,,,,,,,37,,,,,,,,,,,,,29,,,15,,,,,,,,,,,,,,,9,,,,,,,,,,,,,,2,,,,,7,,,,,,,,,,,,,,,,,,,0,,18–39,english,2952818
+2019-09-22 01:13:47,2019-09-22 01:16:59,IP Address,76.185.183.214,100,191,True,2019-09-22 01:16:59,R_Q4W8dHgJKGrgsFj,,,,,29.414794921875,-98.4600982666015625,anonymous,EN,,,,,,,,,,100,,,,,,,,,,,,100,,,,,,,,,100,,,,,,,90,,,,,,,,,,,,75,,,,,,,,,50,,,,,,,,,,,,,,70,,,,,,,,,,,,4,,,,40,,,,,,,,,,,,,0,,,,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,english,1921532
+2019-09-22 01:33:49,2019-09-22 01:36:34,IP Address,97.88.148.3,100,164,True,2019-09-22 01:36:34,R_1o5VhJ2IhcIxxhB,,,,,43.89739990234375,-91.2313995361328125,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,,,,,100,,,,,,83,,,,,,,,,,,,,,70,,,,,,,,,,,,38,,,,55,,,,,,,,,,,,,,,40,,,,,,,,17,,,,,,,,,,,,,,,,,,,,23,,,,,,12,,,,,,,,,,,,,,,10,,,,0,,,,,,,,,18–39,english,8069222
+2019-09-22 01:38:38,2019-09-22 01:43:51,IP Address,172.88.204.99,100,312,True,2019-09-22 01:43:52,R_ah13PTQKwhtFIyd,,,,,33.907501220703125,-117.78659820556640625,anonymous,EN,,,,,,,,,,100,,,100,,,,,,,,,,,,,,,,34,,,,,,,,,,100,,,,,,61,,,,,,,,,,,,,,41,,,,,,,,,,,,,,,10,,,,,,,,,,,,,,22,,,,,18,,,,,,,,,71,,,,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,English,645274
+2019-09-22 01:41:31,2019-09-22 01:45:32,IP Address,184.90.1.43,100,241,True,2019-09-22 01:45:33,R_xmcBkMDcicqlM2J,,,,,29.2866058349609375,-81.0868988037109375,anonymous,EN,100,,,,,,,,,,,,,,,,,,100,,,,,,100,,,,,,,,,,,,90,,,,,,,,,,,,,,,,,,65,,15,,,,,,,,,,,,,,,,12,,,,,,,,,,,,,3,,,,,,,7,,,,,,,,,,,,0,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,English,8035552
+2019-09-22 01:41:35,2019-09-22 01:46:14,IP Address,162.206.15.180,100,279,True,2019-09-22 01:46:15,R_2aaRLeH8Mp9My8G,,,,,31.777496337890625,-106.49030303955078125,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,15,,,,,,,,,,,,,,,,100,,,,,,,,,,,,,,,5,,,,90,,,,,,,,,,,,,,,,2,,,,,30,,,,,,,,,,,,,15,,,,,,,,,,,,,,50,,,,,,,,,,,,,,,100,,,,,,,,,90,,,,,,,0,,,,,,,18–39,English,8774272
+2019-09-22 01:47:33,2019-09-22 01:57:36,IP Address,111.68.97.206,100,603,True,2019-09-22 01:57:36,R_1MXSWTamrtAvdE4,,,,,33.6974945068359375,73.0146026611328125,anonymous,EN,100,,,,,,,,,,,,,,,,,,90,,,,,,100,,,,,,,,,,,,,,,,,70,,,,,,,80,,,,,,,,,,,,50,,,,,,,,,,,,80,,,,,,,,30,,,,,,,,,,,,,,,,,,60,,,,,,,,,,5,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,English,7364594
+2019-09-22 02:05:35,2019-09-22 02:08:35,IP Address,174.223.138.195,100,179,True,2019-09-22 02:08:35,R_1IFW5Nw0CB3xFql,,,,,33.4662933349609375,-86.8079986572265625,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,100,,,,,,,,,,,,82,,,,,,,,,,,,,,,,79,,,,,,,,,,,,,83,,85,,,,,,,,,,28,,,,,,,,,,,,,,,,,,,,21,,,,,,7,,,,,,,,,,,,,,12,,,,,,,,,,67,,,,,,,,,,8,,,,,,18–39,English,8702917
+2019-09-22 02:16:00,2019-09-22 02:20:19,IP Address,76.179.76.7,100,259,True,2019-09-22 02:20:19,R_xDc4KQEWsLBvj6F,,,,,43.684295654296875,-70.4680023193359375,anonymous,EN,,,,,,,,,,6,,,76,,,,,,,,,,,,,18,,,,,,,,,,,,,,,,61,,,,,,,,58,,,,,,,,,,,,,,,,34,,,,,80,,,,,,,,,,,,,60,,,,,,,,,,,,6,,,,18,,,,,,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40–64,English,761077
+2019-09-22 02:21:51,2019-09-22 02:24:24,IP Address,174.85.199.139,100,152,True,2019-09-22 02:24:24,R_cD9qD3YX0G9Sng5,,,,,32.9163970947265625,-85.936798095703125,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,,,,,100,,,75,,,,,,,,,,,,,,,,,,,,75,,,,,,,,,,,,80,,,,,,,,85,,,,,25,,,,,,,,,,,,25,,,,,,,,,,,,,5,,,,,,,,,,5,,,,,,,,,,,,,,10,,,,,,,,,,0,,,,,,18–39,English,5806382
+2019-09-22 02:40:51,2019-09-22 02:43:24,IP Address,204.210.117.92,100,152,True,2019-09-22 02:43:24,R_1pXTuVNrJ7cskHf,,,,,21.2998046875,-157.843902587890625,anonymous,EN,,,,,,,,,,100,,,100,,,,,,,,,,,,,,,,100,,,,,,,,,,,,90,,,,50,,,,,,,,,,,,,70,,,,,,,,,,,,,20,,,,,,,,,,,,20,,,,,,,,,,,,,,,,10,,,,,,,,,0,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,English,1840036
+2019-09-22 02:40:32,2019-09-22 02:43:53,IP Address,47.135.88.232,100,201,True,2019-09-22 02:43:54,R_2dRPJeLV7dv52pk,,,,,36.2017059326171875,-81.12860107421875,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,80,,,,,,,,,,,,90,,,,,,,,,,,,,,,70,,,,,,,,,,,,,,,,65,,,,,,,,65,,,,,,,,55,,,,,,,,,60,,,,,,,,,,,,,,,,,10,,,,,,10,,,,,,,,,,,,,,,,,10,,,,,,,,0,,,,,18–39,English,7426028
+2019-09-22 02:41:44,2019-09-22 02:45:24,IP Address,67.169.209.224,100,219,True,2019-09-22 02:45:24,R_d7tAx3CCiCr80db,,,,,44.592803955078125,-123.27459716796875,anonymous,EN,,,,,,,,6,,,,,,,,,100,,,,,,,,,,,,,,18,,,,,,,,,78,,,,,,,,,,,,,,22,,,37,,,,,,,,,,25,,,,,,,,,,,,,,,16,,,,,,,,,,25,,,,,,,,,,100,,,,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40–64,English,1590966
+2019-09-22 02:44:02,2019-09-22 02:47:08,IP Address,70.95.30.129,100,185,True,2019-09-22 02:47:08,R_3IRdR4NbM2jaQYG,,,,,32.9163970947265625,-117.1392974853515625,anonymous,EN,,,,,,100,,,,,,,,,,,,100,,,,,100,,,,,,,,,,,,90,,,,,,,,,,,,,,,,,,,80,,,,,,50,,,,,,,,,,15,,,,,,,,,,,,,,,9,,,,,,,,,,,,9,,,,,0,,,,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,English,8640936
+2019-09-22 02:44:00,2019-09-22 02:48:31,IP Address,24.45.7.187,100,270,True,2019-09-22 02:48:31,R_3sBP9geh7Eip3Ct,,,,,40.8730926513671875,-74.7425994873046875,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,,,83,,,,,,85,,,,,,,,,,,,,45,,,,,,,,,,,,38,,,,,,,,,85,,,,,,,,,,,,,,,,12,,,,,,,,,,,,,,17,,,,,,8,,,,,,2,,,,,,,,,,,,,,,,,,,,3,,,,,,,,,,0,,,18–39,English,515125
+2019-09-22 02:41:34,2019-09-22 02:48:43,IP Address,73.45.178.46,100,428,True,2019-09-22 02:48:43,R_WB5Pq8lK78Jclk5,,,,,41.9409027099609375,-87.6531982421875,anonymous,EN,,,,,100,,,,,,,,,,,,,,,,100,,,,,,,,,,25,,,,,95,,,,,,,,,,,,,,,,,,,62,,,,,,36,,,,,,24,,,,,,,,,,,,,,,,,,7,,,,,17,,,,,,,,,,,,,0,,,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,english,61480
+2019-09-22 02:42:37,2019-09-22 02:50:44,IP Address,71.197.168.3,100,487,True,2019-09-22 02:50:45,R_Uu26PbS3iiPyZiN,,,,,47.1125030517578125,-122.5890960693359375,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,21,,,,,,,,,,0,,,,,,,,,,0,,,,,,,,,,,,,,,,,13,,,,,,,,100,,,,,,0,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,71,,,100,,,,,,,,,,,,,,,,,,,,0,,,,,,,14,,,,,40–64,English Language,3183540
+2019-09-22 03:18:14,2019-09-22 03:24:46,IP Address,23.124.117.158,100,392,True,2019-09-22 03:24:47,R_248EEXiR7WBNXxO,,,,,39.1215057373046875,-86.578399658203125,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,,,,100,,,,,,,,,,,,,,90,,80,,,,,,,,,,,,,,,,75,,,,,,,95,,,,,,,,,30,,,,,,,,,,,,,,,,,,,20,,,,,,,,,,,,5,,,,,5,,,,,,,,,,,,,10,,,,,,,,,,0,,,,,,,18–39,English,509037
+2019-09-22 03:43:26,2019-09-22 03:45:45,IP Address,122.31.137.102,100,138,True,2019-09-22 03:45:45,R_3JqvgWzkH13xmt8,,,,,34.82879638671875,136.938507080078125,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,,,,,,,95,,75,,,,,,,,,,,,,,,,,,60,,,,,,,,,,,,65,,81,,,,,,,,,,,,,,,,,35,,,,,,,,24,,,,,,,,,,,,,12,,,,,,,,,,,,,3,,,,,,20,,,,,,,,,,,,,0,,,,,,,18–39,English,720629
+2019-09-22 03:43:32,2019-09-22 03:46:10,IP Address,68.82.252.40,100,157,True,2019-09-22 03:46:10,R_0kTMKYqhxkt34ul,,,,,40.107696533203125,-75.27960205078125,anonymous,EN,,,,,,,100,,,,,,,,,,,,,100,,,,,,,,,,,,100,,,,,80,,,,,,,,,,,,35,,,,,,,,,,,,60,,,,,,,,,,,,,,,,25,5,,,,,,,,,,,,15,,,,,,,,,,,,,,,,,0,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,English,4802398
+2019-09-22 03:44:47,2019-09-22 03:48:01,IP Address,107.72.178.78,100,194,True,2019-09-22 03:48:02,R_2TXaIdeGJwafHAV,,,,,25.7277069091796875,-80.3715972900390625,anonymous,EN,100,,,,,,,,,,,,,,,100,,,,,,,,,,100,,,,,,,,,,,,,,,,77,,,,,,,,,,,,35,,,,,,,21,,,,,,,,,,,,,,,,80,,,,,,,,3,,,,,,,,,,74,,,,,,0,,,,,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,English,8346571
+2019-09-22 03:43:10,2019-09-22 03:50:13,IP Address,73.230.218.46,100,422,True,2019-09-22 03:50:14,R_Wj7ETSVfGNGjIfD,,,,,40.26019287109375,-76.859100341796875,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,,,,100,,,,,,,,,,,,87,,,,,,,,,,,,,87,,,,,,40,,,,,,,,,,,,,,,21,,,,7,,,,,,,,,,,,4,,,,,,,,,,,,,,33,,,,,,,,,8,,,,,,,,5,,,,,,,,,,0,,,,,,,,,,,18–39,English,9552176
+2019-09-22 03:52:48,2019-09-22 03:55:10,IP Address,174.128.181.67,100,142,True,2019-09-22 03:55:10,R_23eHCYzjvFr2dBI,,,,,37.751007080078125,-97.82199859619140625,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,,92,,,,,,,,,20,,,,,,,,,,,,,,,,,28,,,,,,,,,,,,8,,,,,,,,,76,,,,,,,,,65,,,,,,64,,,,,,,,,,,,15,,,,,,,,,,,,,,,,89,,,,17,,,,,,,,,,,,,,,36,,,,,,,40–64,English,450759
+2019-09-22 03:43:33,2019-09-22 04:13:09,IP Address,64.201.89.11,100,1775,True,2019-09-22 04:13:09,R_1gMvwYkKkbNBnpI,,,,,40.24310302734375,-79.2375030517578125,anonymous,EN,,,,,,,,,,,36,36,,,,,,,,,,,,,,,,,100,,,,,,80,,,,,,,,,,,,,50,,,,,,,,,,,,,,,8,,,,,,,,,,,,40,,,,,,,,36,,,,,,,,,,25,,,,,,,,,,,,,,,,0,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,English,42114
+2019-09-22 04:19:39,2019-09-22 04:34:55,IP Address,172.58.19.165,100,916,True,2019-09-22 04:34:56,R_3qrGgyJBss3MXd1,,,,,33.783203125,-117.977294921875,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,100,,,,,,,,,,,,,,94,,,,,,,,,,,,31,,,,,,92,,,,,,,,,,,,,,,,,,,,90,,,,,,,,17,,,,,,,,30,,,,,,,,,,10,,,,,,,,,,,,,,,,4,,,,,,,,,,,,3,,0,,,,,,,,,,,18–39,ENGLISH,901740
+2019-09-22 04:47:47,2019-09-22 04:49:05,IP Address,71.176.77.12,100,78,True,2019-09-22 04:49:06,R_7X5ExtxMQvSka1r,,,,,43.109893798828125,-76.1869964599609375,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,100,,,,,,,,,,,,,,,,,,,82,,83,,,,,,,,,,,,,,,,,,,,,86,,,96,,,,,,,,,,,,,25,,,,,,,,,,,,,,8,,,,,,,,,6,,,,,,,,,,,,19,,,,,,,,,,,,,4,,,,,,0,,,,,,,,18–39,English,882536
+2019-09-22 04:47:32,2019-09-22 04:49:32,IP Address,24.147.73.45,100,120,True,2019-09-22 04:49:33,R_2TToTcOIhwWutub,,,,,42.7563934326171875,-71.46669769287109375,anonymous,EN,,60,,,,,,,,,,,,,,,100,,,,,,,,,,,,,20,,,,,,,,,,60,,,,,39,,,,,,,,,,,,,,,,,,,,,0,,,,,56,,,,,,,,,53,,,,,,,,,,,,35,,,,,,,,,,,,,,,,19,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,english,943279
+2019-09-22 04:46:08,2019-09-22 04:51:59,IP Address,174.128.225.98,100,351,True,2019-09-22 04:52:00,R_1E4g9ZAeAjJsplc,,,,,39.7501068115234375,-104.995697021484375,anonymous,EN,,,,86,,,,,,,,,,,,,,,22,,,,,,,,,,,,28,,,,,78,,,,,,,,,33,,,,,,,,,,,,24,,,,,,,,,,,,,,,61,,,,,,,,,,30,,,,,,,,,,,,,,,,20,,,,,,,,,,,,67,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,English,5874150
+2019-09-22 04:51:44,2019-09-22 04:54:51,IP Address,68.10.30.113,100,187,True,2019-09-22 04:54:52,R_1eVJIL3G1ISFvPS,,,,,36.7646026611328125,-76.34079742431640625,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,,,,,70,,,60,,,,,,,,,,,,,,,,,,75,,,,,,80,,,,,,,,,,,,,81,,,,,,,,,,,,,,,,45,,,,,30,,,,,,,,,25,,,,,,,,,,,,,,,,10,,,,,,,,,,,,,,,10,,,,,,0,,,,,,40–64,English,439717
+2019-09-22 04:52:56,2019-09-22 04:54:54,IP Address,100.7.52.238,100,117,True,2019-09-22 04:54:55,R_2Yh9nSJIL5d7WxJ,,,,,37.48150634765625,-77.64189910888671875,anonymous,EN,,,,,,,,,,,80,,,,,,,100,,,,,,,,,,,,80,,,,,,93,,,,,,,,,,,,,,64,,,,,,,,,,26,,,,,,,,12,,,,,,,,,,,,,,,,,,15,,,5,,,,,,,,,,,,,,0,,,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40–64,English,1644338
+2019-09-22 05:06:55,2019-09-22 05:12:04,IP Address,99.1.189.33,100,309,True,2019-09-22 05:12:04,R_1QomkMxTVHTYBEI,,,,,33.6436004638671875,-83.9683990478515625,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,,,,,,7,,,,,,,,,,,,96,,,95,,,,,,,,,,,,80,,,,,,,,,,,,,,,,96,,,50,,,,,,,,,,,,30,,,,,,,,,,,,,,3,,,,,,,,,,,,4,,,,,,,,,,,,,3,,,,,,,,,,0,,,,,18–39,English,6304253
+2019-09-22 05:48:42,2019-09-22 05:51:56,IP Address,45.29.233.185,100,193,True,2019-09-22 05:51:57,R_21GwpBi0JRFfmTM,,,,,36.8321075439453125,-119.8249969482421875,anonymous,EN,,,,,,,,11,,,,,,,,,,99,,,,,37,,,,,,,,,,,,,,,,,,,61,,,,,,86,,,,,,,,,,100,,,,,,,,,,,,,,100,,,,,,,72,,,,,,,,,,,,,,,,,,,36,,,,,,19,,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,English,5083422
+2019-09-22 05:48:32,2019-09-22 05:52:01,IP Address,24.20.124.0,100,209,True,2019-09-22 05:52:02,R_XSB92Hd3TIcaEzn,,,,,45.5032958984375,-122.7743988037109375,anonymous,EN,,,,,,,,,100,,,,100,,,,,,,,,,100,,,,,,,,,,,,,,,,,,,,75,,,,,,40,,,,,,,,,,,,,,6,,,,,,,25,,,,,,,,,,,,,,,,,,5,,,,,,10,,,,,,,,0,,,,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,English,3028568
+2019-09-22 05:48:42,2019-09-22 05:52:28,IP Address,24.59.191.225,100,226,True,2019-09-22 05:52:29,R_2v60VBlopQ2qCbe,,,,,43.0861968994140625,-75.6508026123046875,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,,,,,,,100,60,,,,,,,,,,,,,,,,60,,,,,,,,,,,,,,,40,,,,,,,,,,40,,,,,,,,,,20,,,,,,,,,,15,,,,,,10,,,,,,,,,,,,,,3,,,,,,,,,,5,,,,,,,,,,0,,,,,,,,,40–64,English,4780496
+2019-09-22 05:48:42,2019-09-22 05:53:28,IP Address,71.68.101.187,100,285,True,2019-09-22 05:53:28,R_2Y8JCEStxmzeFTK,,,,,35.193603515625,-80.68650054931640625,anonymous,EN,,,,,,,,,,100,,,,,,,,,,,,95,,,,,,,,100,,,,,,,80,,,,,,,,,,,,95,,,,,,,,,,,,,,,50,,,,,80,,,,,,,,,50,,,,,,,,,,,,31,,,,,,,,,,,,,,,0,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40–64,English,3424529
+2019-09-22 05:49:05,2019-09-22 05:53:33,IP Address,45.35.132.211,100,268,True,2019-09-22 05:53:34,R_3GjP9KlwTfqY1xh,,,,,32.8137054443359375,-96.87039947509765625,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,,62,,,,,,,56,,,,,,,,,,72,,,,,,,,,,,,,,,,,,60,,,,,,,,,,61,,,,,,,,,58,,,,,,,,,,46,,,,,,,,,,,,,,,,,,58,,,,,,,,,,61,,,,60,,,,,,,,,,,,,,,,,59,,,40–64,English,5057921
+2019-09-22 05:53:35,2019-09-22 05:56:44,IP Address,173.90.223.183,100,189,True,2019-09-22 05:56:44,R_268VNPSaKAZkrD8,,,,,42.075103759765625,-80.14640045166015625,anonymous,EN,,,,,,,,,100,,,,,,,,,,,,,100,,,,,,,,100,,,,,85,,,,,,,,,,,,,,,,70,,,,,,,,,20,,,,,,,,,6,,,,,,,,,6,,,,,,,,,,,,,,,,,,,,5,,,,,,,0,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,English,5941246
+2019-09-22 06:12:56,2019-09-22 06:16:31,IP Address,191.96.97.58,100,214,True,2019-09-22 06:16:31,R_3mfthGjhr1Cx3cl,,,,,41.848297119140625,-87.651702880859375,anonymous,EN,,,,,5,,,,,,,,,,,,,,,,0,,,,100,,,,,,,,,,,,,,20,,,,,,,,,70,,,,,,,,,,,,,,,,,,80,,100,,,,,,,,,,,,,,,,70,,,,,66,,,,,,,,,,,,,,,,,,95,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,English,8596312
+2019-09-22 06:14:29,2019-09-22 06:19:32,IP Address,24.60.247.22,100,302,True,2019-09-22 06:19:32,R_1CxujRyiQFK3L30,,,,,42.4279937744140625,-71.061798095703125,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,,,,,,,100,,,,,,,,73,,,,78,,,,,,,,,,,,79,,,,,,,,,,,,,,66,,,,,,,,,,,,,,,,34,,,,33,,,,,,,,,,,,,,,13,,,,,,,,7,,,,,,,,,,,,,16,,,,,,,,,,,,,,0,,,40–64,english,6622673
+2019-09-22 06:26:32,2019-09-22 06:30:00,IP Address,180.247.158.111,100,207,True,2019-09-22 06:30:00,R_1QB1aeo8etNWe1c,,,,,-7.2483978271484375,112.741912841796875,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,,,,,100,,,,,,,,85,,,,,,,80,,,,,,,,,,,,,,,,80,,,,,,,,,,,,,,,90,,,,,,,,30,,,,,,,,,,,,,20,,10,,,,,,,,,,,,,,,5,,,,,,,,,90,,,,,,,,,,,,0,,,,,,,,18–39,English,1340390
+2019-09-22 06:51:03,2019-09-22 06:53:21,IP Address,72.94.197.164,100,137,True,2019-09-22 06:53:22,R_1jJREZMtvhIzwWR,,,,,40.4261932373046875,-75.10739898681640625,anonymous,EN,,,,,,,,100,,,,,,,,,,,,,100,,,,,,100,,,,,,,,,81,,,,,,,,,,,,,,,,,,,40,,24,,,,,,,,,,,,,,,,51,,,,,,,,,,,,,15,,,15,,,,,,,,,,,,,,,,0,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40–64,English,3737665
+2019-09-22 06:51:40,2019-09-22 06:53:46,IP Address,172.58.84.198,100,126,True,2019-09-22 06:53:47,R_3MrtqKHfvBg96RX,,,,,44.954803466796875,-93.15509796142578125,anonymous,EN,,,,,,,,0,,,,,2,,,,,,,,,,0,,,,,,,,,,,,,,,,21,,,,,,,,,,,,,,,,72,,,,,59,,,,,,,,,,,,,,,0,,,,,,,,,,,,2,,,,,35,,,,,,,,,,0,,,,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40–64,english,1973422
+2019-09-22 06:51:12,2019-09-22 06:55:23,IP Address,69.206.94.117,100,251,True,2019-09-22 06:55:24,R_2qEiywqwILmhSWp,,,,,41.37860107421875,-74.669097900390625,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,25,,,,,,,,,,,,,,,,,,3,,,,,,,,,100,,,,,,,,,,,,,,,8,,,,,,,,,,10,,,,15,,,,,,,,,,,,,15,,,,,,,,,,,,15,,,,,,,,,,,,,75,,,,,,,,,,,,,,,0,,,0,,,,,,,,,65 or older,English,4642231
+2019-09-22 06:51:56,2019-09-22 06:55:43,IP Address,129.21.11.254,100,226,True,2019-09-22 06:55:43,R_Qn6IUwXxqOEDEMp,,,,,43.0800933837890625,-77.6342010498046875,anonymous,EN,,100,,,,,,,,,,,,100,,,,,,,,,,,,,,,,,100,,,80,,,,,,,,,,,,,,,,85,,,,,,,,,,,,30,,,,,,,,,,,,20,,,,,,,,,,,,,15,,,,,,,,,,,,20,,,,0,,,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40–64,english,7581915
+2019-09-22 06:57:55,2019-09-22 07:03:12,IP Address,71.227.95.221,100,317,True,2019-09-22 07:03:13,R_1dAj6h6aaoZZMqS,,,,,42.667999267578125,-83.28929901123046875,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,,,,99,,,,,,,,,,,,,,81,,,,,,,81,,,,,61,,,,,,,,,,,,,,,41,,,,,,,,,35,,,,,,,,,,,,33,,,,,,,,,8,,,,,,,,,,,,,,,,,,,5,,,,,,,6,,,,,,,,,,,,,,0,,,65 or older,English,4428571
+2019-09-22 07:14:39,2019-09-22 07:16:33,IP Address,45.35.132.200,100,114,True,2019-09-22 07:16:34,R_3O8KH3ufAPqY21X,,,,,32.8137054443359375,-96.87039947509765625,anonymous,EN,,,,,,,,,,,62,,,,,87,,,,,,,,,,,,,,,,56,,,,,85,,,,,,,,,,,,,,,,72,,,,,,,,,,67,,,,,,,,,,63,,,,,73,,,,,,,,,,,,,70,,,,,,,,,,86,,,,,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40–64,English,1250324
+2019-09-22 07:07:12,2019-09-22 07:21:21,IP Address,67.197.78.130,100,849,True,2019-09-22 07:21:22,R_RIkCDnlll493az7,,,,,34.967193603515625,-81.049102783203125,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,,,,71,,,,,72,,,,,,,,,,,,,,,,,,,81,,,,,,,,78,,,,,,,,77,,,,,,,,,,,,,38,,,,,,,,,,,,,,41,,,,,,,8,,,,,,,,,,,,,,,,,9,,,16,,,,,,,,,0,,,,,,,,,,,18–39,English,615434
+2019-09-22 07:54:42,2019-09-22 07:56:31,IP Address,174.60.204.226,100,108,True,2019-09-22 07:56:31,R_2fuIWZuUPvUjcbh,,,,,40.2781982421875,-76.7093963623046875,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,,,,,,6,,,,,,62,,,,,,,,,90,,,,,,,,,,,,,,83,,,,,,20,,,,,,,,,,,,,,,,,,3,,,,,,,,,,9,,,,,,,,3,,,,,,,,,10,,,,,,,,,,,,,,,,,,,,7,,,,,,,,,8,,,40–64,English,3045159
+2019-09-22 07:56:32,2019-09-22 07:58:11,IP Address,73.173.103.253,100,99,True,2019-09-22 07:58:11,R_2eRQX4gcu3fMDQE,,,,,39.21240234375,-76.87760162353515625,anonymous,EN,,,,,100,,,,,,,,,,,,,100,,,,,,,100,,,,,,,,,,,,,,90,,,,,,,,,,,,,80,,,,15,,,,,,,,,,,,,,,,,,,,,70,,,,,,,,,,13,,,,,,,,,,7,,,,,,0,,,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,English,8573546
+2019-09-22 07:56:42,2019-09-22 07:58:39,IP Address,73.48.80.170,100,117,True,2019-09-22 07:58:39,R_3ZV9MZYLoLdIFMd,,,,,30.4907989501953125,-84.31580352783203125,anonymous,EN,,,100,,,,,,,,,,,,,,100,,,,,,,,,,,,,100,,,,,,,77,,,,,,,,,,,,,,39,,,,,,,,,,,,,20,,,,,,,,,,,,,5,,,,,8,,,,,,,,,,,,,,,,8,,0,,,,,,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,English,9615550
+2019-09-22 07:57:28,2019-09-22 08:01:35,IP Address,47.51.193.35,100,246,True,2019-09-22 08:01:35,R_3EaNnmPbDbM35dk,,,,,32.932098388671875,-97.2834014892578125,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,,80,,,,,,,,,92,,,,,,,,,,,,94,,,,,,,,88,,,,,,,,,,,,,,,,,,,,70,,,60,,,,,,,,,,,,,,,,6,,,,,,,,,,9,,,,,,,,,,,,,,4,,,,,,,,,,15,,,10,,,,,,,,,,,40–64,English,8492409
+2019-09-22 08:21:02,2019-09-22 08:25:12,IP Address,98.232.238.129,100,249,True,2019-09-22 08:25:13,R_2Ed8p0hXxCLmV6z,,,,,44.539306640625,-123.27989959716796875,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,,100,,,,,,,,94,,,,,,,,,69,,,,,,,,,,,,,,,,,,,73,,,,,,79,,,,,,,,,,,,,,,11,,,,,,,,18,,,,,,,,,,,,,7,,,,,,8,,,,,,,,,,,,,,,,,,,,13,,,,,,,,,,0,,18–39,English,3885539
+2019-09-22 08:24:06,2019-09-22 08:26:24,IP Address,24.180.126.150,100,138,True,2019-09-22 08:26:25,R_2dF7SxYSAcO71xU,,,,,42.3188934326171875,-85.51519775390625,anonymous,EN,,,,,,,,,,100,,,,,,100,,,,,,,,,,,,,100,,,,,,,,,,,,,83,,,,,,,,,,,,,71,,,,,,51,,,,,,,,,62,,,,,,,,22,,,,,,,,,,,,28,,,,,,,,,,,,0,,,,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40–64,English,108516
+2019-09-22 08:45:13,2019-09-22 08:46:29,IP Address,73.188.224.87,100,75,True,2019-09-22 08:46:29,R_6RsnYOpRV5HFSFj,,,,,40.1262054443359375,-75.52680206298828125,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,,,,5,,,,,,,,,,,,,,74,74,,,,,,,,,,,,79,,,,,,,,,,,,,,,,,,26,,,,,100,,,,,,,,,,,,,,,37,,,,,,,,77,,,,,,,,,,,,30,,,,,,,,,,,,,,,,1,,,,,,,27,,,,,,18–39,english,811603
+2019-09-22 08:56:44,2019-09-22 09:01:57,IP Address,71.227.90.0,100,312,True,2019-09-22 09:01:57,R_3jYT4w2Fxaw6eWD,,,,,42.426300048828125,-82.901397705078125,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,,,98,,,,,,,,,,83,,,,,,,,,,,,,72,,,,64,,,,,,,,,,,,,84,,,,,,,,,,,,21,,,,,,,,,28,,,,,,,,,,,,,,6,,,,,,,,,,,,,,,,,2,,,,,,,,,,2,,,,,,,,,,0,,,18–39,English,8788066
+2019-09-22 08:56:49,2019-09-22 09:03:53,IP Address,69.121.117.163,100,424,True,2019-09-22 09:03:53,R_2OI2pb1w0YH3Ytw,,,,,40.9044952392578125,-73.8072967529296875,anonymous,EN,,,,,,,,,,,72,72,,,,,,,,,,,,100,,,,,,,,,,,,,,,,,,,84,,,,85,,,,,,,,,,,,,56,,,,,,,,,,,,84,,,,,,,,,25,,,,,,,,,,,,,,28,,,,,,,,,,,,,0,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,English,4149370
+2019-09-22 09:05:49,2019-09-22 09:07:07,IP Address,74.74.73.244,100,78,True,2019-09-22 09:07:08,R_2WAsjpxgnvE4I98,,,,,42.327392578125,-77.65689849853515625,anonymous,EN,,,,,,,,,,21,,37,,,,,,,,,,,,,,,,,,0,,,,,57,,,,,,,,,,,,55,,,,,,,,,,,,,,,,,,,36,,,,14,,,,,,,,,,,,,86,,,,,,,,,,,,,,13,,,,,,,,,0,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,English,5117093
+2019-09-22 09:06:10,2019-09-22 09:08:03,IP Address,66.69.180.227,100,113,True,2019-09-22 09:08:04,R_21gphquYcfYTys9,,,,,33.0950927734375,-96.88050079345703125,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,90,,,,,,,,,,,,,,,,,,75,,,,,,,,,50,,,,,,,90,,,,,,,,,,,,,75,,,,,,,,,,25,,,,,,,,,,,,,,,15,,,,,,,,,,,,,,10,,,,,,,,,,10,,10,,,,,,,,,,,,,,,,5,,,,,,18–39,English,6840795
+2019-09-22 09:32:31,2019-09-22 09:36:48,IP Address,24.12.34.180,100,257,True,2019-09-22 09:36:49,R_6KcNVHD2NnmYwx3,,,,,41.6143035888671875,-87.0469970703125,anonymous,EN,,,,,100,,,,,,,70,,,,,,,,,,,,,,,,,,,,,100,,,,,,,,70,,,,,,,,,,,,,25,,,,,,,,20,,,,,,,95,,,,,,,,,,,,,,,,,15,,,,,,15,,,,,,,,,,,,,0,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40–64,English,6674700
+2019-09-22 10:58:24,2019-09-22 11:00:20,IP Address,75.191.15.75,100,115,True,2019-09-22 11:00:21,R_3KpbLbCjzODO6ro,,,,,36.2960052490234375,-76.243499755859375,anonymous,EN,100,,,,,,,,,,,,,,,,,,,,100,,,,,,,100,,,,,,,,,37,,,,,,,,,,,,,,,,,,81,,,,,,,4,,,,,,,90,,,,,,,,,,,,,,,,4,,,,,,,,,,,,10,,,,,,,0,,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,english,116053
+2019-09-22 11:04:27,2019-09-22 11:05:56,IP Address,195.16.1.77,100,88,True,2019-09-22 11:05:56,R_2VCnoV1E7uvj3BD,,,,,50.85040283203125,4.3488006591796875,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,,,,,,100,,,,,,,,,,89,,,,,,,,,83,,,,,,,93,,,,,,,,,,,,,,,,81,,,,31,,,,,,,,,,,,,,,,37,,,,,,,,,,,,,,,,7,,,,,5,,,,,,,,11,,,,,,,,,,,,,0,,,,,,,,18–39,English,8286288
+2019-09-22 11:06:35,2019-09-22 11:08:47,IP Address,47.204.36.108,100,131,True,2019-09-22 11:08:47,R_3KON5es1iA3LenI,,,,,28.0946044921875,-81.49900054931640625,anonymous,EN,,,,,,,,,,,100,,,,,,100,,,,,,,,,100,,,,,,,,,,,,82,,,,,,,,,,,,,,,90,,,,,81,,,,,,,,,40,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,10,,,,,0,,,,,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40–64,English,480297
+2019-09-22 11:13:31,2019-09-22 11:14:55,IP Address,50.106.211.96,100,84,True,2019-09-22 11:14:55,R_3gSgHI6pV2t4QPL,,,,,39.7339019775390625,-90.22899627685546875,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,,,,,92,,,,,,,,,80,,,,,,,80,,,,,,,,,50,,,,,,,,,,,,,,,,,,,,,76,,,,19,,,,,,,,,,,,25,,,,,,,,,,,,,,15,,,,,,,,,,,,,6,,,,,,,10,,,,,,,0,,,,,,,,,,18–39,English,3508636
+2019-09-22 11:35:15,2019-09-22 11:36:40,IP Address,76.2.240.64,100,85,True,2019-09-22 11:36:41,R_3nf74NUr9nFpMjA,,,,,40.762298583984375,-82.52539825439453125,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,99,,,,,,,,,,,,,,,,,62,,,,,,,,,64,,,,,,,,76,,,,,,,,89,,,,,,,,,,70,,,,,,,,,,,,,,,,,12,,,,,,,15,,,,,,,,,,,,,,6,,,,,,,,,,,,,,19,,0,,,,,,,,,,,18–39,English,7866341
+2019-09-22 11:53:15,2019-09-22 11:53:53,IP Address,47.157.22.22,100,38,True,2019-09-22 11:53:54,R_1JJv2Dp9G4Kie3i,,,,,33.8307952880859375,-118.1125030517578125,anonymous,EN,,,,71,,,,,,,,,,,,,,,,,,28,36,,,,,,,,,,,,,,,,39,,,,,,,,,,,,,,,47,,,,,,,,57,,,,,,37,,,,,,,,,,,,59,,,,,,,,,,,,,30,,,,,,,,,,,,,,42,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,English,4436318
+2019-09-22 11:59:16,2019-09-22 12:01:14,IP Address,98.157.28.27,100,117,True,2019-09-22 12:01:15,R_3IWddwoQ9huawhX,,,,,37.2967071533203125,-82.10610198974609375,anonymous,EN,,75,,,,,,,,,,,,,,,,,40,,,,,,,35,,,,,,,,,,,,,,,,,62,,,,,,,,29,,,,,57,,,,,,,,,,,,,,,,35,,,,,,,,,,,,,,,,58,,,,,,,,,65,,,,,34,,,,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,eng,3741474
+2019-09-22 11:58:55,2019-09-22 12:01:18,IP Address,65.28.56.36,100,142,True,2019-09-22 12:01:18,R_3siTdVshyWXYaTJ,,,,,42.532501220703125,-88.04779815673828125,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,100,,,,,,,,,,,,,,,,90,,,,,,,,,,,,,,,,68,,,,,,,,3,,,,,,,,55,,,,,,,,,,,,,,,,50,,,11,,,,,,,,,,,,,14,,,,,,,,,,,,,,40,,,,,,,,,,,,,18,,,,,0,,,,,,,,,40–64,English,5453849
+2019-09-22 12:02:22,2019-09-22 12:04:24,IP Address,73.225.242.101,100,122,True,2019-09-22 12:04:25,R_1r2lGInPykMWrKg,,,,,48.7989959716796875,-122.4499053955078125,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,,,100,,,,,,65,,,,,,,,,,20,,,,,,,,,,,,,,,40,,,,,,,,,,,,55,,,,,,,,,,,,,12,,,,,,,,,,,,,15,,,,,,,,,,,,8,,,10,,,,,,,,,,,,,,,,,13,,,,,,0,,,,,,,,18–39,English,2281876
+2019-09-22 12:02:13,2019-09-22 12:05:10,IP Address,96.246.214.157,100,177,True,2019-09-22 12:05:10,R_agF72D6I9jv7ial,,,,,40.763702392578125,-73.769500732421875,anonymous,EN,100,,,,,,,,,,,,,100,,,,,,,,,,,,,,,,,,,100,,,,,,,82,,,,,,,,,29,,,,,,,,13,,,,,,,,,,,,,,,,,,4,,,,,,,,,,3,,,,,,,,,3,,,,,,,,,0,,,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40–64,English,8522931
+2019-09-22 12:02:15,2019-09-22 12:05:19,IP Address,73.194.199.39,100,184,True,2019-09-22 12:05:20,R_3nfkwhlhYVCogom,,,,,39.7552032470703125,-74.24700164794921875,anonymous,EN,,,,,,,,,,,100,,,,,,,,,,100,,,,,,,,,,100,,,70,,,,,,,,,,,,,60,,,,,,,,,,20,,,,,,,,,,,,,,,35,,,,,,,,,,5,,,,,,,,,,,,,10,,,,,,,,0,,,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40–64,English,8640101
+2019-09-22 12:02:54,2019-09-22 12:08:42,IP Address,37.120.132.207,100,347,True,2019-09-22 12:08:42,R_2Tz2ZsMuaFv3p2D,,,,,34.054901123046875,-118.2577972412109375,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,,100,,,,,,84,,,,,,,,,,,,,,,,,75,,,,,,,,,,,,,,30,,,70,,,,,,,,,,,,,,30,,,,,,,,,,,,,,10,,,,,,,,,,,,,,8,,,,,,,,,3,,,,,,15,,,,,,,,,,0,,,,,,,,,40–64,English,6545153
+2019-09-22 12:02:33,2019-09-22 12:12:19,IP Address,104.35.170.65,100,585,True,2019-09-22 12:12:19,R_3KE05N8dFgJc5I9,,,,,34.16510009765625,-118.0518951416015625,anonymous,EN,,,,,100,,,,,,,,,,,,100,,,,,,,,,,,,,,,100,,,,,,,,,,,,82,,,100,,,,,,,,,,,,30,,,,,,,,,39,,,,,,,,,,,,,,,,,,24,,,25,,,,,,,,,,,,,,,,,0,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40–64,English,2373574
+2019-09-22 12:10:17,2019-09-22 12:13:36,IP Address,173.63.61.15,100,198,True,2019-09-22 12:13:36,R_3hbdE06KO2vZlh9,,,,,40.9571990966796875,-74.160400390625,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,100,,,,,,,,,,,,,,,95,,,,,,,,,,,,85,,,,,,,,95,,,,,,,,,,,,,,,97,,,,,,,,34,,,,,,,,,48,,,,,,,,,3,,,,,,,,,3,,,,,,,,,,,,6,,,,,,,,,0,,,,,,,,,,,40–64,english,7541757
+2019-09-22 12:06:31,2019-09-22 12:14:43,IP Address,73.138.30.151,100,491,True,2019-09-22 12:14:43,R_2eOktiAtygCThlA,,,,,27.2621002197265625,-80.3834991455078125,anonymous,EN,,,,,,,,,100,,,,,,,,,,100,,,,,,,,,,,,,100,,90,,,,,,,,,,,,,,,60,,,,,,,,15,,,,,,,,,,,,,3,,,,,,,,,,,,,,2,,,,,,,,,,,,,,,2,,,,,,0,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,English,1645090
+2019-09-22 12:17:21,2019-09-22 12:20:11,IP Address,98.252.216.249,100,169,True,2019-09-22 12:20:12,R_z7HczwmRtKvB7Lr,,,,,34.289703369140625,-84.17960357666015625,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,100,,,,,,,,,,,,,,,,,,,,,90,,,,,,,,,90,,,,80,,,,,,,,,,,,,,,,,,,70,,,,40,,,,,,,,,,,,,,,,10,,,,,,,,10,,,,,,,,,,,,15,,,,,,,,,,,,15,,,,,,,,0,,,,,,,,18–39,English,8689463
+2019-09-22 13:09:10,2019-09-22 13:12:00,IP Address,68.59.26.228,100,169,True,2019-09-22 13:12:00,R_3GE89iXeO7sM4uZ,,,,,42.403594970703125,-86.25209808349609375,anonymous,EN,100,,,,,,,,,,,,,,,,100,,,,,,,,,,,,,,100,,,,,,,,,81,,,,,,,,,,,,89,,,,,,18,,,,,,,,,,8,,,,,,,,,,,,,,,,,,,,8,,,,,,,,,,8,,,,,0,,,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40–64,English,1227241
+2019-09-22 13:13:01,2019-09-22 13:14:52,IP Address,67.241.241.71,100,111,True,2019-09-22 13:14:53,R_2QtepxcpSx8LxUX,,,,,42.14300537109375,-77.0457000732421875,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,100,,,,,,,,,,70,,,,,,,,,,,,,,80,,,,,,,,,,,,,61,,,,,,,,66,,,,,,,,,,,,,,,,,20,,20,,,,,,,,,,,,,,,,,,3,,,,,,,,,,,,,,5,,,,,,10,,,,,,,,,,,,,,0,,,18–39,English,6200098
+2019-09-22 13:13:04,2019-09-22 13:15:06,IP Address,192.81.179.4,100,122,True,2019-09-22 13:15:07,R_2aP6xADqL20d8GB,,,,,36.394195556640625,-78.986297607421875,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,,,,,,100,,,,,90,,,,,,,,,,,,88,,,,,,,,,,,,,,2,,,,,,,,,,,,91,,,,,,,,50,,,,,,,,40,,,,,,,,,,,,,,,14,,,,,,,,,,,,,,,2,,11,,,,,,,,,,0,,,,,,,,,,,18–39,english,2379343
+2019-09-22 13:15:04,2019-09-22 13:17:22,IP Address,174.65.81.86,100,137,True,2019-09-22 13:17:23,R_2AYb5UGaVyCbRfA,,,,,32.8123016357421875,-116.91719818115234375,anonymous,EN,,,,,,,,,100,,,,,,,,,60,,,,,,100,,,,,,,,,,,,,,,,,,,,90,,,,57,,,,,,,,,,,,,,,12,,,,,,77,,,,,,,,,,,,,,,,,,10,,,,,,25,,,,,,,,,,,,0,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40–64,Italian,3421763
+2019-09-22 13:13:35,2019-09-22 13:18:01,IP Address,71.84.250.107,100,266,True,2019-09-22 13:18:01,R_3Rb6aFZvI8PpJrX,,,,,33.8307952880859375,-118.1125030517578125,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,,100,,,,,,,,,,,,,,,88,,,,,,,,80,,,,,,,75,,,,,,,,,,,,,,,,73,,,,,,,,75,,,,,,,,,,,,,,,,,55,,18,,,,,,,,,,,,,,,,,,24,,,16,,,,,,,,,,,,,,0,,,,,,,,18–39,English,4496458
+2019-09-22 13:13:15,2019-09-22 13:18:52,IP Address,71.232.227.212,100,337,True,2019-09-22 13:18:53,R_3oTMUafakHrQH1W,,,,,41.7113037109375,-70.47750091552734375,anonymous,EN,,,,,,100,,,,,,,100,,,,,,,,,,100,,,,,,,,,,,,,,,80,,,,,,,,,,61,,,,,,,,,,,,,,,,,,53,,,,,,,,,,8,,,,17,,,,,,,,,,,,,,,,,5,,,,,,,,,,0,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40–64,English,4221298
+2019-09-22 13:27:15,2019-09-22 13:33:10,IP Address,98.246.64.98,100,355,True,2019-09-22 13:33:10,R_AuQW9WxQYHYHhW9,,,,,45.6652069091796875,-122.5214996337890625,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,100,,,,,,,,,,20,,,,,,,,,,,,,,,73,,,,,,,,,,,,79,,,,,,,,77,,,,,,,,,,,,22,,,,,,,,,,,,,,,21,,,11,,,,,,,,,,7,,,,,,,,,,,,,,,,,,,27,,0,,,,,,,,,,,18–39,English,8819874
+2019-09-22 14:25:44,2019-09-22 14:26:52,IP Address,207.237.11.70,100,67,True,2019-09-22 14:26:52,R_1jBRo2FUXmc0IX1,,,,,40.7259979248046875,-73.84799957275390625,anonymous,EN,,,,,,,,69,,,,73,,,,,,,,,,,,,,,76,,,,,,,,,,24,,,,,,,,,,,,,,,,28,,,,,,,,,84,,,,,,,72,,,,,,,,,,,,,,,,,,65,,,,,,,,,,,,63,,,,,,87,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,English,490716
+2019-09-22 14:28:10,2019-09-22 14:30:51,IP Address,173.170.192.72,100,160,True,2019-09-22 14:30:52,R_3rHxIfVhpenP9OU,,,,,28.40789794921875,-82.53980255126953125,anonymous,EN,,,,,,,,100,,,,,,,,,100,,,,,,,,100,,,,,,,,,,,,13,,,,,,,,,,,,70,,,,,,,,,,,,,,,22,,,,61,,,,,,,,,,30,,,,,,,,,,,,,,,,,24,,,,,,,,,,,,,,0,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40–64,English,5625299
+2019-09-22 14:28:49,2019-09-22 14:31:37,IP Address,98.127.137.72,100,168,True,2019-09-22 14:31:37,R_2TZdg0R2f7ACSeI,,,,,46.609893798828125,-112.0243988037109375,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,,,,,,100,,,,,,,65,,,,,,60,,,,,,,,,,,,,,,,,,70,,,,,,,,,,75,,,,,,,,,50,,,,,,,,,,,,,,,,,25,,5,,,,,,,,,,,,,10,,,,,,,,,,,,,,,,10,,,,,0,,,,,,,,,40–64,english,6318309
+2019-09-22 14:29:47,2019-09-22 14:32:18,IP Address,63.155.0.235,100,151,True,2019-09-22 14:32:19,R_2TRAgk3p5RaA8Dl,,,,,44.0561065673828125,-122.9170989990234375,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,66,,,,,,,,,75,,,,,,,,,,,,93,,,,,,,,,,,,,,,,66,,,,,,,,,72,,,,,,,,,,32,,,,,,,,,,,,,,,,8,,,,,,,,,,,,12,,,,,,,3,,,,,6,,,,,,,,,,,,,,,,,,,20,,,40–64,english,5991362
+2019-09-22 14:50:04,2019-09-22 14:52:30,IP Address,172.222.243.253,100,145,True,2019-09-22 14:52:30,R_2X1KmTw4ScYwuf2,,,,,34.2610015869140625,-116.8130950927734375,anonymous,EN,,,,,,100,,,,,,,,,,,,,,,100,,,100,,,,,,,,,,,,,,,,66,,,,,,,,,66,,,,,,,,,,,,,,15,,,,,,,33,,,,,,,,,,,,,,,,10,,,20,,,,,,,,,,,,,90,,,,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,English,7900822
+2019-09-22 14:57:46,2019-09-22 15:01:21,IP Address,172.58.27.112,100,214,True,2019-09-22 15:01:21,R_3GkTuVYUslFZIs1,,,,,34.0803070068359375,-117.7350006103515625,anonymous,EN,100,,,,,,,,,,,,,,,,,100,,,,,,,,,60,,,,,,,,,,,,,,,85,,,,,,,,,,,,,100,,,,,,65,,,,,,,,,20,,,,,,,,,,,,,,,3,,,,,,10,,,,,,,,,,0,,,,,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,english,5510791
+2019-09-22 15:01:34,2019-09-22 15:04:13,IP Address,136.32.219.206,100,158,True,2019-09-22 15:04:13,R_1C2Z5Wb3IOWFrrB,,,,,38.8715057373046875,-94.77130126953125,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,,,100,,,,,,,,,70,,,,,,,,,,,,,,,80,,,,,100,,,,,,,,,,,,,,,,,,,50,,,,,,,,,,30,,,,,20,,,,,,,,,,,,,10,,,,,,,10,,,,,,,,,,20,,,,,,,,,,,,,,,,,,0,,,,18–39,English,3235384
+2019-09-22 15:28:06,2019-09-22 15:29:28,IP Address,72.84.219.193,100,81,True,2019-09-22 15:29:28,R_ezGuxvaH33kyi8p,,,,,37.46380615234375,-77.39800262451171875,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,,,,93,,,,,,,,,,,,,,81,,,90,,,,,,,,,,,,,,,,,,63,,,,,37,,,,,,,,,,,,,39,,,,,,,,,,,,,,20,,,23,,,,,,,,,,,,,,,9,,,,,,,,,,,,,10,,,,,,0,,,,,,,,,,18–39,English,9598764
+2019-09-22 15:34:07,2019-09-22 15:36:19,IP Address,23.112.114.15,100,131,True,2019-09-22 15:36:20,R_2Vsfn64GVK5HPwq,,,,,28.627105712890625,-80.84290313720703125,anonymous,EN,,,,,,,,,,,95,70,,,,,,,,,,,,,,,90,,,,,,,,,,70,,,,,,,,,,,,,,,,65,,,,30,,,,,,,,,,,,,,,,,,,20,,,,,,,,25,,,,,,,,,,20,,,,,,,,15,,,,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,english,7830262
+2019-09-22 15:37:26,2019-09-22 15:41:34,IP Address,23.127.177.105,100,247,True,2019-09-22 15:41:34,R_28ONWnXKGvzw4tU,,,,,35.32000732421875,-82.50279998779296875,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,100,,,,,,,,,,,,,,60,,,,,,75,,,,,,,,,,,,,,,,,,85,,,,,,,,,,,,65,,,,,,,,,,,,40,,,15,,,,,,,,,5,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,5,,,,,,,,0,,,,,,,40–64,English,8889599
+2019-09-22 15:41:59,2019-09-22 15:43:35,IP Address,185.144.158.97,100,96,True,2019-09-22 15:43:36,R_QfuKLrQnd25FRoR,,,,,25.7805938720703125,-80.1826019287109375,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,89,,,,,,,,,,,,,,,,,,,88,,,,,,,,,,,,65,,,,,,,,,,,,81,,85,,,,,,,,,,,,77,,,,,,,,,,,,81,,,,,,,,,,,,,,94,,,,,,,,,88,,,,,,,,,,,,80,,,,,,,,,,,,,79,,,,18–39,English,8318032
+2019-09-22 15:44:49,2019-09-22 15:46:25,IP Address,73.178.168.46,100,96,True,2019-09-22 15:46:26,R_1P0gOuvkHsQcBfi,,,,,40.0713043212890625,-74.5066986083984375,anonymous,EN,,,,100,,,,,,,,100,,,,,,,,,,,,100,,,,,,,,,,,,,,,,,,75,,,,,,,,,,75,,,,,,33,,,,,,,,,,,,,,,,,,,10,,,,,,,,,,7,,,,,,,,7,,,,,,,,,0,,,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,English,4451271
+2019-09-22 15:44:44,2019-09-22 15:47:01,IP Address,47.218.92.80,100,136,True,2019-09-22 15:47:01,R_23e06qdFI83XAV1,,,,,30.6031951904296875,-96.3135986328125,anonymous,EN,,,,,100,,,,,,,,,,,,,,,60,,,,,,,,,,20,,,,,75,,,,,,,,,,,,,60,,,,,,,,,,70,,,,,,,,,,,,,,,,,,,65,15,,,,,,,,,,,,,,,,,,,,25,,,,,,,,0,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,English,9510847
+2019-09-22 15:50:27,2019-09-22 15:53:00,IP Address,98.103.206.30,100,152,True,2019-09-22 15:53:00,R_3qkPMnlRjeMutZq,,,,,42.9105072021484375,-87.86460113525390625,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,100,,,,,,,,,66,,,,,,,,,,,,,,,,,,75,,,,,,,,,,,,80,,,,,,,,,59,,,,,,,,,,31,,,,,,,,,,24,,,,,,,,,,7,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,15,,,,,,,,,,0,,40–64,English,5194292
+2019-09-22 15:50:56,2019-09-22 15:55:24,IP Address,24.163.19.57,100,267,True,2019-09-22 15:55:24,R_2DOHC8HUroI7uY8,,,,,36.0330047607421875,-80.3916015625,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,100,,,,,,,,,,,,,,90,,,,,,,,,,,,,,,,,75,,,,,,,,,80,,,,,,60,,,,,,,,,,,,,,,10,,,,,,25,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,5,,,,,,,10,,,,,,,,,,,,0,,,,,18–39,English,9273455
+2019-09-22 15:54:12,2019-09-22 15:58:54,IP Address,107.15.144.116,100,282,True,2019-09-22 15:58:55,R_2QupWDeLYlL34ne,,,,,35.896392822265625,-78.7115020751953125,anonymous,EN,,,,,,,,,,,100,,,,100,,,,,,,,,,,,100,,,,,,,61,,,,,,,,,,,,75,,,,,,,,,,,,,,,,,,30,,,,,40,,,,,,,,,,,,,,,,15,,,,,,,,,,,,,19,,,,,,,,0,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,english,8220128
+2019-09-22 16:12:10,2019-09-22 16:15:59,IP Address,173.150.85.197,100,229,True,2019-09-22 16:16:00,R_3MGcHRsv3oQ6ukr,,,,,41.848297119140625,-87.651702880859375,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,100,,,,,,,,,,60,,,,,,,,,,,,,90,,,,,,,,,,,,,,,3,,,,,,,,,,70,,,,,50,,,,,,,,,,20,,,,,,,,,,1,,,,,,,,,,,,,,,,,,2,,,,,,,,,,20,,,,,,,,,,,,,,,0,18–39,ENGLISH,8821907
+2019-09-22 16:41:12,2019-09-22 16:47:49,IP Address,70.40.246.74,100,396,True,2019-09-22 16:47:49,R_ZkNet5kEY6nAvuh,,,,,44.661102294921875,-88.263397216796875,anonymous,EN,,,,,,,,,,,100,,,,100,,,,,,,,,,100,,,,,,,,,75,,,,,,,,,,,,,,,,75,,,,,,,,,,,,,,,25,,,,,,5,,,,,,,,,,,,,10,,,,,,10,,,,,,,,,,,,,,,,,0,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40–64,American English,1476129
+2019-09-22 16:45:18,2019-09-22 16:56:31,IP Address,207.44.118.26,100,672,True,2019-09-22 16:56:32,R_28J2GZGPubDtj1W,,,,,40.8170013427734375,-75.60109710693359375,anonymous,EN,25,,,,,,,,,,,,,,,,100,,,,,,,,,,,,85,,,,,,,,,,,,81,,,,,,,67,,,,,,,,,,,,50,,,,,,,,,,,,,,,,,40,,20,,,,,,,,,,,,34,,,,,,,,,,,,,,,,,,0,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,english,4887650
+2019-09-22 16:57:11,2019-09-22 16:58:44,IP Address,69.180.87.203,100,93,True,2019-09-22 16:58:45,R_uqNcxtLS1L3Cjbb,,,,,30.1609954833984375,-81.73110198974609375,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,100,,,,,,,,,,,,65,,,,,,,,,,,,92,,,,,,,,,,,,,,,,,,93,,,,,,,,,,12,,29,,,,,,,,,,,,,,,,,63,,,,,,,,,,,,3,,,,,,,,2,,,,,,,,,,,,,,,70,,,,,,,,0,,,,,,18–39,english,4469300
+2019-09-22 16:59:42,2019-09-22 17:01:06,IP Address,172.58.173.153,100,84,True,2019-09-22 17:01:06,R_1cSUAEpm9pONQTr,,,,,28.010894775390625,-82.4947967529296875,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,,,,,100,,,,87,,,,,,,,,,,,,,91,,,,,,,,,,90,,,,,,,,,,75,,,,,,,,,,,,,,,,39,,,,,,,,,,,,,,36,10,,,,,,,,,,,,,,,,,,,,16,,,,,,,20,,,,,,,,,,,,0,,,,,40–64,English,7842516
+2019-09-22 17:12:58,2019-09-22 17:14:46,IP Address,162.226.190.29,100,108,True,2019-09-22 17:14:47,R_27JZW8cHmasJ4XE,,,,,33.878204345703125,-117.956695556640625,anonymous,EN,,,,,,,,,,100,,,,,,,,,,100,,,100,,,,,,,,,,,,,,,,,,,,,83,,,,,,100,,,,,,,,,,44,,,,,,,,,,64,,,,,,,,,44,,,,,,,,,,,,38,,,,,,,,,,,,,,,0,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,English,8559726
+2019-09-22 17:14:11,2019-09-22 17:19:06,IP Address,73.2.182.75,100,295,True,2019-09-22 17:19:06,R_32QFumP9o0T3IVr,,,,,35.16400146484375,-89.78260040283203125,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,,,100,,,,,,,,,,88,,,,,,,,,,,,,,,18,,,,89,,,,,,,,,,85,,,,,,,,,,,,,31,,,,,,,,,,,,,,,,58,,,,,,,7,,,,,,,,,,,,,,,,,3,8,,,,,,,,,,,,,,,,,,3,,,,40–64,english,3432763
+2019-09-22 17:36:38,2019-09-22 17:37:45,IP Address,73.183.132.238,100,66,True,2019-09-22 17:37:46,R_3HFB0fgZVofL8wU,,,,,29.877197265625,-95.6938018798828125,anonymous,EN,,,,,,87,,,,,,,,,,,,,66,,,,,,,,,,,,,,61,88,,,,,,,,,,,,76,,,,,,,,,,,,24,,,,,,,,,,,,,,,,,,34,,,,,,,,,,25,,,,,,18,,,,,,,,,,,,,,0,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18–39,English,6029193
+2019-09-22 17:43:28,2019-09-22 17:47:00,IP Address,75.142.251.193,100,211,True,2019-09-22 17:47:01,R_1jPoTGWez1vuumt,,,,,39.5272064208984375,-119.91290283203125,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,90,,,,,,,71,,,,,,,,,,,,,90,,,,,,,,,,,,,,,65,,,,,,79,,,,,,,,,,,,,32,,,,,,,,,,,,,,,,,31,,,,,,,,,,88,,,,,,,,,,92,,,,,,,,,25,,,,,,,,,,,,,,,,0,40–64,English,4199682
+2019-09-22 17:48:00,2019-09-22 17:50:48,IP Address,98.110.227.185,100,167,True,2019-09-22 17:50:48,R_YPIZDl6ta1Sf7Pz,,,,,42.4683990478515625,-70.946502685546875,anonymous,EN,,,,,,100,,,,,,100,,,,,,,,,,,,,,,,,,,,,100,,,,,75,,,,,,,,,,,,,,50,,,,,,,,,,,,,25,,,,,,,,,,10,,,,10,,,,,,,,,,,,,10,,,,,,,,,,,,,,0,,,,,70,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40–64,English,1425118
+2019-09-22 18:14:38,2019-09-22 18:16:08,IP Address,73.133.196.123,100,90,True,2019-09-22 18:16:09,R_1IRbsAcL7BBtGbn,,,,,38.9635009765625,-76.96720123291015625,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,30,,,,,,,100,,,,,,,,,,,,,,60,,,83,,,,,,,,,,,,81,,,,,,,,,69,,,,,,,,,,,,,,24,,,,,,,,,,,,,,,8,,,,,,,,6,,,,,,,,,,,,,,,4,,,,,,,,16,,,,,,,,,,,,,,,,0,18–39,english,3396853
+2019-09-21 14:23:14,2019-09-21 14:24:53,IP Address,73.219.249.59,52,98,False,2019-09-22 19:26:23,R_0uKpRCfRAYpSuJz,,,,,,,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,,,6589150
+2019-09-21 22:33:21,2019-09-21 22:37:27,IP Address,70.179.150.173,71,246,False,2019-09-22 19:26:50,R_2tl0UNokIeguWhP,,,,,,,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,,,,,,,,100,,,,,,,,75,,,,,,,,,,,,,,,,,,,,,,,,,,,,75,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,28,,,,,,,,,,,,,,,86,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5294515
+2019-09-22 15:37:44,2019-09-22 15:48:29,IP Address,185.144.158.97,62,644,False,2019-09-22 19:26:50,R_3fYO405xbqogcmC,,,,,,,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,85,,,,,,,,,,,,,,,,,,,,,100,,,,,,,,,,,,,,,,,,,,,,,,,100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3574289
+2019-09-21 14:43:16,2019-09-21 14:43:23,IP Address,50.109.64.44,0,6,False,2019-09-22 19:30:41,R_1rH9l9BAX7jbmml,,,,,,,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6013560
+2019-09-21 15:37:55,2019-09-21 16:03:08,IP Address,73.6.12.92,99,1513,False,2019-09-22 19:30:41,R_zeY76aJimjOa1Xz,,,,,,,anonymous,EN,,,,,79,,,,,,,,,,,,,,98,,,,85,,,,,,,,,,,,,,,,,,,100,,,,,,,,,,,,,100,,100,,,,,,,,,,,,,,,82,,,,,,,,,,,,,,,77,,,,,100,,,,,,,,,,100,,,,,,,,,100,100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,877628
+2019-09-22 00:31:02,2019-09-22 00:31:30,IP Address,174.17.114.123,48,27,False,2019-09-22 19:30:42,R_0Jl0Hmk7TpOULcZ,,,,,,,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8029785
+2019-09-21 09:06:09,2019-09-21 09:06:24,IP Address,173.95.144.71,0,15,False,2019-09-22 19:36:43,R_3mfWHSagm7lannJ,,,,,,,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3203716
+2019-09-21 14:02:41,2019-09-21 14:03:23,IP Address,69.23.201.73,0,42,False,2019-09-22 19:36:43,R_1FvlXRJbHUQ5USl,,,,,,,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6354240
+2019-09-21 22:54:02,2019-09-21 22:54:47,IP Address,72.201.70.47,52,45,False,2019-09-22 19:36:45,R_2wQuFxQD9BJvkT0,,,,,,,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,,,,5816148
+2019-09-22 06:02:45,2019-09-22 06:11:59,IP Address,172.101.39.165,48,554,False,2019-09-22 19:36:45,R_1rpQguinnDzaY3Q,,,,,,,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6285272
+2019-09-21 18:00:06,2019-09-21 18:00:19,IP Address,67.84.243.252,0,13,False,2019-09-22 19:49:59,R_3nI8miDeu9GONKx,,,,,,,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5382590
