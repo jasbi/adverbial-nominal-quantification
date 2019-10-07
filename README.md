@@ -17,7 +17,41 @@
 
 ### De Swart
 
-TBA
+In her semantic treatment of Q-adverbs, de Swart develops a "temporal version of generalized quantifier theory" (de Swart 1993, p. 168) that is "as close as possible to the classical GQ-theory of determiners" (de Swart 1993, p. 201). To this end, she states:
+
+* "It seems quite natural to assume that [<i>always</i>] expresses the subset relation, just like the determiner <i>all</i>. In generall, I will base the truth-conditions of Q-adverbs on those of the corresponding determiners. Some examples are listed below:
+<br> ALWAYS ⟦toujours⟧ (A)(B) = 1 iff A ⊆ B</br>
+...</br>
+NEVER ⟦jamais⟧ (A)(B) = 1 iff A ∩ B = ∅</br>
+SOMETIMES ⟦quelquefois⟧ (A)(B) = 1 iff A ∩ B ≠ ∅</br>
+...</br>
+MOSTLY ⟦le plus souvent⟧ (A)(B) = 1 iff |A ∩ B| > |A - B|</br>
+OFTEN ⟦souvent⟧ (A)(B) = 1 iff</br> 
+|A ∩ B|</br>
+--------  > m/n</br>
+|A|</br>
+SELDOM ⟦rarement⟧ (A)(B) = 1 iff</br>
+|A ∩ B|</br>
+--------  < p/q</br>
+|A|"</br>
+(de Swart 1993, p. 185)
+
+* Compare with the truth-conditions of the respective corresponding determiners:
+<br> ALL(A,B) iff A ⊆ B</br>
+NO(A,B) iff A ∩ B = ∅</br>
+SOME(A,B) iff A ∩ B ≠ ∅</br>
+MOST(A,B) iff |A ∩ B| > |A - B|</br>
+MANY:</br>
+|A ∩ B|</br>
+--------  > m/n</br>
+|A|</br>
+FEW:</br>
+|A ∩ B|</br>
+--------  < p/q</br>
+|A|"</br>
+(de Swart 1993, pp. 147, 49)
+
+* NOTE: For determiners, the two arguments (A) and (B) represent sets of individuals, while the arguments of Q-adverbs represent sets of events, with (A) as “the set of events that constitutes the p-set of the proposition in which some phrase a is in focus” and (B) as the set of events denoted by the proposition as a whole. (de Swart 1993, pp. 183–4)
 
 ## Tokens for Inclusion
 
