@@ -18,61 +18,105 @@ library(VIM)
 ## Data Wrangling
 
 ```{r import_data}
-qualtrics_data <- read.csv("data/raw/Pilot-Quantifiers-data-trimmed.csv", na.strings = "")
+qualtrics_data <- read.csv("data/quantifiers_data_raw.csv", na.strings = "")
 
-N_dropout <-
-  qualtrics_data %>%
-  filter(Finished=="FALSE") %>%
-  nrow()
-
-N_participants <- 
-    qualtrics_data %>%
-  filter(Finished=="TRUE") %>%
-  nrow()
+#let's remove the previews and the ones we ran for testing ourselves
+qualtrics_data <- qualtrics_data[-1:-58,]
 ```
 
-Total of `r N_dropout + N_participants` took this survey. `r N_dropout` did not finish the survey and dropped out. The results for `r N_participants` are reported.
+```{r exclusions}
+# How many people dropped out of the experiment?
+N_dropout <-
+  qualtrics_data %>%
+  filter(Finished=="False") %>%
+  nrow()
+
+# How many people did not speak English?
+N_nonEnglish <-
+  qualtrics_data %>%
+  filter(Q239=="46" | Q239=="Italian" | Q239=="Spanish")
+
+# How man were under 18? (no one)
+N_under18 <-
+  qualtrics_data %>%
+  filter(Q238=="Under 18")
+
+# How many failed the attention checks?
+N_inattentive <-
+  qualtrics_data %>%
+  filter(Q240_1!=70 | Q246_1!=30)
+
+# How many people are included?
+included_data <- 
+  qualtrics_data %>%
+  filter(Finished=="True") %>%
+  filter(Q239!="46", Q239!="Italian", Q239!="Spanish") %>%
+  filter(Q238!="Under 18") %>%
+  filter(Q240_1==70 | Q246_1==30)
+
+# number of included participants
+N_participants <-
+  included_data %>%
+  nrow()
+
+# check to see if number of IP addresses match number of participants
+N_IPAddress <- included_data$IPAddress %>% unique() %>% length()
+```
+
+Total of `r nrow(qualtrics_data)` took this survey. `r N_dropout` did not finish the survey and dropped out. `r N_nonEnglish` reported their language as other than English. `r N_under18` participants were under 18. And `r N_inattentive` participants failed at least one of the attention checks. The results for `r N_participants` are reported.
 
 ```{r}
-tidy_data <-
-  qualtrics_data %>%
-  filter(Finished=="TRUE") %>%
-  mutate(sid=c(1:56)) %>%
-  select(-Finished) %>%
-  gather(quantifier, response, Every_day:Never) %>%
-  drop_na(response) %>%
-  mutate(condition = c(rep("nominal", 255), rep("temporal", 297))) %>%
-  mutate(response = as.numeric(response))
+# let's retrieve the question quantifier and context from the handcoded dataframe
+handTrimmed <- read.csv("data/handtrimmed-final-quantifiers.csv")
 
-write_csv(tidy_data, "data/processed/Pilot-Quantifiers-data-processed.csv")
+columnVariables <- 
+  handTrimmed %>%
+  select(-mTurkCode, -Age, -Language, -UserLanguage) %>%
+  mutate(sid=c(1:nrow(handTrimmed))) %>%
+  colnames()
+
+tidy_data <-
+  included_data %>%
+  mutate(sid=c(1:nrow(included_data))) %>% # add subject ID column
+  select(-StartDate, -EndDate, -Status, -IPAddress, -Progress, -Duration..in.seconds.,-Finished, -RecordedDate, -ResponseId, -RecipientFirstName, -RecipientLastName, -RecipientEmail, -ExternalReference, -LocationLatitude, -LocationLongitude, -DistributionChannel, -UserLanguage, -mTurkCode, -Q238, -Q239) # remove useless columns column
+
+names(tidy_data) <- columnVariables
+
+long_data <-
+  tidy_data %>%
+  gather(quantifier_context, response, Every_GroceryStore:Never_Biked) %>%
+  drop_na(response) %>%
+  separate(quantifier_context, c("quantifier", "context"), sep = "_")
+
+write.csv(long_data, "data/Quantifiers_processed_data.csv", row.names=FALSE)
 ```
 
 ## Plots
 
 ```{r QuantifierDistribution}
-tidy_data %>%
-  ggplot(aes(response)) +
+long_data %>%
+  ggplot(aes(as.numeric(response))) +
   geom_histogram() + 
   facet_wrap(.~quantifier) +
   theme_few()
 ```
 
 ```{r conditionDistribution}
-tidy_data %>%
-  ggplot(aes(response)) +
+long_data %>%
+  ggplot(aes(as.numeric(response))) +
   geom_histogram() + 
-  facet_wrap(.~condition) +
+  facet_wrap(.~context) +
   theme_few()
 ```
 
 
 ```{r boxplot}
-tidy_data$quantifier <- reorder(tidy_data$quantifier, tidy_data$response, mean)
+long_data$quantifier <- reorder(long_data$quantifier, long_data$response, mean)
 
-tidy_data %>%
-  ggplot(aes(quantifier, response, color=condition), fill=condition) +
+long_data %>%
+  ggplot(aes(quantifier, as.numeric(response))) +
   geom_boxplot() +
-  geom_jitter(size=1) +
+  geom_jitter(size=0.5) +
   theme_few() + 
   theme(axis.text.x = element_text(angle=45, hjust = 1, vjust = 1))
 ```
