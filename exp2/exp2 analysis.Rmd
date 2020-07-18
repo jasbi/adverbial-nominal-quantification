@@ -1,0 +1,143 @@
+---
+title: "Data Wrangling and Analysis of Experiment 2 Results"
+author: "Masoud Jasbi"
+date: "7/8/2019"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE)
+```
+
+```{r libraries, include=FALSE}
+library(tidyverse)
+library(ggthemes)
+library(VIM)
+```
+
+# Data Wrangling
+
+```{r import_data}
+exp2_rawdata <- read.csv("raw_data/quantifiers_exp2.csv", na.strings = "")
+```
+
+Take care of exclusions due to dropout and failing the attention checks.
+
+```{r exclusions}
+# remove extra rows on top
+exp2_cleandata <-
+  exp2_rawdata %>%
+  filter(X!=1, X!=2, Status!="Survey Preview")
+
+# number of people that dropped out mid experiment
+N_dropout <-
+  exp2_cleandata %>%
+  filter(Finished=="False") %>%
+  nrow()
+
+# number of participants that finished the survey
+N_participants <- 
+  exp2_cleandata %>%
+  filter(Finished=="True") %>%
+  nrow()
+
+exp2_cleandata <-
+  exp2_cleandata %>%
+  filter(Finished=="True", UserLanguage=="EN") %>%
+  select(-X:-RecordedDate, -RecipientLastName:-example_4, -Q239...Parent.Topics:-Q239...Topics)
+
+# number of people that failed the attention checks
+N_attncheck_fail <-
+  exp2_cleandata %>%
+  filter(Attention.check.1_1!=70) %>%
+  nrow()
+```
+
+Total of `r N_dropout + N_participants` took this survey. `r N_dropout` did not finish the survey and dropped out. The results for `r N_participants` are reported.
+
+Tidy up the data set and transform it from wide format to long format.
+
+```{r tidyup}
+exp2_data <-
+  exp2_cleandata %>%
+  filter(Attention.check.1_1==70) %>% #remove those who failed attention checks
+  select(-Attention.check.1_1, -Attention.check.2_1) %>% #remove attention check questions
+  gather(quantifier_context_1, response, Every_Grocery_1:Never_Biked_1) %>% # make it long format
+  separate(quantifier_context_1, c("quantifier", "context", "one"), sep = "_", remove=TRUE) %>%
+  select(-one) %>%
+  filter(response!="NA") %>%
+  mutate(response=as.numeric(response))
+```
+
+Add the condition information
+
+```{r conditions}
+adverbs <- c("Never", "Rarely","Seldom", "Infreq", "Occ","Sometimes","Often","Freq","Usually","Mostly", "Always")
+
+exp2_data$category <- "nominal"
+exp2_data[exp2_data$quantifier %in% adverbs,]$category <- "adverbial"
+```
+
+Store the tidy dataframe
+
+```{r savefile}
+write_csv(exp2_data, "processed_data/exp2_data.csv")
+```
+
+Number of participants in each condition/quantifier:
+
+```{r participantsConditions}
+exp2_data %>%
+  group_by(quantifier) %>%
+  summarize(number = length(unique(ResponseId)))
+```
+
+# Plots
+
+```{r}
+exp2_data$quantifier <- reorder(exp2_data$quantifier, exp2_data$response, mean)
+
+exp2_data %>%
+  ggplot(aes(quantifier, response)) +
+  geom_boxplot(outlier.shape=NA) +
+  geom_point(size=0.1) +
+  geom_jitter(size=0.1) +
+  stat_summary(fun.y=median, geom="point", shape=20, size=4, color="red", fill="red") +
+  theme_classic() + 
+  theme(axis.text.x = element_text(size= 16, angle=45, hjust = 1, vjust = 1)) + xlab("") + ylab("")
+```
+
+## Hierarchical Cluster Analysis
+
+We have 4 more participants per quantifier in the nominal condition. We randomly remove 4 to make both conditions mathc in number of responses for the hierarchical clustering analysis
+
+```{r}
+exp2_analysisdata <-
+  exp2_data %>%
+  select(-context, category) %>%
+  spread(quantifier, response) 
+
+exp2_analysisdata <- exp2_analysisdata[-sample(which(exp2_analysisdata$category=="nominal"), 4),]
+```
+
+Now we can transpose the matrix (the hclust function requires the variables to be rows!) and then run the hierarchical cluster analysis
+
+```{r}
+cluster_data <-
+  exp2_analysisdata %>%
+  select(-ResponseId, -category)
+
+hclust_data <- as.data.frame(lapply(cluster_data, na.omit))
+
+hclust_data_t <- data.frame(t(hclust_data))
+colnames(hclust_data_t) <- hclust_data_t[, 1]
+
+# Hierarchical clustering using Complete Linkage
+hc1 <- hclust(
+  dist(hclust_data_t, method = "manhattan"), 
+  method = "complete")
+
+# Plot the obtained dendrogram
+plot(hc1, cex = 1, hang = 0.5, main= "Hierarchical Cluster Analysis", xlab="Quantifier Clusters", sub="")
+```
+
